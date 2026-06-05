@@ -1,0 +1,273 @@
+\documentclass[11pt,a4paper]{article}
+\usepackage[margin=2.5cm]{geometry}
+\usepackage{booktabs}
+\usepackage{xcolor}
+\usepackage{hyperref}
+\usepackage{enumitem}
+\usepackage{titlesec}
+\usepackage{fancyhdr}
+\usepackage{microtype}
+\usepackage{parskip}
+\usepackage{fontspec}
+\usepackage{polyglossia}
+
+\setmainlanguage{english}
+\setotherlanguage{hebrew}
+\newfontfamily\hebrewfont{DejaVu Sans}[Script=Hebrew]
+
+\hypersetup{colorlinks=true, linkcolor=blue, urlcolor=blue}
+
+\pagestyle{fancy}
+\fancyhf{}
+\rhead{Knesset Protocol Journal Project}
+\lhead{Data \& Preprocessing Report}
+\rfoot{Page \thepage}
+\lfoot{Tomer Morad, Or Israeli, Yoel Marko --- June 2026}
+
+\titleformat{\section}{\large\bfseries}{}{0em}{}[\titlerule]
+\titleformat{\subsection}{\normalsize\bfseries}{}{0em}{}
+
+\begin{document}
+
+\begin{center}
+  {\LARGE \textbf{Knesset Protocol Journal Project}}\\[0.4em]
+  {\large Data Overview \& Preprocessing Report}\\[0.6em]
+  {\normalsize Tomer Morad \quad Or Israeli \quad Yoel Marko}\\
+  {\normalsize June 2026}
+\end{center}
+
+\vspace{1em}
+
+% -----------------------------------------------------------------------
+\section{Dataset Overview}
+
+The raw dataset consists of \textbf{213 JSON files}, each representing a single Israeli
+Knesset (25th) Finance Committee
+(\texthebrew{ועדת הכספים}) meeting. Files follow the naming
+convention \texttt{25\_ptv\_<doc\_id>.json}.
+
+\subsection*{Per-file Schema}
+
+\begin{center}
+\begin{tabular}{lll}
+\toprule
+\textbf{Field} & \textbf{Type} & \textbf{Description} \\
+\midrule
+\texttt{knesset\_num} & int & Knesset session number (25) \\
+\texttt{committee}    & string & Committee name (Hebrew) \\
+\texttt{doc\_id}      & string & Unique protocol identifier \\
+\texttt{date}         & ISO 8601 & Meeting date and time \\
+\texttt{source\_file} & URL & Source document on Knesset website \\
+\texttt{text}         & string & Full meeting transcript (Hebrew) \\
+\bottomrule
+\end{tabular}
+\end{center}
+
+\textbf{Language:} All transcript text is in Hebrew.
+\textbf{Date range:} November 2022 -- June 2023.
+
+% -----------------------------------------------------------------------
+\section{Topic Header Extraction}
+
+\subsection*{Primary Marker: \texttt{<{}< נושא >{}>}}
+
+The vast majority of protocols embed topic headers using the pattern:
+
+\begin{center}
+\texttt{<{}< נושא >{}>} \emph{topic text} \texttt{<{}< נושא >{}>}
+\end{center}
+
+Each topic appears twice per file (once in the agenda block, once as a section header
+in the transcript body). We extract unique spans, deduplicate within file, and strip
+leading list numbering (e.g.\ \texttt{1. }, \texttt{2. }) from multi-topic agendas.
+
+\subsection*{Fallback 1: \texttt{<{}< הצח >{}>} (Budget Law Variant)}
+
+Four protocols use an alternate marker \texttt{<{}< הצח >{}>} instead of
+\texttt{<{}< נושא >{}>}. These are sessions dedicated to the 2023--2024 State Budget Law,
+which uses a different typographical convention in the official documents.
+We apply identical extraction logic to this marker.
+
+\subsection*{Fallback 2: \texthebrew{סדר היום} Agenda Block}
+
+Four protocols carry no inline markers at all. For these, we extract the topic from the
+\texthebrew{סדר היום} (``agenda'') block at the top of every transcript,
+delimited between the meeting header and the \texthebrew{נכחו} (``attendees'') section.
+
+\subsection*{Extraction Results}
+
+\begin{center}
+\begin{tabular}{lrr}
+\toprule
+\textbf{Method} & \textbf{Files} & \textbf{\%} \\
+\midrule
+\texttt{<{}< נושא >{}>} marker & 205 & 96.2\% \\
+\texttt{<{}< הצח >{}>} marker  & 4   & 1.9\%  \\
+\texthebrew{סדר היום} fallback & 4   & 1.9\%  \\
+No topic found                 & 0   & 0.0\%  \\
+\midrule
+\textbf{Total}                 & \textbf{213} & \textbf{100\%} \\
+\bottomrule
+\end{tabular}
+\end{center}
+
+\textbf{All 213 protocols were successfully assigned at least one topic.}
+
+% -----------------------------------------------------------------------
+\section{Topic Canonicalization}
+
+\subsection*{Raw vs.\ Canonical}
+
+Raw extraction yielded \textbf{180 unique topic strings} across all 213 files.
+Many are near-duplicates caused by:
+
+\begin{itemize}[noitemsep]
+  \item Typographical errors
+    (\texthebrew{מיסים} vs.\ \texthebrew{מסים};
+     \texthebrew{סגירה} vs.\ \texthebrew{סגירת};
+     \texthebrew{להתקשרות} vs.\ \texthebrew{להתקשורת})
+  \item Punctuation/dash variants (em-dash vs.\ regular hyphen)
+  \item Bill number formatting
+    (\texttt{(מ/1577)} vs.\ \texttt{, מ/1577} vs.\ \texttt{---2022, מ/1577})
+  \item Missing \texthebrew{הצעת} prefix on otherwise identical strings
+  \item Quote mark and whitespace variants
+    (\texthebrew{על ידי} vs.\ \texthebrew{על-ידי})
+\end{itemize}
+
+\subsection*{Fuzzy Clustering Algorithm}
+
+We applied fuzzy string matching (\texttt{rapidfuzz} token ratio, threshold = 88/100)
+to cluster near-duplicates and assign a canonical representative per cluster
+(the longest string in each cluster --- typically the most complete form).
+
+The algorithm identified \textbf{23 non-trivial clusters}. After canonicalization,
+the vocabulary reduced from 180 raw strings to \textbf{151 canonical topics}.
+
+\subsection*{Manual Corrections}
+
+At threshold 88, fuzzy matching produced \textbf{14 false-positive merges} --- cases where
+two genuinely distinct topics scored above the similarity threshold due to shared legal
+boilerplate phrasing. These were manually identified and corrected:
+
+\begin{center}
+\begin{tabular}{p{8cm}p{5cm}}
+\toprule
+\textbf{Incorrectly merged pair} & \textbf{Reason for split} \\
+\midrule
+Budget amendments 2022 \& 2023 & Different fiscal years \\
+State Budget Law 2023 \& 2024 & Different fiscal years \\
+Chapter \texthebrew{א'} (Preamble) \& Chapter \texthebrew{י'} \& Chapter \texthebrew{י"א} (Commencement) of the Economic Efficiency Law & Different chapters of same law \\
+Chapter \texthebrew{א'} \& Chapter \texthebrew{כ"ו} of the Economic Plan Law & Different chapters of same law \\
+\texthebrew{צו נכי המלחמה בנאצים} \& \texthebrew{צו נכי רדיפות הנאצים} & Different beneficiary populations \\
+Tax ordinance amendment \#22 \& temporary order \#5 & Different legislative instruments \\
+Ministers' salaries \& President's salary & Different officeholders \\
+Public institution approval lists 2022 \& 2023 (section 61) & Different annual lists \\
+Public institution approval lists 2022 \& 2023 (section 46) & Different annual lists \\
+\texthebrew{פרק ט'} ``except section 36'' \& ``only section 36'' & Opposite inclusion scope \\
+Temporary committee chair election \& standing committee chair election & Different committees \\
+\bottomrule
+\end{tabular}
+\end{center}
+
+% -----------------------------------------------------------------------
+\section{Final Statistics}
+
+\subsection*{Topic Vocabulary Summary}
+
+\begin{center}
+\begin{tabular}{lr}
+\toprule
+\textbf{Metric} & \textbf{Value} \\
+\midrule
+Total protocols & 213 \\
+Raw unique topic strings & 180 \\
+Genuine typo clusters merged & 23 \\
+False-positive merges corrected & 14 \\
+\textbf{Final canonical topics} & \textbf{151} \\
+\midrule
+Single-topic protocols & 191 \quad (89.7\%) \\
+Multi-topic protocols & 22 \quad (10.3\%) \\
+\bottomrule
+\end{tabular}
+\end{center}
+
+\subsection*{Topic Frequency Distribution}
+
+\begin{center}
+\begin{tabular}{rrl}
+\toprule
+\textbf{Protocols} & \textbf{Topics} & \textbf{Share of topics} \\
+\midrule
+1  & 121 & 80.1\% \\
+2  & 15  & 9.9\%  \\
+3  & 4   & 2.6\%  \\
+4  & 3   & 2.0\%  \\
+6  & 2   & 1.3\%  \\
+7  & 2   & 1.3\%  \\
+9  & 1   & 0.7\%  \\
+11 & 1   & 0.7\%  \\
+12 & 1   & 0.7\%  \\
+15 & 1   & 0.7\%  \\
+\midrule
+\textbf{Total} & \textbf{151} & \\
+\bottomrule
+\end{tabular}
+\end{center}
+
+\textbf{80\% of topics appear in only one protocol} (one-off discussions).
+The remaining \textbf{30 recurring topics} (2+ protocols) are the core challenge
+for streaming subject linking.
+
+\subsection*{Most Recurring Topics}
+
+\begin{center}
+\begin{tabular}{rl}
+\toprule
+\textbf{\#} & \textbf{Topic} \\
+\midrule
+15 & \texthebrew{פרק ד' (מיסוי בשוק הדיור) --- חוק ההתייעלות הכלכלית} \\
+12 & \texthebrew{שינויים בתקציב לשנת 2023} \\
+11 & \texthebrew{פרק ט' (מיסים) --- חוק ההתייעלות הכלכלית} \\
+9  & \texthebrew{פרק כ' (רשויות מקומיות, סעיפים 78--79) --- חוק ההתייעלות הכלכלית} \\
+7  & \texthebrew{שינויים בתקציב לשנת 2022} \\
+7  & \texthebrew{הצעת חוק התקציב לשנת הכספים 2023, מ/1610} \\
+6  & \texthebrew{פרק כ' (רשויות מקומיות, סעיף 79)} \\
+6  & \texthebrew{הצעת חוק לעידוד תעשייה עתירת ידע, מ/1577} \\
+\bottomrule
+\end{tabular}
+\end{center}
+
+% -----------------------------------------------------------------------
+\section{Implications for Downstream Tasks}
+
+\begin{itemize}
+  \item \textbf{Topic \& segment extraction:} The \texttt{<{}< נושא >{}>} markers provide
+    near-perfect segment boundary annotations in 96\% of protocols. These serve as
+    silver labels and a strong rule-based baseline. The 4 marker-free files require
+    model-based segmentation and are natural test cases.
+
+  \item \textbf{Streaming subject linking evaluation:} Single-occurrence topics are
+    trivially classified as ``new''. Evaluation signal comes entirely from the
+    \textbf{30 recurring topics}. We recommend sampling the held-out evaluation set
+    exclusively from these, ensuring coverage of both the high-frequency
+    (budget law chapters) and low-frequency (2--4 occurrences) recurring cases.
+
+  \item \textbf{Multi-topic protocols (22 files):} These sessions cover 2--3 distinct
+    legislative matters. Correct segmentation is a strict prerequisite before linking ---
+    conflating multiple topics into one embedding degrades recall on the linking task.
+\end{itemize}
+
+% -----------------------------------------------------------------------
+\vspace{2em}
+\hrule
+\vspace{0.5em}
+{\small
+\textbf{Output files:}
+\texttt{outputs/topics\_raw.json},
+\texttt{outputs/topics\_canonical.json},
+\texttt{outputs/topics\_clusters.json},
+\texttt{outputs/topics\_corrections.json}.
+\textbf{Code:} \texttt{src/preprocess\_topics.py}
+}
+
+\end{document}

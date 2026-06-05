@@ -1,0 +1,86 @@
+{
+  "e5": {
+    "clustering": {
+      "agglomerative": {
+        "ARI": 0.1361,
+        "NMI": 0.6366,
+        "V": 0.6366,
+        "homogeneity": 0.5644,
+        "completeness": 0.7301
+      },
+      "kmeans": {
+        "ARI": 0.3218,
+        "NMI": 0.7697,
+        "V": 0.7697,
+        "homogeneity": 0.7554,
+        "completeness": 0.7845
+      }
+    },
+    "auc_same_topic": 0.7438,
+    "mean_sim_same": 0.9634,
+    "mean_sim_diff": 0.9451
+  },
+  "mpnet": {
+    "clustering": {
+      "agglomerative": {
+        "ARI": 0.2207,
+        "NMI": 0.6898,
+        "V": 0.6898,
+        "homogeneity": 0.6422,
+        "completeness": 0.745
+      },
+      "kmeans": {
+        "ARI": 0.1687,
+        "NMI": 0.6842,
+        "V": 0.6842,
+        "homogeneity": 0.6873,
+        "completeness": 0.6811
+      }
+    },
+    "auc_same_topic": 0.7395,
+    "mean_sim_same": 0.8854,
+    "mean_sim_diff": 0.8195
+  },
+  "alephbert": {
+    "clustering": {
+      "agglomerative": {
+        "ARI": 0.1126,
+        "NMI": 0.6038,
+        "V": 0.6038,
+        "homogeneity": 0.5357,
+        "completeness": 0.6918
+      },
+      "kmeans": {
+        "ARI": 0.224,
+        "NMI": 0.6871,
+        "V": 0.6871,
+        "homogeneity": 0.6705,
+        "completeness": 0.7045
+      }
+    },
+    "auc_same_topic": 0.632,
+    "mean_sim_same": 0.9764,
+    "mean_sim_diff": 0.9692
+  },
+  "tfidf": {
+    "clustering": {
+      "agglomerative": {
+        "ARI": 0.249,
+        "NMI": 0.7298,
+        "V": 0.7298,
+        "homogeneity": 0.6972,
+        "completeness": 0.7657
+      },
+      "kmeans": {
+        "ARI": 0.3765,
+        "NMI": 0.8003,
+        "V": 0.8003,
+        "homogeneity": 0.8126,
+        "completeness": 0.7883
+      }
+    },
+    "auc_same_topic": 0.7405,
+    "mean_sim_same": 0.1604,
+    "mean_sim_diff": 0.0917
+  }
+}
