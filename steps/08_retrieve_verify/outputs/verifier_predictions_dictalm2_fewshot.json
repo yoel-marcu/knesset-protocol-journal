@@ -1,0 +1,2710 @@
+[
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 75
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\"best_match\": {\n    \"score\": 90,\n    \"text\": \"<segment>היו\"ר משה גפני: בוקר טוב. אני מתכבד לפתוח את ישיבת ועדת הכספים. אני רוצה לדבר על נושא המשכנתאות כי אני רואה שזה צובר תאוצה",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\"best_match\": {\n    \"rank\": 1,\n    \"score\": 90,\n    \"candidate\": \"[1]\",\n    \"verdict\": \"high\"\n},\n{\n    \"rank\": 2,\n    \"score\": 10,\n    \"candidate\": \"[2]\",\n    \"verdict\": \"low\"",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\"best_match\": {\n    \"score\": 10,\n    \"text\": \"[1] (date 2022-12-05, committee ועדת_הכספים): <segment>היו\\\"ר משה גפני: בוקר טוב. אני מתכבד לפתוח את ישיבת ועדת הכספים",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"best_match\": {\n    \"rank\": 1,\n    \"score\": 90,\n    \"text\": \"היו\"ר משה גפני: בקשה מס' 42-005: מענקי בינוי ושיכון – מענקים לסבסוד ריבית. יפתח עשהאל: מדובר על",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\"best_match_score\": 10, \"category\": \"similar\", \"text\": \"היו\"ר משה גפני: בוקר טוב, אני מתכבד לפתוח את ישיבת ועדת הכספים. אני רוצה לדבר על נושא המשכנתאות כי אני רואה שזה צובר תאוצה.",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\"best_match\": {\n    \"rank\": 1,\n    \"score\": 0.99,\n    \"text\": \"[1] (date 2022-12-06, committee ועדת_הכספים): <segment>היו\"ר משה גפני: הפנייה אושרה. פנייה מס'",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\"best_match\": {\n    \"rank\": 1,\n    \"score\": 90,\n    \"text\": \"<segment>היו\"ר משה גפני: הפנייה אושרה. רבותי, אני חוזר לרשות הדואר. סיכמנו אתמול שתעבירו תשובות לכל השאלות שעלו בדי",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"category\": \"retrieval\",\n  \"answer\": {\n    \"text\": \"1\",\n    \"similarity\": [\n      {\n        \"score\": 0.8,\n        \"text\": \"177\",\n        \"type\": \"prior_entry\"\n      },\n      {\n        \"score\": 0",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\"best_match\": {\n  \"rank\": 1,\n  \"score\": 0.99,\n  \"text\": \"[1] (date 2022-11-28, committee ועדת_הכספים): <segment>\nהיו\"ר משה גפני: בוקר טוב, אני מתכבד ל",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\"best_match\": {\n    \"rank\": 1,\n    \"similarity\": 0.9999999999999999,\n    \"text\": \"[1], [2], [3], [4], [5], [6], [7], [8], [9], [10]\"\n}}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"best_match\": {\n    \"rank\": 1,\n    \"score\": 0.99,\n    \"text\": \"[1] (date 2022-12-06, committee ועדת_הכספים): <segment> היו\"ר משה גפני: הפנייה אושרה. פנייה",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\"best_match\": {\n  \"rank\": 1,\n  \"score\": 0.99,\n  \"text\": \"[1] (date 2022-12-06, committee ועדת_הכספים):\n<segment>\nהיו\"ר משה גפני: הפנייה אושרה. פנייה",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"best_match\": {\n    \"rank\": 1,\n    \"score\": 90,\n    \"text\": \"[1] (date 2022-12-12, committee ועדת_הכספים): <segment>היו\"ר משה גפני: אני מתכבד לפתוח את ישי",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": null,
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\"best_match\": {\n    \"rank\": 1,\n    \"similarity\": 10,\n    \"text\": \"דרך אגב, את ההלוואות לעובדי מדינה אפשר היה להביא פה, אבל לא רק.\"\n}\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"best_match\": {\n    \"rank\": 1,\n    \"score\": 90,\n    \"text\": \"תמר צ'ין: הפנייה התקציבית נועדה להעברת עודפים משנת התקציב 2021 לשימוש ב-22' בסך 111,948 אלפי �",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\"best_match\": {\n  \"date\": \"2022-12-13\",\n  \"committee\": \"ועדת_הכספים\",\n  \"prior_entries\": [\"2022-11-29\", \"2022-12-06\", \"2022-12-0",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\"best_match\": {\n    \"rank\": 1,\n    \"similarity\": 0.9999999999999999,\n    \"text\": \"היו\"ר משה גפני: משרד התיירות. נעם שרלו בריגה: הבקשה התקציבית נועדה להעביר עוד",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"category\": \"retrieval\",\n  \"answer\": {\n    \"ranked_candidates\": [\n      {\n        \"score\": 0.99,\n        \"text\": \"[1] (date 2022-12-06, committee ועדת_הכספים): <segment>היו\"ר",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"candidate_prior_journal_entries\": [\n    {\n      \"date\": \"2022-12-06\",\n      \"committee\": \"ועדת_הכספים\",\n      \"text\": \"היו\\\"ר משה גפני: הפנייה אושרה. פנייה מס\\' 17",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"retrieval_similarity\": {\n    \"ranked_entries\": [\n      {\n        \"entry\": \"[1]\",\n        \"score\": 0.99\n      },\n      {\n        \"entry\": \"[2]\",\n        \"score\": 0.98\n      },\n      {\n        \"ent",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\"best_match\": {\n    \"rank\": 1,\n    \"score\": 0.99,\n    \"text\": \"[1], [2], [3], [4], [5], [6], [7], [8], [9], [10]\"\n},\n{\n    \"rank\": 2,\n    \"score\": ",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\"best_match\": {\n    \"rank\": 1,\n    \"similarity\": 0.9999999999999999,\n    \"text\": \"היו\"ר משה גפני: תודה רבה. רבותיי, אנחנו עוברים להעברות תקציביות. נדון",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\"best_match\": {\n  \"rank\": 1,\n  \"score\": 0.99,\n  \"text\": \"היו\"ר משה גפני: משרד האנרגיה. עידו מור: פנייה 177 נועדה לתקצב 559 מיליון שקלים בהרשאה להתחייב ו",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\"best_match\": {\n    \"rank\": 1,\n    \"similarity\": 0.9999999999999999,\n    \"text\": \"היו\"ר משה גפני: המשרד להגנת הסביבה, קרן לשמירת הניקיון. יובל פרי",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\"best_match\": {\n    \"score\": 10,\n    \"text\": \"היו\"ר משה גפני: מי בעד אישור הפנייה - ירים את ידו. מי נגד? מי נמנע? הצבעה בעד - רוב גדול אושר.\"\n}}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"best_match\": {\n    \"rank\": 1,\n    \"score\": 0.99,\n    \"text\": \"[1] (date 2022-12-06, committee ועדת_הכספים): <segment>היו\"ר משה גפני: הפנייה אושרה. פני",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"ranked_by_similarity\": [\n      {\n        \"text\": \"[1]\",\n        \"score\": 0.9999999999999999\n      },\n      {\n        \"text\": \"[2]\",\n        \"score\": 0.99",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\"best_match\": {\n    \"rank\": 1,\n    \"score\": 90,\n    \"text\": \"אני אתן לך.\"\n},\n{\n    \"rank\": 2,\n    \"score\": 10,\n    \"text\": \"בסדר. אני אתן לך.\"\n}]",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\"best_match\": {\n    \"score\": 10,\n    \"text\": \"פניות מס' 264–268: משרד החינוך. משה שגיא, אני לא הולך לקיים דיון על העניין הזה. זאת פנייה גדולה, גם לא נספיק עכשיו, אבל אם אתה יכול",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"best_match\": {\n    \"rank\": 1,\n    \"score\": 90,\n    \"text\": \"היו\"ר משה גפני: 19019, תרבות וספורט, מתקני ספורט. איזה משרד זה?\"\n  },\n  \"similarities\": [\n    {",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\"best_match\": {\n  \"rank\": 1,\n  \"score\": 0.99,\n  \"text\": \"[1] (date 2022-12-26, committee ועדת_הכספים):\n<segment>\nהיו\"ר משה גפני: אני פותח את ישיבת וע",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\"best_match\": {\n    \"rank\": 1,\n    \"score\": 90,\n    \"text\": \"היו\"ר משה גפני: אני מחדש את הישיבה ועובר לסעיף הבא שעל סדר היום, תקצוב גני הילדים בחינוך המיוחד במוסדות המו",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"pairs\": [\n    {\n      \"similarity\": 0.9,\n      \"text\": \"היו\"ר משה גפני: פנייה 23-017 – משרד הרווחה. תאיר ראבוחין: הפנייה התקציבית נועדה להעברת עודפים משנת התקציב ",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 10
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"ranked_candidates\": [\n    {\n      \"similarity\": 0.9,\n      \"entry\": \"296-298 - המשרד להגנת הסביבה\",\n      \"text\": \"<segment><p>היו&quot;ר משה גפני: פניות מס&#39; ",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"pairs\": [\n    {\n      \"similarity\": 0.9,\n      \"text\": \"היו\"ר משה גפני: פנייה מס' 363 – רשויות מקומיות. ידידיה גרינוולד: הפנייה הזאת נועדה לתקצב סך של 100",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"retrieval_similarity\": {\n    \"ranked_by_retrieval_similarity\": [\n      {\n        \"text\": \"[1]\",\n        \"score\": 0.99\n      },\n      {\n        \"text\": \"[2]\",\n        \"score\": 0.99\n      },\n     ",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"prior_entries\": [\n    {\n      \"similarity\": 0.9\n    },\n    {\n      \"similarity\": 0.8\n    },\n    {\n      \"similarity\": 0.7\n    },\n    {\n      \"similarity\": 0.6\n    },\n   ",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"ranked_candidates\": [\n      {\n        \"similarity\": 0.9999999999999999,\n        \"text\": \"<segment>היו\\\"ר משה גפני: פנייה מס\\' 362 - משרד השיכון",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": null,
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"best_match\": {\n    \"rank\": 1,\n    \"similarity\": 10,\n    \"priorities\": [\"new_segment\", \"same_presenter\"],\n    \"verdict\": \"yes\"\n  },\n  \"other_matches\": [{\n    \"rank\": 2,\n    \"similarity",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\"best_match_rank\": 1, \"correct_answer\": {\"best_matched_prior_verdict\": {\"ranked_by_retrieval_similarity\": [{\"text\": \"[1]\", \"score\": 0.9}, {\"text\": \"[2]\", \"score\": 0.8}, {\"text\": \"[3]\", \"score\": 0",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\"best_match\": {\n  \"rank\": 1,\n  \"similarity\": 10,\n  \"text\": \"היו\"ר משה גפני: צהריים טובים. אני מתכבד לפתוח את ישיבת ועדת הכספים. אנחנו מתחילים בהצעת תקציב משרד מבקר המדי",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": null,
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": null,
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\"best_match\": {\n  \"rank\": 1,\n  \"similarity\": 0.9999999999999999,\n  \"text\": \"היו\"ר משה גפני: בוקר טוב, אני מתכבד לפתוח את ישיבת ועדת הכספים. אנחנו",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\"best_match\": {\n    \"rank\": 1,\n    \"similarity\": 0.9999999999999999,\n    \"text\": \"היו\"ר משה גפני: 54053. לא אישרנו את זה, רשויות פיקוח רשות הג",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"best_match\": {\n    \"rank\": 1,\n    \"score\": 90,\n    \"text\": \"מוחמד חלאילה: הפנייה נועדה להעברת עודפים משנת 2021 לשנת 2022 בסך של 39,880,000 ��",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"retrieval_similarity\": {\n    \"ranked_entries\": [\n      {\n        \"entry\": \"[1]\",\n        \"score\": 0.99\n      },\n      {\n        \"entry\": \"[2]\",\n        \"score\": 0.98\n      },\n      {\n        \"ent",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"best_match\": {\n    \"rank\": 1,\n    \"similarity\": 0.9999999999999999,\n    \"text\": \"היו\\\"ר משה גפני: בקשה 13026, הוצאות שונות, תשלומים באמצעות",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"new_segment\": {\n    \"text\": \"\",\n    \"candidate_priorities\": []\n  },\n  \"verdict\": {\n    \"similarity_scores\": {},\n    \"priority_score\": {}\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\"best_match\": {\n    \"rank\": 1,\n    \"score\": 90,\n    \"candidate\": \"2022-12-28\",\n    \"prior_entries\": [\"2022-12-13\", \"2022-12-13\", \"2022-1",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\"best_match\": {\n    \"score\": 10,\n    \"text\": \"[1] (date 2022-12-13, committee ועדת_הכספים): <segment>היו\"ר משה גפני: אושר. פניות 271, 272 משרד הביטחון, אם",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"ranked_retrieval_similarity\": {\n    \"1\": 0.83,\n    \"2\": 0.83,\n    \"3\": 0.83,\n    \"4\": 0.83,\n    \"5\": 0.83,\n    \"6\": 0.8",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\"best_match\": {\n    \"rank\": 1,\n    \"score\": 90,\n    \"text\": \"היו\"ר משה גפני: למען האמת לא הבנתי את ההתייעצות הסיעתית הזאת, רק דברים שעלו לי בראש.\"\n}}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n    \"retrieval_similarity\": {\n        \"ranked_entries\": [\n            {\n                \"entry\": {\n                    \"date\": \"2022-12-06\",\n                    \"committee\": \"ועדת_הכספים\",\n         ",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"ranked_similarities\": [\n      {\n        \"score\": 0.8,\n        \"candidate\": \"3\",\n        \"prior_entry\": \"7\"\n      },\n      {\n        \"score\": 0.79,\n        \"candidate\": \"1\",\n     ",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\"best_match\": {\n  \"date\": \"2023-01-04\",\n  \"committee\": \"ועדת_הכספים\",\n  \"text\": \"רבותיי, אנחנו עוברים לעניין עצמו: בקשה לאישור השקעת המדינה בחברת נצר השרון בע\\\"מ,",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"retrieval_similarity\": {\n    \"ranked_entries\": [\n      {\n        \"entry\": \"[1]\",\n        \"score\": 0.8\n      },\n      {\n        \"entry\": \"[2]\",\n        \"score\": 0.7\n      },\n      {\n        \"entry",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\"best_match\": {\n    \"rank\": 1,\n    \"score\": 0.99,\n    \"text\": \"[1] (date 2022-12-13, committee ועדת_הכספים):\n<segment>\nהיו\"ר משה גפני: בוקר טוב. אני מתכבד",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\"best_match\": {\n    \"score\": 90,\n    \"text\": \"יואב הכט: הפנייה נועדה להעברת עודפים משנת 2021 מתוך מסגרת התקציב המיועדת להתמודדות עם נגיף הקורונה, מדובר ב-85,485,000 ₪",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\"best_match\": {\n    \"rank\": 1,\n    \"score\": 90,\n    \"text\": \"<segment>היו\"ר משה גפני: 19019, תרבות וספורט, מתקני ספורט. איזה משרד זה? יואב הכט: משרד התרבות והספורט. ב",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\"best_match\": {\n  \"rank\": 1,\n  \"score\": 0.99,\n  \"text\": \"[1] (date 2022-12-28, committee ועדת_הכספים):\n<segment>\nהיו\"ר משה גפני: בוקר טוב. אני מתכבד",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\"best_match_rank\": 1, \"score\": 90, \"similarity\": 10, \"text\": \"<segment>היו\\\"ר משה גפני: בוקר טוב. אני מתכבד לפתוח את ישיבת ועדת הכספים. בסעיף הזה אנחנו עוסקים בגל הפיטורים הנרחב",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"ranked_priorities\": [\n    {\n      \"similarity\": 0.9,\n      \"text\": \"[1] (date 2022-12-05, committee ועדת_הכספים): <segment>היו\\\"ר משה גפני: בוקר טוב. אני מתכבד",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\"best_match\": {\n  \"rank\": 1,\n  \"similarity\": 0.9999999999999999,\n  \"text\": \"[1] (date 2023-01-10, committee ועדת_הכספים):\n<segment>\nעאידה",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\"best_match\": {\n    \"rank\": 1,\n    \"score\": 90,\n    \"text\": \"[1] (date 2023-01-10, committee ועדת_הכספים): <segment>\nתודה. אדם בלומנברג, ההסתדרות החדשה, בבקשה. אדם",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\"best_match_rank\": 1, \"score\": 90, \"text\": \"<segment>\nהיו\"ר משה גפני: בוקר טוב. אני מתכבד לפתוח את ישיבת ועדת הכספים. אתמול שמעתי, כמו אחרים, על סגירת מפעל טכנולוגיית להבים.",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"new_segment\": {\n    \"ranked_by_retrieval_similarity\": [\n      {\n        \"date\": \"2022-12-05\",\n        \"committee\": \"ועדת_הכספים\",\n        \"text\": \"\n          <segment>\n            היושב-ראש מש",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\"best_match\": {\n    \"rank\": 1,\n    \"score\": 0.99,\n    \"text\": \"[1] (date 2022-12-12, committee ועדת_הכספים):\n<segment>\nהיו\"ר משה גפני: אנחנו עוסקים עכשיו בהצע",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n    \"best_match\": {\n        \"rank\": 1,\n        \"score\": 90,\n        \"verdict\": \"high\"\n    },\n    \"lowest_match\": {\n        \"rank\": 10,\n        \"score\": 10,\n        \"verdict\": \"low\"\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\"best_match\": {\n    \"rank\": 1,\n    \"similarity\": 10,\n    \"text\": \"היו\"ר משה גפני: בוקר טוב, אני מתכבד לפתוח את ישיבת ועדת הכספים. על סדר-היום: הצעת תקנות מס רכוש וקרן",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\"best_match\": {\n    \"rank\": 1,\n    \"score\": 0.99,\n    \"text\": \"[1] (date 2023-01-23, committee ועדת_הכספים): <segment> אימאן, הצעה לסדר, בקשה. אימאן ח'טיב יא",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\"best_match\": {\n  \"date\": \"2022-12-28\",\n  \"committee\": \"ועדת_הכספים\",\n  \"text\": \"היו\\\"ר משה גפני: בקשה 13026, הוצאות שונות, תשלומים באמצעות רשות המסים, מע",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\"best_match\": {\n    \"rank\": 1,\n    \"score\": 90,\n    \"text\": \"[1] (date 2023-01-23, committee ועדת_הכספים)\"\n}}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 10
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"best_match\": {\n    \"rank\": 1,\n    \"score\": 0.99,\n    \"text\": \"[1] (date 2022-12-26, committee ועדת_הכספים): <segment>היו\"ר משה גפני: אני פותח את ישיבת",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\"best_match\": {\n    \"score\": 10,\n    \"text\": \"[1], [2], [3], [4], [5], [6], [7], [8], [9], [10]\"\n},\n    \"lowest_match\": {\n        \"score\": 1,\n        \"text\": \"[11]",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\"best_match\": {\n    \"rank\": 1,\n    \"score\": 10,\n    \"text\": \"[1] (date 2023-01-10, committee ועדת_הכספים): <segment> ... \"\n}}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\"best_match\": {\n    \"rank\": 1,\n    \"similarity\": 0.9999999999999999,\n    \"text\": \"[1] (date 2023-01-25, committee ועדת_הכספים): <segment>היו\\\"ר מש",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 10
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\"best_match\": {\n    \"rank\": 1,\n    \"score\": 0.99,\n    \"text\": \"[1] (date 2023-01-31, committee ועדת_הכספים)\"\n}}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\"best_match\": {\n  \"rank\": 1,\n  \"score\": 90,\n  \"text\": \"היו\"ר משה גפני: סגירת בתי מרקחת באזור הדרום עקב המחסור בתקני כוח אדם של רוקחים, הצעתו של חבר הכנסת אופיר כץ.\"\n}}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\"best_match\": {\n    \"date\": \"2023-01-31\",\n    \"committee\": \"ועדת_הכספים\",\n    \"text\": \"שלומית ארליך: הצו שעומד לדיון עכשיו הוא צו תעריף המכס והפטורים ומס קנייה על",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\"best_match\": {\n    \"rank\": 1,\n    \"score\": 10,\n    \"text\": \"[1] (date 2023-02-01, committee ועדת_הכספים): <segment> שלומית ארליך: אז לגבי החלטת שכר שרים וסגני שרים, תק",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"retrieval_similarity\": 0.0,\n  \"json_verdict\": {\n    \"new_segment\": \"היו\"ר משה גפני: בוקר טוב, אני מתכבד לפתוח את ישיבת ועדת הכספים, אנחנו דנים להצעת החלטת שכר שרים וס",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"candidates\": [\n    {\n      \"similarity\": 0.9999999999999999,\n      \"text\": \"<segment>שלומית ארליך: החלטת משכורת נשיא המדינה (תיקון), התשפ\\\"ג-202",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"best_match\": {\n    \"rank\": 1,\n    \"score\": 0.99,\n    \"text\": \"[1] (date 2023-02-06, committee ועדת_הכספים): <segment>היו\"ר משה גפני: בוקר טוב. אני מתכ",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"retrieval_similarity\": {\n    \"ranked_entries\": [\n      {\n        \"entry\": \"[1]\",\n        \"score\": 0.99\n      },\n      {\n        \"entry\": \"[2]\",\n        \"score\": 0.98\n      },\n      {\n        \"ent",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\"best_match\": {\n    \"rank\": 1,\n    \"score\": 0.99,\n    \"text\": \"[1], [2], [3], [4], [5], [6], [7], [8], [9], [10]\"\n}}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\"best_match\": {\n    \"rank\": 1,\n    \"score\": 90,\n    \"text\": \"היו\"ר משה גפני: 19019, תרבות וספורט, מתקני ספורט. איזה משרד זה?\"\n}}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"new_segment\": {\n    \"text\": \"היו\"ר משה גפני: בוקר טוב, אני מתכבד לפתוח את ישיבת ועדת הכספים. אנחנו מתחילים היום את הדיון במוכנות הכלכלית של מדינת ישראל לרעידת אדמה - אנחנו כולנו מתפללים ומ",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"new_segments\": [\n    {\n      \"date\": \"2023-02-13\",\n      \"committee\": \"ועדת_הכספים\",\n      \"text\": \"היו\\\"ר משה גפני: אנחנו מקיימים דיון בנושא פטור מאגרות שנתיות למוסד",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\"best_match\": {\n    \"rank\": 1,\n    \"score\": 90,\n    \"text\": \"יואב הכט: הפנייה נועדה להעברת עודפים משנת 2021 לשנת 2022 ממסגרת התקציב המיועדת להתמודדות עם נגיף הקורונה, מדובר ב-",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"best_match\": {\n    \"score\": 90,\n    \"text\": \"יואב הכט\",\n    \"type\": \"presenter\",\n    \"category\": \"funding_template\",\n    \"subcategory\": \"year_end_surplus_transfer\"\n  },\n  \"similarities\": [\n    {",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\"best_match\": {\n    \"score\": 10,\n    \"text\": \"[1] (date 2023-02-13, committee ועדת_הכספים): <segment> ... שלומית ארליך: הצו שעומד לדיון עכשיו הוא צו תעריף המכס והפטורים ו",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 10
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"best_match\": {\n    \"rank\": 1,\n    \"similarity\": 0.9999999999999999,\n    \"text\": \"[1] (date 2023-02-15, committee ועדת_הכספים):\n<segment>\n",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "\nOutput ONLY the JSON verdict now. Do not output any part of the segment text above. [/INST]\n\nOutput ONLY the JSON verdict now. Do not output any part of the segment text above. [/INST]\n\nOutput ONLY t",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": null,
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\"best_match\": {\n    \"rank\": 1,\n    \"score\": 10,\n    \"text\": \"[1] (date 2023-01-25, committee ועדת_הכספים): <segment>\nהיו\"ר משה גפני: בוקר טוב, אני מתכבד לפתוח",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"new_segment\": {\n    \"date\": \"2023-02-21\",\n    \"committee\": \"ועדת_הכספים\",\n    \"ranked_candidates\": [\n      {\n        \"date\": \"2023-02-06\",\n        \"text\": \"חיים",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"ranked_by_retrieval_similarity\": [\n    {\n      \"text\": \"[1]\",\n      \"verdict\": \"yes\"\n    },\n    {\n      \"text\": \"[2]\",\n      \"verdict\": \"no\"\n    },\n    {\n      \"text\": \"[3]\",\n      \"verdict",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"retrieval_similarity\": {\n    \"ranked_by_relevance\": [\n      {\n        \"score\": 0.99,\n        \"text\": \"[1] (date 2023-02-21, committee ועדת_הכספים): <segment> תודה רבה. מי",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\"best_match\": {\n    \"score\": 10,\n    \"text\": \"[1] (date 2023-02-20, committee ועדת_הכספים): <segment> חבר הכנסת ולדימיר בליאק, בבקשה. בבקשה, המנכ\"ל מר שלי, אנחנו מקדמים",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\"best_match\": {\n    \"rank\": 1,\n    \"score\": 90,\n    \"text\": \"<segment>היו\"ר משה גפני: בוקר טוב, אני מתכבד לפתוח את ישיבת ועדת הכספים. אנחנו דנים להצעת החלטת שכר שרים וסגני ש",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n    \"best_match\": {\n        \"rank\": 1,\n        \"score\": 0.99,\n        \"text\": \"[1] (date 2023-02-27, committee ועדת_הכספים)\"\n    },\n    \"other_matches\": [\n        {\n            \"rank\": 2",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 10
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"best_match\": {\n    \"rank\": 1,\n    \"similarity\": 0.9999999999999999,\n    \"text\": \"[1] (date 2023-02-28, committee ועדת_הכספים): <segment>היו",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"retrieval_similarity\": {\n    \"ranked_entries\": [\n      {\n        \"entry\": \"[1]\",\n        \"score\": 0.8\n      },\n      {\n        \"entry\": \"[2]\",\n        \"score\": 0.7\n      },\n      {\n        \"entry",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"best_match\": {\n    \"rank\": 1,\n    \"similarity\": 0.9999999999999999,\n    \"text\": \"[1], [2], [3], [4], [5], [6], [7], [8], [9], [10]",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\"best_match\": {\n    \"rank\": 1,\n    \"score\": 90,\n    \"text\": \"היו\"ר משה גפני: 19019, תרבות וספורט, מתקני ספורט. איזה משרד זה?\"\n},\n{\n    \"rank\": 2,\n    \"score\":",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\"best_match\": {\n  \"rank\": 1,\n  \"score\": 90,\n  \"text\": \"<segment>היו\"ר משה גפני: בוקר טוב, אני מתכבד לפתוח את ישיבת ועדת הכספים. אנחנו מתחילים היום את הדיון במוכנות הכלכלית של מדי",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\"best_match\": {\n    \"rank\": 1,\n    \"similarity\": 0.9999999999999999,\n    \"text\": \"[1] (date 2023-03-15, committee ועדת_הכספים): <segment> ישי פרלמן",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\"best_match\": {\n    \"rank\": 1,\n    \"score\": 0.99,\n    \"text\": \"[1] (date 2023-02-21, committee ועדת_הכספים): <segment>\nהיו\"ר משה גפני: רבותיי, אנחנו מחדשים את",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\"best_match\": {\n  \"rank\": 1,\n  \"score\": 10,\n  \"text\": \"[1] (date 2023-01-17, committee ועדת_הכספים): <segment>היו\"ר משה גפני: שלום וברכה, אני מתכבד לפתוח",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\"best_match\": {\n    \"rank\": 1,\n    \"score\": 10,\n    \"text\": \"[1] (date 2023-01-10, committee ועדת_הכספים): <segment>היו\\\"ר משה גפני: אני פותח את ישיבת ועדת הכספים",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 10
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\"best_match\": {\n    \"rank\": 1,\n    \"score\": 10,\n    \"text\": \"[1] (date 2023-02-13, committee ועדת_הכספים)\"\n}}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"best_match\": {\n    \"rank\": 1,\n    \"score\": 90,\n    \"verdict\": \"high\"\n  },\n  \"lowest_match\": {\n    \"rank\": 10,\n    \"score\": 10,\n    \"verdict\": \"low\"\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\"best_match\": {\n    \"score\": 10,\n    \"text\": \"[1] (date 2023-03-22, committee ועדת_הכספים): <segment> ... </segment>\"\n}}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": null,
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"ranked_candidates\": [\n    {\n      \"similarity\": 0.99,\n      \"entry\": \"1\",\n      \"text\": \"<segment><p>היו&quot;ר משה גפני: רבותיי, אני מחדש את הדיון בוועדה.</p></segment>\"\n    },",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\"best_match\": {\n    \"rank\": 1,\n    \"score\": 10,\n    \"text\": \"[1] (date 2023-03-26, committee ועדת_הכספים):\n<segment>\nהצעת חוק מיסוי מקרקעין (שבח ורכישה) (",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"best_match\": {\n    \"score\": 90,\n    \"type\": \"similarity\",\n    \"template\": \"turf-and-sport-facilities\",\n    \"presenter\": \"יואב הכט\",\n    \"year\": 2023,\n    \"committee\": \"ועדת_",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "האם you can help me with this question? [/INST]\nאני מחפש את ה-output of the segment text above. [/INST]\nהאם אתה יכול לעזור לי עם זה? [/INST]\nאני מחפש את ה-output של הקטע הזה. [/INST]\nהאם אתה יכול לעזו",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"ranked_similarity\": [\n      {\n        \"score\": 0.81,\n        \"text\": \"<segment>היו&quot;ר משה גפני: אני מחדש את הישיבה. הדיון הוא על החלת דין רציפות על הצעת חוק",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\"best_match\": {\n  \"rank\": 1,\n  \"similarity\": 81,\n  \"text\": \"[1] (date 2023-03-20, committee ועדת_הכספים):\n<segment>\nהיו\"ר משה גפני: אני מחדש את הישיבה",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\"best_match\": {\n    \"rank\": 1,\n    \"score\": 0.99,\n    \"text\": \"[1] (date 2023-04-16, committee ועדת_הכספים):\n<segment>\nאורית פרקש הכהן (המחנה הממלכתי): בר",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"best_match\": {\n    \"rank\": 1,\n    \"score\": 10,\n    \"text\": \"[1] (date 2023-04-16, committee ועדת_הכספים): <segment> ... שלומית ארליך: לפני כן, אנחנו נכניס תיקון נוסף ש",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"retrieval_similarity\": {\n    \"ranked_candidates\": [\n      {\n        \"date\": \"2023-02-28\",\n        \"committee\": \"ועדת_הכספים\",\n        \"score\": 0.8\n      },\n      {\n        \"date\": \"",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\"best_match\": {\n  \"date\": \"2023-04-19\",\n  \"committee\": \"ועדת_הכספים\",\n  \"ranked_entries\": [\"2023-04-19\", \"2023-03-14\", \"2023-03-1",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"best_match\": {\n    \"rank\": 1,\n    \"score\": 90,\n    \"text\": \"[1] (date 2023-04-19, committee ועדת_הכספים): <segment> פרק כ' (רשויות מקומיות), 78, 79",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"retrieval_similarity\": {\n    \"ranked_entries\": [\n      {\n        \"entry\": \"[1]\",\n        \"score\": 0.9999999999999999\n      },\n      {\n        \"entry\": \"[2]\",\n        \"score\": 0.9",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\"best_match\": {\n  \"rank\": 1,\n  \"similarity\": 0.9999999999999999,\n  \"text\": \"[1] (date 2023-02-21, committee ועדת_הכספים):\n<segment>\nהיו\"",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\"best_match\": {\n  \"rank\": 1,\n  \"score\": 10,\n  \"text\": \"[1] (date 2023-04-23, committee ועדת_הכספים):\n<segment>\nהיו\"ר משה גפני: אוקיי. מישהו ממשרד המשפטים",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\"best_match\": {\n  \"rank\": 1,\n  \"similarity\": 0.9999999999999999,\n  \"text\": \"[1] (date 2023-04-23, committee ועדת_הכספים):\n<segment>\nהיו\"",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\"best_match\": {\n  \"rank\": 1,\n  \"score\": 0.99,\n  \"text\": \"[1] (date 2023-04-23, committee ועדת_הכספים): <segment>היו\"ר משה גפני: תודה רבה. ישי, תקריא",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"retrieval_similarity\": {\n    \"ranked_entries\": [\n      {\n        \"entry\": \"[1]\",\n        \"score\": 0.99\n      },\n      {\n        \"entry\": \"[2]\",\n        \"score\": 0.98\n      },\n      {\n        \"ent",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\"best_match\": {\n    \"rank\": 1,\n    \"score\": 90,\n    \"text\": \"[1] (date 2023-04-23, committee ועדת_הכספים): <segment> פרק ז' (בנקאות ואשראי) רק סעיפים 26-25 (",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"retrieval_similarity\": {\n    \"ranked_entries\": [\n      {\n        \"entry\": \"[1]\",\n        \"score\": 0.99\n      },\n      {\n        \"entry\": \"[2]\",\n        \"score\": 0.98\n      },\n      {\n        \"ent",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"ranked_by_retrieval_similarity\": [\n    {\n      \"text\": \"[1]\",\n      \"verdict\": \"yes\"\n    },\n    {\n      \"text\": \"[2]\",\n      \"verdict\": \"no\"\n    },\n    {\n      \"text\": \"[3]\",\n      \"verdict",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"best_match\": {\n    \"rank\": 1,\n    \"score\": 0.99,\n    \"text\": \"[1] (date 2023-04-27, committee ועדת_הכספים):\n<segment>\nפרק ט' (מסים), למעט סעיפים 41",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"best_match\": {\n    \"score\": 10,\n    \"text\": \"[1] (date 2023-04-23, committee ועדת_הכספים): <segment> ...\",\n    \"similarities\": [\n      {\n        \"score\": 90,\n        \"text\": \"[",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"best_match\": {\n    \"score\": 10,\n    \"text\": \"[1] (date 2023-04-27, committee ועדת_הכספים): <segment> פרק ד' (מיסוי בשוק הדיור), למעט סעיפים 10-8 (התחדשות",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"retrieval_similarity\": {\n    \"ranked_entries\": [\n      {\n        \"entry\": \"[1]\",\n        \"score\": 0.99\n      },\n      {\n        \"entry\": \"[2]\",\n        \"score\": 0.98\n      },\n      {\n        \"ent",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"retrieval_similarity\": {\n    \"ranked_candidates\": [\n      {\n        \"score\": 0.99,\n        \"text\": \"<segment>פרק ד' (מיסוי בשוק הדיור), למעט סעיפים 10-8 (התחדשות עירונית) מתוך",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"retrieval_similarity\": {\n    \"ranked_candidates\": [\n      {\n        \"date\": \"2023-04-27\",\n        \"committee\": \"ועדת_הכספים\",\n        \"score\": 0.99\n      },\n      {\n        \"date\":",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"retrieval_similarity\": {\n    \"ranked_entries\": [\n      {\n        \"entry\": {\n          \"date\": \"2023-04-19\",\n          \"committee\": \"ועדת_הכספים\",\n          \"segment\": \"<segment>\\n\\nפרק ד' (מי",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\"best_match\": {\n    \"rank\": 1,\n    \"score\": 90,\n    \"text\": \"[1] (date 2023-05-01, committee ועדת_הכספים)\"\n}}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\"best_match\": {\n    \"rank\": 1,\n    \"score\": 90,\n    \"text\": \"1. הצעת חוק התקציב לשנת הכספים 2023, התשפ\\\"ג-2023 2. הצעת חוק התקציב לשנת הכספים 2024,",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\"best_match\": {\n    \"ranked_by_retrieval_similarity\": [\n        {\n            \"date\": \"2023-05-01\",\n            \"committee\": \"ועדת_הכספים\",\n            \"text\": \"\"\n        },\n        {\n            \"da",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\"best_match\": {\n    \"rank\": 1,\n    \"score\": 90,\n    \"text\": \"היו\"ר משה גפני: תודה רבה. עוד משהו, משה?\"\n}}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"retrieval_similarity\": {\n    \"ranked_by_retrieval_similarity\": [\n      {\n        \"text\": \"[1]\",\n        \"score\": 0.9999999999999999\n      },\n      {\n        \"text\": \"[2]\",\n",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"ranked_retrieval_similarity\": {\n    \"1\": 0.9999999999999999,\n    \"2\": 0.9999999999999999,\n    \"3\": 0.999999",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"best_match\": {\n    \"rank\": 1,\n    \"similarity\": 0.9999999999999999,\n    \"text\": \"[1] (date 2023-04-23, committee ועדת_הכספים):\n<segment>\n",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"best_match\": {\n    \"rank\": 1,\n    \"score\": 10,\n    \"text\": \"[1] (date 2023-05-02, committee ועדת_הכספים): <segment> ... שלומית ארליך: דודי, לגבי הנוסח. כשאתם מד",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\"best_match\": {\n    \"date\": \"2023-05-02\",\n    \"committee\": \"ועדת_הכספים\",\n    \"text\": \"<segment>\nהיו\"ר משה גפני: אפשר להמשיך. דודי קופל: (3) בסעיף 32, אחרי",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"retrieval_similarity\": {\n    \"ranked_entries\": [\n      {\n        \"entry\": \"[1]\",\n        \"score\": 0.9999999999999999\n      },\n      {\n        \"entry\": \"[2]\",\n        \"score\": 0.9",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\"best_match\": {\n    \"rank\": 1,\n    \"similarity\": 0.9999999999999999,\n    \"text\": \"[1] (date 2023-05-02, committee ועדת_הכספים):\n<segment>\nפרק ט",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\"best_match\": {\n    \"rank\": 1,\n    \"similarity\": 0.9999999999999999,\n    \"text\": \"[1] (date 2023-05-02, committee ועדת_הכספים):\n<segment>\nמצידו",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"retrieval_similarity\": {\n    \"ranked_entries\": [\n      {\n        \"entry\": \"[1]\",\n        \"score\": 0.8\n      },\n      {\n        \"entry\": \"[2]\",\n        \"score\": 0.79\n      },\n      {\n        \"entr",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": null,
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\"best_match\": {\n  \"rank\": 1,\n  \"score\": 0.99,\n  \"text\": \"[1] (date 2023-05-03, committee ועדת_הכספים):\n<segment>\nלגפני יש את כל הלילה, הוא הבטיח לנו עד הבוקר. היו",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\"best_match\": {\n    \"rank\": 1,\n    \"similarity\": 0.9999999999999999,\n    \"text\": \"[1] (date 2023-05-03, committee ועדת_הכספים):\n<segment>\nפרק י",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"best_match\": {\n    \"rank\": 1,\n    \"score\": 90,\n    \"text\": \"[1] (date 2023-05-04, committee ועדת_הכספים): <segment> פרק כ' (רשויות מקומיות), 78, 79",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"retrieval_similarity\": {\n    \"ranked_entries\": [\n      {\n        \"entry\": \"[1]\",\n        \"score\": 0.99\n      },\n      {\n        \"entry\": \"[2]\",\n        \"score\": 0.98\n      },\n      {\n        \"ent",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n    \"retrieval_similarity\": {\n        \"ranked_entries\": [\n            {\n                \"entry\": {\n                    \"date\": \"2023-04-30\",\n                    \"committee\": \"ועדת_הכספים\",\n         ",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"best_match\": {\n    \"score\": 10,\n    \"text\": \"[1] (date 2022-12-15, committee ועדת_הכספים): <segment>היו\"ר משה גפני: בוקר טוב, אני מתכבד לפתוח את ישיבת ועדת",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"retrieval_similarity\": {\n    \"ranked_entries\": [\n      {\n        \"entry\": \"[1]\",\n        \"score\": 0.9999999999999999\n      },\n      {\n        \"entry\": \"[2]\",\n        \"score\": 0.9",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"retrieval_similarity\": {\n    \"ranked_entries\": [\n      {\n        \"entry\": \"[1]\",\n        \"score\": 0.9999999999999999\n      },\n      {\n        \"entry\": \"[2]\",\n        \"score\": 0.9",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"retrieval_similarity\": {\n    \"ranked_entries\": [\n      {\n        \"entry\": \"[1]\",\n        \"score\": 0.99\n      },\n      {\n        \"entry\": \"[2]\",\n        \"score\": 0.99\n      },\n      {\n        \"ent",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"retrieval_similarity\": {\n    \"ranked_by_retrieval_similarity\": [\n      {\n        \"text\": \"[1]\",\n        \"score\": 0.9999999999999999\n      },\n      {\n        \"text\": \"[2]\",\n",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"retrieval_similarity\": {\n    \"ranked_by_retrieval_similarity\": [\n      {\n        \"score\": 0.9999999999999999,\n        \"text\": \"[1] (date 2023-05-07,",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\"best_match_rank\": 1, \"correct_answer\": {\"best_matched_rank\": 1}}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": null,
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\"best_match\": {\n    \"rank\": 1,\n    \"score\": 10,\n    \"text\": \"[1] (date 2023-05-07, committee ועדת_הכספים): <segment> אסף וקסלר: הרב גפני, אנחנו מחר בשעה 15:00",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\"best_match\": {\n  \"score\": 10,\n  \"text\": \"[1], [2], [3], [4], [5], [6], [7], [8], [9], [10]\"\n}\n{\n  \"score\": 90,\n  \"text\": \"[1]\"\n}\n{\n ",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\"best_match_rank\": 1, \"score\": 90, \"similarity\": 10, \"text\": \"עופר, אנחנו מהבוקר מדברים ואנחנו מבינים שיש בעיה כאן, שיש סתירה בין שני החוקים האלה.\", \"candidate_entries\": [\"1\", \"2\", \"3\", \"4\",",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"retrieval_similarity\": {\n    \"ranked_entries\": [\n      {\n        \"entry\": \"[1]\",\n        \"score\": 0.9999999999999999\n      },\n      {\n        \"entry\": \"[2]\",\n        \"score\": 0.9",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"retrieval_similarity\": {\n    \"ranked_by_retrieval_similarity\": [\n      {\n        \"score\": 0.99,\n        \"text\": \"<segment>מטרת החוק, יש רוויזיה. שרן מרים השכל (המחנה הממלכתי): אבל לא",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"best_match\": {\n    \"score\": 10,\n    \"text\": \"פרק ד' (מיסוי בשוק הדיור), למעט סעיפים 10-8 (התחדשות עירונית) מתוך הצעת חוק ההתייעלות הכלכלית (תיקוני חקיקה לה",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 10
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"best_match\": {\n    \"score\": 90,\n    \"text\": \"אני מציע לך. הממשלה מבקשת שיהיה דיווח בעניין הזה. אנחנו נהיה נגד דיווח, אם אתם מורידים את כל ההסתייגויות בסעיף הזה. בן אדם שוכר ומשכיר. חמד ע",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"best_match\": {\n    \"score\": 10,\n    \"text\": \"אבל איפה זה כתוב בחוק פקודת מס הכנסה?\"\n  },\n  \"similarities\": [\n    {\n      \"score\": 90,\n      \"text\": \"אבל לא הכרזת",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"retrieval_similarity\": {\n    \"ranked_by_retrieval_similarity\": [\n      {\n        \"text\": \"[1]\",\n        \"score\": 0.0000000000000000000000000000000",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\"best_match\": {\n    \"rank\": 1,\n    \"similarity\": 0.9999999999999999,\n    \"text\": \"[1] (date 2023-05-08, committee ועדת_הכספים): <segment>היו\"ר מש",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"best_match\": {\n    \"rank\": 1,\n    \"similarity\": 10,\n    \"verdict\": \"הקצאת כספי הקרן\",\n    \"candidate_prior_journal_entries\": [\n      {\n        \"date\": \"2023-05-08\",",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "<segment>\nנעבור לך גם כן. [/INST]\n<segment>\nנעבור לך גם כן. [/INST]\n</segment>\n\nOUTPUT: [/INST]\n[1] (date 2023-05-08, committee ועדת_הכספים):\n<segment>\nנאור",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"best_match\": {\n    \"score\": 10,\n    \"text\": \"[1] (date 2023-05-02, committee ועדת_הכספים): <segment> פרק ט' (תיווך בביטוח ובחיסכון פנסיוני), רק סעיף 36",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"similarity_scores\": [\n      {\n        \"score\": 0.9999999999999999,\n        \"candidate_index\": 1\n      },\n      {\n        \"score\": 0.999999999",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"retrieval_similarity\": {\n    \"ranked_candidates\": [\n      {\n        \"text\": \"<segment><p>היו&quot;ר משה גפני: בוקר טוב, אני מתכבד לפתוח את ישיבת ועדת הכספים. אנחנו דנים בהצעת חוק",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"best_match\": {\n    \"score\": 1,\n    \"candidate\": {\n      \"text\": \"[1]\",\n      \"similarity\": 1\n    }\n  },\n  \"retrievals\": [\n    {\n      \"score\": 0.99,\n      \"candidate\": {\n        \"text",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"similarity\": {\n    \"ranked_by_retrieval_similarity\": [\n      {\n        \"score\": 0.99,\n        \"text\": \"[1] (date 2023-05-07, committee ועדת_הכספים): <segment> שלומית ארליך:",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\"best_match\": {\n    \"rank\": 1,\n    \"score\": 0.99,\n    \"text\": \"[1] (date 2023-05-09, committee ועדת_הכספים)\"\n}}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"similarity\": 0.9,\n    \"retrieval\": [\n      {\n        \"date\": \"2023-05-09\",\n        \"committee\": \"ועדת_הכספים\",\n        \"text\": \"1. הצעת חוק-יסוד",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\"best_match_rank\": 1, \"score\": 90, \"text\": \"היו\"ר משה גפני: אני מבקש לעבור להצעת החוק שגם היא מעניין לעניין באותו עניין. הצעת חוק הפחתת הגירעון והגבלת ההוצאה התקציבית (תיקון מס",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\"best_match\": {\n    \"rank\": 1,\n    \"score\": 0.99,\n    \"text\": \"[1] (date 2023-04-16, committee ועדת_הכספים)\"\n}}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\"best_match_rank\": 1, \"correction\": {}}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": null,
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"ranked_similarities\": [\n      {\n        \"score\": 0.9999999999999999,\n        \"text\": \"[1] (date 2023-05-07, committee ועדת_הכספים): <segment",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"retrieval_similarity\": {\n    \"ranked_by_retrieval_similarity\": [\n      {\n        \"score\": 0.99,\n        \"text\": \"[1] (date 2023-05-09, committee ועדת_הכספים)\"\n      },\n     ",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"retrieval_similarity\": {\n    \"ranked_by_retrieval_similarity\": [\n      {\n        \"score\": 0.9999999999999999,\n        \"text\": \"[1] (date 2023-05-09,",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\"best_match\": {\n    \"rank\": 1,\n    \"similarity\": 0.9999999999999999,\n    \"text\": \"[1], [2], [3], [4], [5], [6], [7], [8], [9], [10]\"\n}}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\"best_match\": {\n    \"rank\": 1,\n    \"similarity\": 0.9999999999999999,\n    \"text\": \"[1], [2], [3], [4], [5], [6], [7], [8], [9], [10]\"\n}}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"retrieval_similarity\": {\n    \"ranked_entries\": [\n      {\n        \"entry_number\": 1,\n        \"similarity\": 0.9999999999999999\n      },\n      {\n        \"entry_number\": 2,\n        \"",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"retrieval_similarity\": {\n    \"ranked_entries\": [\n      {\n        \"entry\": \"[1]\",\n        \"score\": 0.99\n      },\n      {\n        \"entry\": \"[2]\",\n        \"score\": 0.98\n      },\n      {\n        \"ent",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\"best_match\": {\n    \"rank\": 1,\n    \"similarity\": 0.9999999999999999,\n    \"entry\": 1\n},\n\"candidates\": [{\n        \"rank\": 2,\n        \"similarity\": 0.99999",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"new_segment\": {\n    \"text\": \"ולדימיר בליאק (יש עתיד): למה בעצם כל שנה מוסיפים בין 1,800 ל-2,500 משרות? יואב הכט: בגדול מדובר בקצב הגידול הרגיל, הסטנדרטי",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"retrieval_similarity\": {\n    \"ranked_candidates\": [\n      {\n        \"score\": 0.99,\n        \"candidate\": {\n          \"date\": \"2023-04-30\",\n          \"committee\": \"ועדת_הכספים\",\n          \"",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\"best_match_rank\": 1, \"score\": 90, \"similarity\": 10, \"candidate_prior_segments\": [\"[1]\", \"[2]\", \"[3]\", \"[4]\", \"[5]\", \"[6]\", \"[7]\", \"[8]\", \"[9]\", \"[10]\"], \"new_segment_text\": \"פרק כ",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"retrieval_similarity\": {\n    \"ranked_entries\": [\n      {\n        \"entry\": \"[1]\",\n        \"score\": 0.9999999999999999\n      },\n      {\n        \"entry\": \"[2]\",\n        \"score\": 0.9",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"similarity\": 0.9,\n    \"retrieval\": [\n      {\n        \"date\": \"2023-05-11\",\n        \"committee\": \"ועדת_הכספים\",\n        \"text\": \"<segment><p>היו&quot;ר יצ",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"retrieval_similarity\": {\n    \"ranked_by_retrieval_similarity\": [\n      {\n        \"score\": 0.9999999999999999,\n        \"candidate\": \"[1] (date 2023-05-11",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"best_match\": {\n    \"score\": 10,\n    \"text\": \"[1] (date 2023-05-03, committee ועדת_הכספים):\n<segment>\nפרק ט' (מסים), למעט סעיפים 41-40 ו-47-45",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"ranked_by_similarity\": [\n    {\n      \"date\": \"2023-05-11\",\n      \"committee\": \"ועדת_הכספים\",\n      \"score\": 10\n    },\n    {\n      \"date\": \"2023-05-08\",",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"retrieval_similarity\": {\n    \"ranked_by_retrieval_similarity\": [\n      {\n        \"score\": 10,\n        \"entry\": \"[1] (date 2023-05-11, committee ועדת_הכספים)\"\n      },\n      {\n",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"retrieval_similarity\": {\n    \"ranked_entries\": [\n      {\n        \"entry\": \"[1]\",\n        \"score\": 0.99\n      },\n      {\n        \"entry\": \"[2]\",\n        \"score\": 0.99\n      },\n      {\n        \"ent",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"new_segment\": {\n    \"text\": \"\",\n    \"retrieval_similarity\": 0\n  },\n  \"candidate_priorities\": [\n    {\n      \"text\": \"\",\n      \"retrieval_similarity\": 0\n    }\n  ]\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\"best_match\": {\n    \"date\": \"2023-05-14\",\n    \"committee\": \"ועדת_הכספים\",\n    \"verdict\": \"low_confidence\"\n}}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"retrieval_similarity\": {\n    \"ranked_entries\": [\n      {\n        \"entry\": \"[1]\",\n        \"score\": 0.9999999999999999\n      },\n      {\n        \"entry\": \"[2]\",\n        \"score\": 0.9",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\"best_match\": {\n    \"score\": 10,\n    \"candidate\": [\n        {\n            \"date\": \"2023-05-14\",\n            \"committee\": \"ועדת_הכספים\",\n            \"text\": \"נעבור להתאמות הפיסקליות. שגית אפיק",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\"best_match\": {\n    \"rank\": 1,\n    \"similarity\": 0.9999999999999999,\n    \"text\": \"[1], [2], [3], [4], [5], [6], [7], [8], [9], [10]\"\n}}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"best_match\": {\n    \"rank\": 1,\n    \"similarity\": 0.9999999999999999,\n    \"text\": \"[1], [2], [3], [4], [5], [6], [7], [8], [9], [10]",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": null,
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\"best_match_rank\": 1, \"score\": 90, \"text\": \"1. הצעת חוק התקציב לשנת הכספים 2023, התשפ\\\"ג-2023 2. הצעת חוק התקציב לשנת הכספים 2024, התשפ\\\"ג-20",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\"best_match\": {\n    \"rank\": 1,\n    \"similarity\": 10,\n    \"text\": \"[1] (date 2023-05-11, committee ועדת_הכספים): <segment> פרק ט' (מסים), למעט סעיפים 41-40 ו-",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\"best_match\": {\n    \"rank\": 1,\n    \"score\": 90,\n    \"text\": \"<segment>היו\\\"ר משה גפני: בוקר טוב, אני מתכבד לפתוח את ישיבת ועדת הכספים. אני מתכבד לפתוח את ישיבת ועדת הכספים.",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\"best_match\": {\n    \"rank\": 1,\n    \"similarity\": 10,\n    \"text\": \"[1] (date 2023-06-05, committee ועדת_הכספים): <segment> היו\"ר משה גפני: מרכזי חוסן זה אתם? חיים",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\"best_match\": {\n    \"rank\": 1,\n    \"score\": 90,\n    \"candidate\": \"[1] (date 2023-06-06, committee ועדת_הכספים): <segment>היו\"ר משה גפני: כנראה שלא. נתחיל. נראה אי",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\"best_match\": {\n  \"rank\": 1,\n  \"score\": 10,\n  \"text\": \"[1] (date 2023-03-22, committee ועדת_הכספים): <segment>\nהיו\"ר משה גפני: תמיד ידענו שהאחריות עלינו בנו",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\"best_match\": {\n    \"rank\": 1,\n    \"score\": 0.99,\n    \"text\": \"[1] (date 2023-01-23, committee ועדת_הכספים): <segment>היו\"ר משה גפני: ינון אזולאי, בקשה. י",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n    \"best_match\": {\n        \"score\": 10,\n        \"prior_text\": \"\",\n        \"new_text\": \"פרק ז' (בנקאות ואשראי) רק סעיפים 26-25 (בעניין חוב אשראי לגיוס) מתוך הצעת חוק התכנית הכל",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"retrieval_similarity\": {\n    \"ranked_entries\": [\n      {\n        \"entry\": \"[1]\",\n        \"score\": 0.9999999999999999\n      },\n      {\n        \"entry\": \"[2]\",\n        \"score\": 0.9",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"retrieval_similarity\": {\n    \"ranked_entries\": [\n      {\n        \"entry\": \"[1]\",\n        \"score\": 0.9999999999999999\n      },\n      {\n        \"entry\": \"[2]\",\n        \"score\": 0.9",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"retrieval_similarity\": {\n    \"ranked_entries\": [\n      {\n        \"entry\": \"[1]\",\n        \"score\": 0.9999999999999999\n      },\n      {\n        \"entry\": \"[2]\",\n        \"score\": 0.9",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"best_match\": {\n    \"rank\": 1,\n    \"score\": 90,\n    \"text\": \"יואב הכט: הפנייה נועדה להעברת עודפים משנת 2021 לשנת 2022 ממסגרת התקציב המיועדת להתמודדות עם נגיף הקורונה,",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"best_match\": {\n    \"rank\": 1,\n    \"score\": 0.99,\n    \"verdict\": \"yes\"\n  },\n  \"other_matches\": [\n    {\n      \"rank\": 2,\n      \"score\": 0.98,\n      \"verdict\": \"no\"\n",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\"best_match\": {\n    \"rank\": 1,\n    \"similarity\": 10,\n    \"text\": \"[1] (date 2023-03-26, committee ועדת_הכספים): <segment> היו\"ר משה גפני: אנחנו עוברים לסעיף הבא בסדר היום:",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\"best_match\": {\n    \"rank\": 1,\n    \"score\": 90,\n    \"text\": \"[1] (date 2023-06-12, committee ועדת_הכספים): <segment>היו\"ר משה גפני: שלום לכולם, אנחנו עוברים לסעיף הבא",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\"best_match\": {\n    \"rank\": 1,\n    \"score\": 10,\n    \"text\": \"[1] (date 2023-01-30, committee ועדת_הכספים)\"\n}}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"best_match\": {\n    \"rank\": 1,\n    \"score\": 90,\n    \"text\": \"<segment>רונן יפה, ביקשת לדבר, בבקשה. רונן יפה: אני יועץ השקעות פרטי שמייצג רק את הציבור. הסתכלתי על היש",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\"best_match\": {\n    \"rank\": 1,\n    \"score\": 0.99,\n    \"text\": \"[1] (date 2023-06-12, committee ועדת_הכספים)\"\n}}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"retrieval_similarity\": {\n    \"ranked_candidates\": [\n      {\n        \"text\": \"[1] (date 2023-05-02, committee ועדת_הכספים)\"\n      },\n      {\n        \"text\": \"[2] (date 2023-",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"best_match_rank\": 1,\n  \"similarity_score\": 0.99,\n  \"verdict\": {\n    \"surface_template\": \"הצעת חוק\",\n    \"year\": 2023,\n    \"committee\": \"ועדת_הכספים\",\n    \"topic",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 10
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"best_match\": {\n    \"score\": 0.9,\n    \"text\": \"בסדר. נאור שירי (יש עתיד): זה לא הפריע לכם עם אילת, עם אילת, עיריית אילת. ולדימיר בליאק (יש עתיד): כשאילת התחנן ואמר",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"retrieval_similarity\": {\n    \"ranked_candidates\": [\n      {\n        \"score\": 0.99,\n        \"candidate\": {\n          \"date\": \"2023-03-26\",\n          \"committee\": \"ועדת_הכספים\",\n          \"",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\"best_match\": {\n    \"rank\": 1,\n    \"similarity\": 10,\n    \"text\": \"היו\"ר משה גפני: אני מחדש את הישיבה. אנחנו בסעיף האחרון בסדר היום. הצעת תיקון תוכנית הגבייה של קופות החולים,",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"best_match\": {\n    \"score\": 10,\n    \"text\": \"[1] (date 2023-02-28, committee ועדת_הכספים): <segment>היו&quot;ר משה גפני: אני מחדש את הישיבה. הדיון הוא על החלת",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"best_match\": {\n    \"rank\": 1,\n    \"similarity\": 0.9999999999999999,\n    \"text\": \"[1] (date 2023-06-19, committee ועדת_הכספים): <segment>\nה",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\"best_match\": {\n    \"similarity\": 0.99,\n    \"text\": \"[1], [2], [3], [4], [5], [6], [7], [8], [9], [10]\"\n}}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"ranked_retrieval_similarity\": {\n    \"1\": 0.9999999999999999,\n    \"2\": 0.9999999999999999,\n    \"3\": 0.999999",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\"best_match\": {\n    \"rank\": 1,\n    \"similarity\": 10,\n    \"text\": \"היו\"ר משה גפני: שלום, אני פותח את הישיבה. אנו עוברים לדיון על שינויים בתקציב לשנת 2023. פנייה 0",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\"best_match\": {\n    \"rank\": 1,\n    \"score\": 90,\n    \"text\": \"<segment>היו\"ר משה גפני: 19019, תרבות וספורט, מתקני ספורט. איזה משרד זה? יואב הכט: משרד התרבות והספורט.</segment",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"new_segments\": [\n    {\n      \"date\": \"2023-06-20\",\n      \"committee\": \"ועדת_הכספים\",\n      \"text\": \"היו\\\"ר משה גפני: פנייה 09001, משרד החוץ. בבקשה.\",",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n    \"best_match\": {\n        \"rank\": 1,\n        \"similarity\": 0.9999999999999999,\n        \"text\": \"[1], [2], [3], [4], [5], [6], [7], [8], [9], [10]",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"retrieval_similarity\": {\n    \"ranked_entries\": [\n      {\n        \"entry\": \"[1]\",\n        \"score\": 0.8\n      },\n      {\n        \"entry\": \"[2]\",\n        \"score\": 0.7\n      },\n      {\n        \"entry",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\"best_match\": {\n    \"rank\": 1,\n    \"similarity\": 0.9999999999999999,\n    \"text\": \"היו\\\"ר משה גפני: משרד התקשורת. בבקשה.\"\n}}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"best_match\": {\n    \"rank\": 1,\n    \"similarity\": 0.9999999999999999,\n    \"text\": \"היו\"ר משה גפני: 52001. המשטרה ובתי הסוהר. מבקש לומר לפני",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\"best_match_rank\": 1, \"score\": 90, \"text\": \"היו\"ר משה גפני: בוקר טוב. אני מתכבד לפתוח את ישיבת ועדת הכספים. על סדר-היום: הצעת תקציב ועדת הבחירות המרכזית לכנסת לשנים 2",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\"best_match\": {\n    \"score\": 10,\n    \"text\": \"[1] (date 2023-02-14, committee ועדת_הכספים):\n    <segment>\n      ...\n      שלומית ארליך: ...\n      היו\"ר משה גפני: ...\n      ...\n   ",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 10
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 10
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"best_match\": {\n    \"rank\": 1,\n    \"score\": 90,\n    \"text\": \"[1] (date 2023-06-26, committee ועדת_הכספים):\n<segment>\nשלומית ארליך: ממילא אחרי שאתם מפרסמים",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\"best_match\": {\n    \"rank\": 1,\n    \"similarity\": 10,\n    \"text\": \"היו\"ר משה גפני: בוקר טוב, אני מתכבד לפתוח את ישיבת ועדת הכספים. אנחנו דנים עכשיו בהצעת חוק התקציב לשנת הכ",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"ranked_by_retrieval_similarity\": [\n    {\n      \"text\": \"[1]\",\n      \"verdict\": \"yes\"\n    },\n    {\n      \"text\": \"[2]\",\n      \"verdict\": \"no\"\n    },\n    {\n      \"text\": \"[3]\",\n      \"verdict",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"retrieval_similarity\": {\n    \"ranked_by_retrieval_similarity\": [\n      {\n        \"text\": \"[1]\",\n        \"score\": 0.8\n      },\n      {\n        \"text\": \"[2]\",\n        \"score\": 0.7\n      },\n      {\n",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"retrieval_similarity\": {\n    \"ranked_by_retrieval_similarity\": [\n      {\n        \"text\": \"[1]\",\n        \"score\": 0.8\n      },\n      {\n        \"text\": \"[2]\",\n        \"score\": 0.7\n      },\n      {\n",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"retrieval_similarity\": {\n    \"ranked_candidates\": [\n      {\n        \"date\": \"2023-02-06\",\n        \"committee\": \"ועדת_הכספים\",\n        \"score\": 0.8\n      },\n      {\n        \"date\": \"",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\"best_match\": {\n    \"rank\": 1,\n    \"score\": 0.99,\n    \"text\": \"[1] (date 2023-06-27, committee ועדת_הכספים)\"\n}}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"best_match\": {\n    \"score\": 10,\n    \"prior_verdict\": \"10\",\n    \"new_verdict\": \"10\"\n  },\n  \"other_matches\": [\n    {\n      \"score\": 1,\n      \"prior_verdict\": \"1\",\n      \"",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"retrieval_similarity\": {\n    \"ranked_by_retrieval_similarity\": [\n      {\n        \"text\": \"[1]\",\n        \"score\": 0.9999999999999999\n      },\n      {\n        \"text\": \"[2]\",\n",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"best_match\": {\n    \"rank\": 1,\n    \"score\": 90,\n    \"text\": \"יפתח עשהאל: אגף התקציבים באוצר. פנייה של המשרד לשירותי דת, פניית עודפים על סך 110 מיליון ו-327 אלף שק",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\"best_match\": {\n    \"date\": \"2023-07-03\",\n    \"committee\": \"ועדת_הכספים\",\n    \"ranked_similarity\": [\n        {\"date\": \"2023-03-14\"},\n        {\"date\": \"2023-03-",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"best_match\": {\n    \"score\": 0.9,\n    \"text\": \"[1], [2], [3], [4], [5], [6], [7], [8], [9], [10]\"\n  },\n  \"lowest_match\": {\n    \"score\": 0.0,\n   ",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\"best_match\": {\n    \"rank\": 1,\n    \"score\": 10,\n    \"candidate\": [\n        {\n            \"text\": \"היו\"ר משה גפני: בוקר טוב, אני מתכבד לפתוח את ישיבת ועדת הכספים. אנחנו מקיימים דיון נוסף בנושא",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"retrieval_similarity\": {\n    \"ranked_by_retrieval_similarity\": [\n      {\n        \"text\": \"[1]\",\n        \"score\": 0.9999999999999999\n      },\n      {\n        \"text\": \"[2]\",\n",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n    \"new_segments\": [\n        {\n            \"date\": \"2023-07-10\",\n            \"committee\": \"ועדת_הכספים\",\n            \"text\": \"אורית שרייבר: הגענו להוראת השעה שעוסקת בחיתום. הייעוץ המשפטי שא",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"ranked_by_retrieval_similarity\": [\n    {\n      \"text\": \"[1] (date 2023-07-10, committee ועדת_הכספים): <segment> ... \",\n      \"score\": 0.999999999999999",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"best_match\": {\n    \"rank\": 1,\n    \"score\": 90,\n    \"text\": \"יואב הכט: הפנייה התקציבית נועדה להעברת עודפים משנת 2021 לשנת 2022 ממסגרת התקציב המיועדת להתמודדות עם נגיף ה",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"ranked_by_retrieval_similarity\": [\n    {\n      \"text\": \"היו\\\"ר משה גפני: בוקר טוב, אני מתכבד לפתוח את ישיבת ועדת הכספים.\",\n      \"score\": 0.000000\n    },\n    {\n",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"retrieval_similarity\": {\n    \"ranked_entries\": [\n      {\n        \"entry\": \"[1]\",\n        \"score\": 0.8\n      },\n      {\n        \"entry\": \"[2]\",\n        \"score\": 0.7\n      },\n      {\n        \"entry",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 10
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 10
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\"best_match\": {\n    \"date\": \"2023-07-11\",\n    \"committee\": \"ועדת_הכספים\",\n    \"title\": \"הצעת חוק התקציב לשנת הכספים 2023, התשפ\\\"ג-2023; הצעת חוק התק",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 10
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\"best_match\": {\n    \"rank\": 1,\n    \"prior_entry\": {\n        \"text\": \"[1] (date 2023-07-11, committee ועדת_הכספים)\"\n    },\n    \"similarity\": 0.9999999999999",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"best_match\": {\n    \"rank\": 1,\n    \"similarity\": 0.9999999999999999,\n    \"text\": \"היו\"ר משה גפני: 001 – 17: תיאום פעולות הממשלה בשטחים. שלומי",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"best_match\": {\n    \"rank\": 1,\n    \"score\": 90,\n    \"text\": \"הפנייה אושרה. בקשה מספר 001 – 26: הגנת הסביבה. תומר וידמן: אני תומר וידמן, אגף תקציבים. הבקשה",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"new_segments\": [\n    {\n      \"date\": \"2023-07-12\",\n      \"committee\": \"ועדת_הכספים\",\n      \"text\": \"היו\\\"ר משה גפני: בוקר טוב. אני מתכבד לפתוח את ישיבת ועדת הכ",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"retrieval_similarity\": {\n    \"ranked_pairs\": [\n      {\n        \"text\": \"[1]\",\n        \"score\": 0.9999999999999999\n      },\n      {\n        \"text\": \"[2]\",\n        \"score\": 0.",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"retrieval_similarity\": {\n    \"ranked_entries\": [\n      {\n        \"entry\": \"[1]\",\n        \"score\": 0.99\n      },\n      {\n        \"entry\": \"[2]\",\n        \"score\": 0.98\n      },\n      {\n        \"ent",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\"best_match\": {\n    \"ranked_by_retrieval_similarity\": [\n        {\n            \"date\": \"2023-05-17\",\n            \"committee\": \"ועדת_הכספים\",\n            \"text\": \"<segment>\\n\\t\\n\\t\\n\\t\\n\\",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": null,
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\"best_match\": {\n    \"rank\": 1,\n    \"similarity\": 0.9999999999999999,\n    \"text\": \"[1] (date 2023-06-14, committee ועדת_הכספים): <segment>הצעת חו",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\"best_match\": {\n  \"rank\": 1,\n  \"score\": 0.99,\n  \"text\": \"[1] (date 2023-01-25, committee ועדת_הכספים): <segment>היו\"ר משה גפני: אני פותח את ישיבת ועדת הכ",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"retrieval_similarity\": {\n    \"ranked_by_relevance\": [\n      {\n        \"text\": \"[1]\",\n        \"score\": 0.9999999999999999\n      },\n      {\n        \"text\": \"[2]\",\n        \"score\":",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\"best_match\": {\n    \"rank\": 1,\n    \"similarity\": 10,\n    \"candidate\": {\n        \"date\": \"2023-07-18\",\n        \"committee\": \"ועדת_הכספים\",\n        \"text\": \"<segment><p>היו&quot;ר",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n    \"best_match\": {\n        \"rank\": 1,\n        \"score\": 90,\n        \"prior_text\": \"פנייה מספר 19-001 – מדע, תרבות וספורט\",\n        \"new_text\": \"פנייה מספר 19-001 – מדע, ת",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\"best_match_rank\": 1, \"score\": 90, \"text\": \"היו\"ר משה גפני: אלה לא העברות. אלה עודפים.\"}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\"best_match\": {\n    \"rank\": 1,\n    \"similarity\": 0.9999999999999999,\n    \"text\": \"[1] (date 2023-06-07, committee ועדת_הכספים): <segment>\nהצעת ",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"best_match_rank\": 1,\n  \"same_confidence\": 90,\n  \"verdict\": {\n    \"category\": \"similar\",\n    \"score\": 90\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"retrieval_similarity\": {\n    \"ranked_entries\": [\n      {\n        \"entry\": \"[1]\",\n        \"score\": 0.8\n      },\n      {\n        \"entry\": \"[2]\",\n        \"score\": 0.75\n      },\n      {\n        \"entr",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"new_segments\": [\n    {\n      \"text\": \"היו\"ר משה גפני: בוקר טוב. אני מתכבד לפתוח את ישיבת ועדת הכספים. על סדר היום: הצעת תקציב ועדת הבחירות המרכזית לכנסת לשנים 2023-",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"best_match\": {\n    \"rank\": 1,\n    \"score\": 90,\n    \"verdict\": \"yes\",\n    \"text\": \"<segment>היו\\\"ר משה גפני: 19019, תרבות וספורט, מתקני ספורט. איזה משרד זה? יואב",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"best_match\": {\n    \"rank\": 1,\n    \"similarity\": 0.9999999999999999,\n    \"text\": \"היו\"ר משה גפני: בוקר טוב, אני מתכבד לפתוח את ישיבת ועדת הכס",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"ranked_retrieval_similarity\": {\n    \"1\": 0.9999999999999999,\n    \"2\": 0.9999999999999999,\n    \"3\": 0.999999",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"ranked_candidates\": [\n    {\n      \"similarity\": 0.99,\n      \"text\": \"<segment>היו\\\"ר משה גפני: אני מחדש את הישיבה. אנחנו עוברים לנושא של שינויים בתקציב. אני מבקש להעביר את השינויים שהם",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"category\": \"prior_journal_entries\",\n  \"retrieval_similarity\": {\n    \"ranked_list\": [\n      {\n        \"entry_number\": 1,\n        \"similarity_score\": 0.99\n      },\n      {\n        \"entry_number\": 2",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\"best_match\": {\n    \"rank\": 1,\n    \"similarity\": 0.9999999999999999,\n    \"text\": \"[1] (date 2023-08-16, committee ועדת_הכספים)\"\n}}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\"best_match\": {\n    \"rank\": 1,\n    \"score\": 10,\n    \"text\": \"[1], [2], [3], [4], [5], [6], [7], [8], [9], [10]\"\n}}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\"best_match\": {\n    \"rank\": 1,\n    \"similarity\": 0.9999999999999999,\n    \"text\": \"[1] (date 2023-09-05, committee ועדת_הכספים)\"\n}}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"best_match\": {\n    \"rank\": 1,\n    \"score\": 90,\n    \"text\": \"היו\"ר משה גפני: 19019, תרבות וספורט, מתקני ספורט. איזה משרד זה?\"\n  },\n  \"similarities\": [\n    {",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"best_match\": {\n    \"score\": 90,\n    \"text\": \"<segment><p>היו&quot;ר משה גפני: 19019, תרבות וספורט, מתקני ספורט.</p></segment>\"\n  },\n  \"lowest_match\": {\n    \"score\":",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"retrieval_similarity\": {\n    \"ranked_entries\": [\n      {\n        \"entry\": \"[1]\",\n        \"score\": 0.8\n      },\n      {\n        \"entry\": \"[2]\",\n        \"score\": 0.79\n      },\n      {\n        \"entr",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n    \"best_match\": {\n        \"score\": 0.99,\n        \"text\": \"הפניות אושרו. אנחנו עוברים לפניות הנוספות של משרד התיירות, 14 עד 16. גולן מליחי: הפנייה נועדה לתקצוב משרד התיירות של 1",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\"best_match\": {\n    \"rank\": 1,\n    \"similarity\": 0.9999999999999999,\n    \"text\": \"[1] (date 2023-09-05, committee ועדת_הכספים):\n<segment>\nפנייה",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\"best_match\": {\n    \"rank\": 1,\n    \"score\": 90,\n    \"text\": \"<segment>היו\"ר משה גפני: בקשה 13026, הוצאות שונות, תשלומים באמצעות רשות המסים, מענקים לעסקים. יואב הכט: הפ",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 10
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\"best_match\": {\n    \"score\": 10,\n    \"text\": \"[1] (date 2023-02-13, committee ועדת_הכספים): <segment>היו\"ר משה גפני: בוקר טוב, אני מתכבד לפתוח את ישיבת ועדת הכספים",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"best_match\": {\n    \"rank\": 1,\n    \"score\": 10,\n    \"verdict\": \"yes\"\n  },\n  \"other_matches\": [\n    {\n      \"rank\": 2,\n      \"score\": 10,\n      \"verdict\": \"no\"\n    }\n ",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"best_match\": {\n    \"rank\": 1,\n    \"score\": 10,\n    \"text\": \"[1] (date 2023-07-25, committee ועדת_הכספים): <segment> אליהו ברוכי (יהדות התורה): שלום, אדוני, כבוד",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\"best_match\": {\n    \"rank\": 1,\n    \"score\": 0.99,\n    \"text\": \"[1] (date 2023-09-12, committee ועדת_הכספים)\"\n}}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"ranked_by_retrieval_similarity\": [\n    {\n      \"date\": \"2023-06-27\",\n      \"committee\": \"ועדת_הכספים\",\n      \"text\": \"<segment><p>היו&quot;ר משה גפני: שלום לכולם.",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"ranked_by_retrieval_similarity\": [\n    {\n      \"text\": \"<segment><p>היו&quot;ר משה גפני: &lt;/p></segment>\",\n      \"verdict\": \"not relevant\"\n    },\n    {\n      \"text\": \"<segment><p>&nbsp;</p></",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\"best_match\": {\n  \"ranked_by_retrieval_similarity\": [\n    {\n      \"date\": \"2023-09-12\",\n      \"committee\": \"ועדת_הכספים\",\n      \"text\": \"<segment><p>פניות 38 עד 39 – נשיא",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"retrieval_similarity\": {\n    \"ranked_entries\": [\n      {\n        \"entry\": \"[1]\",\n        \"score\": 0.8\n      },\n      {\n        \"entry\": \"[2]\",\n        \"score\": 0.75\n      },\n      {\n        \"entr",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\"best_match\": {\n    \"rank\": 1,\n    \"similarity\": 0.9999999999999999,\n    \"text\": \"[1] (date 2023-05-01, committee ועדת_הכספים):\n<segment>\nהיו\"",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"best_match\": {\n    \"rank\": 1,\n    \"similarity\": 0.9999999999999999,\n    \"text\": \"[1] (date 2023-09-12, committee ועדת_הכספים): <segment>תרמת",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\"best_match\": {\n    \"rank\": 1,\n    \"similarity\": 0.9999999999999999,\n    \"text\": \"[1] (date 2022-12-28, committee ועדת_הכספים): <segment>היו\\\"ר מש",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\"best_match\": {\n    \"rank\": 1,\n    \"score\": 0.99,\n    \"text\": \"[1] (date 2023-02-07, committee ועדת_הכספים): <segment>היו\"ר משה גפני: שלום, צוהריים טובים,",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\"best_match\": {\n    \"score\": 10,\n    \"text\": \"[1] (date 2023-10-12, committee ועדת_הכספים): <segment> קטי קטרין שטרית (הליכוד): ועבודה כזו אני לא חושבת שאי פעם הייתה בהיסטוריה",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 10
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"best_match\": {\n    \"score\": 0.99,\n    \"text\": \"[1] (date 2023-02-14, committee ועדת_הכספים): <segment>היו&quot;ר משה גפני: אני פותח את ישיבת ועדת הכספים.",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  }
+]

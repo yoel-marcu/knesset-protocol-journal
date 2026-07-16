@@ -1,0 +1,708 @@
+{
+  "annotators": [
+    "llm",
+    "yoel"
+  ],
+  "labels": {
+    "pair_0033": {
+      "gold": "same",
+      "votes": {
+        "llm": "same"
+      },
+      "status": "agreed"
+    },
+    "pair_0027": {
+      "gold": "related",
+      "votes": {
+        "llm": "related"
+      },
+      "status": "agreed"
+    },
+    "pair_0014": {
+      "gold": "related",
+      "votes": {
+        "llm": "related"
+      },
+      "status": "agreed"
+    },
+    "pair_0039": {
+      "gold": "related",
+      "votes": {
+        "llm": "related"
+      },
+      "status": "agreed"
+    },
+    "pair_0083": {
+      "gold": "new",
+      "votes": {
+        "llm": "new"
+      },
+      "status": "agreed"
+    },
+    "pair_0057": {
+      "gold": "same",
+      "votes": {
+        "llm": "same"
+      },
+      "status": "agreed"
+    },
+    "pair_0054": {
+      "gold": "same",
+      "votes": {
+        "llm": "same"
+      },
+      "status": "agreed"
+    },
+    "pair_0079": {
+      "gold": "same",
+      "votes": {
+        "llm": "same"
+      },
+      "status": "agreed"
+    },
+    "pair_0047": {
+      "gold": "same",
+      "votes": {
+        "llm": "same"
+      },
+      "status": "agreed"
+    },
+    "pair_0018": {
+      "gold": "same",
+      "votes": {
+        "llm": "same"
+      },
+      "status": "agreed"
+    },
+    "pair_0085": {
+      "gold": "new",
+      "votes": {
+        "llm": "new"
+      },
+      "status": "agreed"
+    },
+    "pair_0016": {
+      "gold": "related",
+      "votes": {
+        "llm": "related"
+      },
+      "status": "agreed"
+    },
+    "pair_0066": {
+      "gold": "same",
+      "votes": {
+        "llm": "same"
+      },
+      "status": "agreed"
+    },
+    "pair_0081": {
+      "gold": "new",
+      "votes": {
+        "llm": "new"
+      },
+      "status": "agreed"
+    },
+    "pair_0067": {
+      "gold": "same",
+      "votes": {
+        "llm": "same"
+      },
+      "status": "agreed"
+    },
+    "pair_0056": {
+      "gold": "same",
+      "votes": {
+        "llm": "same"
+      },
+      "status": "agreed"
+    },
+    "pair_0095": {
+      "gold": "new",
+      "votes": {
+        "llm": "new"
+      },
+      "status": "agreed"
+    },
+    "pair_0048": {
+      "gold": "same",
+      "votes": {
+        "llm": "same"
+      },
+      "status": "agreed"
+    },
+    "pair_0071": {
+      "gold": "related",
+      "votes": {
+        "llm": "related"
+      },
+      "status": "agreed"
+    },
+    "pair_0045": {
+      "gold": "same",
+      "votes": {
+        "llm": "same"
+      },
+      "status": "agreed"
+    },
+    "pair_0013": {
+      "gold": "same",
+      "votes": {
+        "llm": "same"
+      },
+      "status": "agreed"
+    },
+    "pair_0086": {
+      "gold": "new",
+      "votes": {
+        "llm": "new"
+      },
+      "status": "agreed"
+    },
+    "pair_0074": {
+      "gold": "new",
+      "votes": {
+        "llm": "new"
+      },
+      "status": "agreed"
+    },
+    "pair_0082": {
+      "gold": "new",
+      "votes": {
+        "llm": "new"
+      },
+      "status": "agreed"
+    },
+    "pair_0075": {
+      "gold": "same",
+      "votes": {
+        "llm": "same"
+      },
+      "status": "agreed"
+    },
+    "pair_0006": {
+      "gold": "same",
+      "votes": {
+        "llm": "same"
+      },
+      "status": "agreed"
+    },
+    "pair_0052": {
+      "gold": "same",
+      "votes": {
+        "llm": "same"
+      },
+      "status": "agreed"
+    },
+    "pair_0097": {
+      "gold": "new",
+      "votes": {
+        "llm": "new"
+      },
+      "status": "agreed"
+    },
+    "pair_0035": {
+      "gold": "same",
+      "votes": {
+        "llm": "same"
+      },
+      "status": "agreed"
+    },
+    "pair_0051": {
+      "gold": "same",
+      "votes": {
+        "llm": "same"
+      },
+      "status": "agreed"
+    },
+    "pair_0058": {
+      "gold": "same",
+      "votes": {
+        "llm": "same"
+      },
+      "status": "agreed"
+    },
+    "pair_0084": {
+      "gold": "new",
+      "votes": {
+        "llm": "new"
+      },
+      "status": "agreed"
+    },
+    "pair_0037": {
+      "gold": "same",
+      "votes": {
+        "llm": "same"
+      },
+      "status": "agreed"
+    },
+    "pair_0015": {
+      "gold": "related",
+      "votes": {
+        "llm": "related"
+      },
+      "status": "agreed"
+    },
+    "pair_0065": {
+      "gold": "related",
+      "votes": {
+        "llm": "related"
+      },
+      "status": "agreed"
+    },
+    "pair_0036": {
+      "gold": "same",
+      "votes": {
+        "llm": "same"
+      },
+      "status": "agreed"
+    },
+    "pair_0077": {
+      "gold": "related",
+      "votes": {
+        "llm": "related"
+      },
+      "status": "agreed"
+    },
+    "pair_0049": {
+      "gold": "same",
+      "votes": {
+        "llm": "same"
+      },
+      "status": "agreed"
+    },
+    "pair_0032": {
+      "gold": "same",
+      "votes": {
+        "llm": "same"
+      },
+      "status": "agreed"
+    },
+    "pair_0028": {
+      "gold": "related",
+      "votes": {
+        "llm": "related"
+      },
+      "status": "agreed"
+    },
+    "pair_0011": {
+      "gold": "same",
+      "votes": {
+        "llm": "same"
+      },
+      "status": "agreed"
+    },
+    "pair_0009": {
+      "gold": "same",
+      "votes": {
+        "llm": "same"
+      },
+      "status": "agreed"
+    },
+    "pair_0021": {
+      "gold": "same",
+      "votes": {
+        "llm": "same"
+      },
+      "status": "agreed"
+    },
+    "pair_0020": {
+      "gold": "same",
+      "votes": {
+        "llm": "same"
+      },
+      "status": "agreed"
+    },
+    "pair_0022": {
+      "gold": "same",
+      "votes": {
+        "llm": "same"
+      },
+      "status": "agreed"
+    },
+    "pair_0007": {
+      "gold": "same",
+      "votes": {
+        "llm": "same"
+      },
+      "status": "agreed"
+    },
+    "pair_0060": {
+      "gold": "related",
+      "votes": {
+        "llm": "related"
+      },
+      "status": "agreed"
+    },
+    "pair_0072": {
+      "gold": "related",
+      "votes": {
+        "llm": "related"
+      },
+      "status": "agreed"
+    },
+    "pair_0069": {
+      "gold": "new",
+      "votes": {
+        "llm": "new"
+      },
+      "status": "agreed"
+    },
+    "pair_0059": {
+      "gold": "related",
+      "votes": {
+        "llm": "related"
+      },
+      "status": "agreed"
+    },
+    "pair_0053": {
+      "gold": "related",
+      "votes": {
+        "llm": "related"
+      },
+      "status": "agreed"
+    },
+    "pair_0078": {
+      "gold": "new",
+      "votes": {
+        "llm": "new"
+      },
+      "status": "agreed"
+    },
+    "pair_0024": {
+      "gold": "same",
+      "votes": {
+        "llm": "same"
+      },
+      "status": "agreed"
+    },
+    "pair_0034": {
+      "gold": "same",
+      "votes": {
+        "llm": "same"
+      },
+      "status": "agreed"
+    },
+    "pair_0055": {
+      "gold": "same",
+      "votes": {
+        "llm": "same"
+      },
+      "status": "agreed"
+    },
+    "pair_0092": {
+      "gold": "new",
+      "votes": {
+        "llm": "new"
+      },
+      "status": "agreed"
+    },
+    "pair_0050": {
+      "gold": "same",
+      "votes": {
+        "llm": "same"
+      },
+      "status": "agreed"
+    },
+    "pair_0061": {
+      "gold": "new",
+      "votes": {
+        "llm": "new"
+      },
+      "status": "agreed"
+    },
+    "pair_0089": {
+      "gold": "new",
+      "votes": {
+        "llm": "new"
+      },
+      "status": "agreed"
+    },
+    "pair_0038": {
+      "gold": "related",
+      "votes": {
+        "llm": "related"
+      },
+      "status": "agreed"
+    },
+    "pair_0010": {
+      "gold": "same",
+      "votes": {
+        "llm": "same"
+      },
+      "status": "agreed"
+    },
+    "pair_0002": {
+      "gold": "new",
+      "votes": {
+        "llm": "new"
+      },
+      "status": "agreed"
+    },
+    "pair_0091": {
+      "gold": "new",
+      "votes": {
+        "llm": "new"
+      },
+      "status": "agreed"
+    },
+    "pair_0042": {
+      "gold": "same",
+      "votes": {
+        "llm": "same"
+      },
+      "status": "agreed"
+    },
+    "pair_0080": {
+      "gold": "same",
+      "votes": {
+        "llm": "same"
+      },
+      "status": "agreed"
+    },
+    "pair_0044": {
+      "gold": "same",
+      "votes": {
+        "llm": "same"
+      },
+      "status": "agreed"
+    },
+    "pair_0017": {
+      "gold": "same",
+      "votes": {
+        "llm": "same"
+      },
+      "status": "agreed"
+    },
+    "pair_0026": {
+      "gold": "same",
+      "votes": {
+        "llm": "same"
+      },
+      "status": "agreed"
+    },
+    "pair_0043": {
+      "gold": "same",
+      "votes": {
+        "llm": "same"
+      },
+      "status": "agreed"
+    },
+    "pair_0001": {
+      "gold": "same",
+      "votes": {
+        "llm": "same"
+      },
+      "status": "agreed"
+    },
+    "pair_0062": {
+      "gold": "same",
+      "votes": {
+        "llm": "same"
+      },
+      "status": "agreed"
+    },
+    "pair_0068": {
+      "gold": "related",
+      "votes": {
+        "llm": "related"
+      },
+      "status": "agreed"
+    },
+    "pair_0003": {
+      "gold": "new",
+      "votes": {
+        "llm": "new"
+      },
+      "status": "agreed"
+    },
+    "pair_0029": {
+      "gold": "same",
+      "votes": {
+        "llm": "same"
+      },
+      "status": "agreed"
+    },
+    "pair_0030": {
+      "gold": "same",
+      "votes": {
+        "llm": "same"
+      },
+      "status": "agreed"
+    },
+    "pair_0008": {
+      "gold": "same",
+      "votes": {
+        "llm": "same"
+      },
+      "status": "agreed"
+    },
+    "pair_0012": {
+      "gold": "same",
+      "votes": {
+        "llm": "same"
+      },
+      "status": "agreed"
+    },
+    "pair_0005": {
+      "gold": "same",
+      "votes": {
+        "llm": "same"
+      },
+      "status": "agreed"
+    },
+    "pair_0063": {
+      "gold": "same",
+      "votes": {
+        "llm": "same"
+      },
+      "status": "agreed"
+    },
+    "pair_0098": {
+      "gold": "new",
+      "votes": {
+        "llm": "new"
+      },
+      "status": "agreed"
+    },
+    "pair_0040": {
+      "gold": "new",
+      "votes": {
+        "llm": "new"
+      },
+      "status": "agreed"
+    },
+    "pair_0070": {
+      "gold": "same",
+      "votes": {
+        "llm": "same"
+      },
+      "status": "agreed"
+    },
+    "pair_0064": {
+      "gold": "related",
+      "votes": {
+        "llm": "related"
+      },
+      "status": "agreed"
+    },
+    "pair_0025": {
+      "gold": "same",
+      "votes": {
+        "llm": "same"
+      },
+      "status": "agreed"
+    },
+    "pair_0087": {
+      "gold": "new",
+      "votes": {
+        "llm": "new"
+      },
+      "status": "agreed"
+    },
+    "pair_0019": {
+      "gold": "same",
+      "votes": {
+        "llm": "same"
+      },
+      "status": "agreed"
+    },
+    "pair_0088": {
+      "gold": "new",
+      "votes": {
+        "llm": "new"
+      },
+      "status": "agreed"
+    },
+    "pair_0073": {
+      "gold": "same",
+      "votes": {
+        "llm": "same"
+      },
+      "status": "agreed"
+    },
+    "pair_0093": {
+      "gold": "new",
+      "votes": {
+        "llm": "new"
+      },
+      "status": "agreed"
+    },
+    "pair_0094": {
+      "gold": "new",
+      "votes": {
+        "llm": "new"
+      },
+      "status": "agreed"
+    },
+    "pair_0004": {
+      "gold": "same",
+      "votes": {
+        "llm": "same"
+      },
+      "status": "agreed"
+    },
+    "pair_0096": {
+      "gold": "new",
+      "votes": {
+        "llm": "new"
+      },
+      "status": "agreed"
+    },
+    "pair_0100": {
+      "gold": "new",
+      "votes": {
+        "llm": "new"
+      },
+      "status": "agreed"
+    },
+    "pair_0090": {
+      "gold": "new",
+      "votes": {
+        "llm": "new"
+      },
+      "status": "agreed"
+    },
+    "pair_0041": {
+      "gold": "same",
+      "votes": {
+        "llm": "same"
+      },
+      "status": "agreed"
+    },
+    "pair_0076": {
+      "gold": "related",
+      "votes": {
+        "llm": "related"
+      },
+      "status": "agreed"
+    },
+    "pair_0031": {
+      "gold": "same",
+      "votes": {
+        "llm": "same"
+      },
+      "status": "agreed"
+    },
+    "pair_0099": {
+      "gold": "new",
+      "votes": {
+        "llm": "new"
+      },
+      "status": "agreed"
+    },
+    "pair_0023": {
+      "gold": "same",
+      "votes": {
+        "llm": "same"
+      },
+      "status": "agreed"
+    },
+    "pair_0046": {
+      "gold": "same",
+      "votes": {
+        "llm": "same"
+      },
+      "status": "agreed"
+    }
+  }
+}

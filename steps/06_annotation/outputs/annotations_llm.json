@@ -1,0 +1,605 @@
+{
+  "annotator": "llm",
+  "pairs": {
+    "pair_0033": {
+      "label": "same",
+      "pair_id": "pair_0033",
+      "stratum": "positive",
+      "rationale": "Both sessions (May 2 and May 8, 2023) are consecutive markups of the identical chapter ('פרק ט׳ - תיווך בביטוח ובחיסכון פנסיוני') of the same bill (מ/1612), with span a explicitly referencing 'בפעם הקודמת' and continuing the exact same substantive debate over the 0.25% bank commission cap on pension advisors/insurance agents."
+    },
+    "pair_0027": {
+      "label": "related",
+      "pair_id": "pair_0027",
+      "stratum": "positive",
+      "rationale": "Same topic label and same bill chapter (פרק ט' מיסים, מ/1612), but the two spans cover entirely different specific sections: a is about deducting National Insurance advance payments from tax (סעיפים 48-49), while b is about a fictitious-invoice crackdown program (סעיפים 44-42, הקצאת חשבוניות) — different substantive provisions despite the shared umbrella chapter."
+    },
+    "pair_0014": {
+      "label": "related",
+      "pair_id": "pair_0014",
+      "stratum": "positive",
+      "rationale": "Both are part of the general 2023 state budget hearing series (same topic label) but span a is the opening macro-economic overview with the Finance Minister while span b is a specific Ministry of Economy hearing (dairy prices, quarry auctions, EU regulatory alignment) with a different minister — related process, distinct specific matters."
+    },
+    "pair_0039": {
+      "label": "related",
+      "pair_id": "pair_0039",
+      "stratum": "positive",
+      "rationale": "Both are consecutive-day sessions (July 11 and 12, 2023) under the same recurring procedural agenda 'שינויים בתקציב 2023' (budget surplus transfer approvals), but each session processes entirely different, unrelated ministry budget lines (Welfare/Absorption/Population Authority/Economy vs. National Security/Police/Prison Service) — same process category, different specific items."
+    },
+    "pair_0083": {
+      "label": "new",
+      "pair_id": "pair_0083",
+      "stratum": "easy_neg",
+      "rationale": "Span a is about a Property Tax and Compensation Fund regulation setting the fund contribution rate to 0% (plus general political sparring), while span b is about approving a list of 129 public institutions for tax-deductible donation status under Income Tax Ordinance Section 46 — unrelated substantive tax matters."
+    },
+    "pair_0057": {
+      "label": "same",
+      "pair_id": "pair_0057",
+      "stratum": "hard_neg",
+      "rationale": "Span b explicitly states 'אנחנו ממשיכים את הדיון, זה מעקב' referencing the identical quick-discussion proposal on tax-refund policy hurdles from span a, and continues the same specific negotiation (credit-card requirement, identity-verification alternatives) with the same officials — a direct follow-up session on the same matter."
+    },
+    "pair_0054": {
+      "label": "same",
+      "pair_id": "pair_0054",
+      "stratum": "hard_neg",
+      "rationale": "Both spans (Feb 22 and Feb 23, 2023) are the same continuing markup of the ministers'/deputy-ministers' salary decision regarding the Prime Minister's residence funding, with span a referring back to 'מי שלא דיבר אתמול' — day 2 of the same specific matter begun in span b."
+    },
+    "pair_0079": {
+      "label": "same",
+      "pair_id": "pair_0079",
+      "stratum": "hard_neg",
+      "rationale": "Span a is a general committee review of government compensation readiness after Operation 'Shield and Arrow', and span b (explicitly 'בעקבות הדיון הקודם') is the follow-up session presenting the concrete compensation regulations for the same operation, covering the identical specific issues (0-7km vs 7-40km eligibility days, event halls, self-employed childcare)."
+    },
+    "pair_0047": {
+      "label": "same",
+      "pair_id": "pair_0047",
+      "stratum": "positive",
+      "rationale": "Both spans are consecutive markup sessions (July 16 and July 19, 2023) of the identical sports-betting regulation bill (תיקון מס' 17, מ/1623), continuing the same specific negotiation over the 'responsible gambling' clause and sports-club support terms referenced as 'מאז הדיון הקודם'."
+    },
+    "pair_0018": {
+      "label": "same",
+      "pair_id": "pair_0018",
+      "stratum": "positive",
+      "rationale": "Both spans are part of the identical chapter כ' (local authorities) markup/voting process of the same bill (מ/1612), with span a presenting the property-tax measurement method change (section 80) and span b voting on reservations to that same chapter's provisions in the immediately following committee sessions."
+    },
+    "pair_0085": {
+      "label": "new",
+      "pair_id": "pair_0085",
+      "stratum": "easy_neg",
+      "rationale": "a is an anti-dumping duty order on Turkish copper cable imports; b is the cash-usage-reduction chapter of the economic efficiency bill. No substantive overlap beyond both being Finance Committee legislative business."
+    },
+    "pair_0016": {
+      "label": "related",
+      "pair_id": "pair_0016",
+      "stratum": "positive",
+      "rationale": "Both are sessions of the same 2023 State Budget Law hearings on the same day, but a covers the Ministry of Education budget (Minister Kish) while b covers the Ministry of Economy budget (Minister Barkat) — same overarching bill, distinct unrelated ministry-specific chapters."
+    },
+    "pair_0066": {
+      "label": "same",
+      "pair_id": "pair_0066",
+      "stratum": "hard_neg",
+      "rationale": "Both spans are markup sessions on Chapter ט (insurance/pension brokerage) of the same bill (מ/1612), one week apart; a covers specifically section 36 (refusal to contract) and b explicitly covers the rest of the same chapter, continuing the identical commission/agent-vs-bank dispute — complementary halves of one continuing markup of the same matter."
+    },
+    "pair_0081": {
+      "label": "new",
+      "pair_id": "pair_0081",
+      "stratum": "easy_neg",
+      "rationale": "a is about the government's special contribution to religious councils' 2023 budgets (mikvaot, synagogue staff wages); b is a hearing on the knowledge-intensive industry incentive law. Unrelated subjects."
+    },
+    "pair_0067": {
+      "label": "same",
+      "pair_id": "pair_0067",
+      "stratum": "hard_neg",
+      "rationale": "Both spans concern the identical bill (National Insurance Law Amendment 232, child savings default track, bill כ/902): a is the continuity-of-legislation vote in Feb 2023, b is a later-stage committee hearing on the same bill in July 2023 — same legislative matter tracked over time."
+    },
+    "pair_0095": {
+      "label": "new",
+      "pair_id": "pair_0095",
+      "stratum": "easy_neg",
+      "rationale": "a's actual agenda item is the electricity price crisis (after a preliminary point-of-order digression); b is a hearing on the National Insurance child-savings default bill (Amendment 232). Different subjects."
+    },
+    "pair_0056": {
+      "label": "same",
+      "pair_id": "pair_0056",
+      "stratum": "hard_neg",
+      "rationale": "Both spans concern the same specific excise-tax matter on solvents/dilutants and lubricating oils used to adulterate diesel fuel: a is a January 2023 follow-up discussion on implementation/exemption issues with that tax, b is a June 2023 hearing on the exemption/refund decree for the same tax on the same materials, referencing the same prior reform history."
+    },
+    "pair_0048": {
+      "label": "same",
+      "pair_id": "pair_0048",
+      "stratum": "positive",
+      "rationale": "Both spans are Finance Committee sessions on the identical sports betting regulation bill (Amendment 17, מ/1623) with the same minister — b is the general discussion in June 2023 and a is the subsequent clause-by-clause voting/amendments session in July 2023, i.e. sequential stages of the same bill's markup."
+    },
+    "pair_0071": {
+      "label": "related",
+      "pair_id": "pair_0071",
+      "stratum": "hard_neg",
+      "rationale": "Both are near-content-free revision/reservation voting sessions from the same broad budget-arrangements bill package (מ/1612), but a is Chapter י\"א's commencement clause (procedural) while b is Chapter ז' banking/credit sections 25-26 (debt-raising) — same package, different unrelated chapters with no shared substantive matter discussed."
+    },
+    "pair_0045": {
+      "label": "same",
+      "pair_id": "pair_0045",
+      "stratum": "positive",
+      "rationale": "Both spans are sessions on the Central Elections Committee's 2023-2024 budget proposal; b explicitly continues from the prior session referenced in a, discussing the committee's response (a 15% cut) to points raised in the earlier presentation — same continuing budget matter."
+    },
+    "pair_0013": {
+      "label": "same",
+      "pair_id": "pair_0013",
+      "stratum": "positive",
+      "rationale": "Identical bill (פ/1044/25 כ/957, נמל התעופה בן-גוריון allocation amendment); span b explicitly continues the same legislative history recounted in span a, now moving to second/third reading — one legislative matter across two sessions."
+    },
+    "pair_0086": {
+      "label": "new",
+      "pair_id": "pair_0086",
+      "stratum": "easy_neg",
+      "rationale": "Span a is about education-institution funding letters from local authority heads; span b is a customs/trade-defense levy order tied to a US trade preference agreement. No substantive connection beyond both being Finance Committee items."
+    },
+    "pair_0074": {
+      "label": "new",
+      "pair_id": "pair_0074",
+      "stratum": "hard_neg",
+      "rationale": "Span a is the strategic 2023 state budget presentation for the Ministry of Education; span b is a routine 'budget changes' session covering unrelated transfer items (Holocaust survivors authority, Yoav unit home-demolition funding, immigration ministry). Both fall under 'the 2023 budget' generally but address entirely different specific matters."
+    },
+    "pair_0082": {
+      "label": "new",
+      "pair_id": "pair_0082",
+      "stratum": "easy_neg",
+      "rationale": "Span a concerns the tax-credit-points-for-parents and work-grant law; span b's topic is bank interest rates on housing loans/deposits (its excerpted text is actually a eulogy, but the labeled subject is clearly a different fiscal-policy matter with no overlap to tax credits)."
+    },
+    "pair_0097": {
+      "label": "new",
+      "pair_id": "pair_0097",
+      "stratum": "easy_neg",
+      "rationale": "Span a is a VAT exemption bill for oncology drugs not in the health basket; span b is a 'budget changes 2023' session about the Immigration and Absorption Ministry's housing/operations budget surplus. Unrelated specific matters."
+    },
+    "pair_0035": {
+      "label": "same",
+      "pair_id": "pair_0035",
+      "stratum": "positive",
+      "rationale": "Identical topic label 'המשך דיון' (continuation of discussion) on mortgage/deposit interest rates; span b explicitly references prior sessions on this exact ongoing inquiry (with the Competition Authority, then the Finance Minister) — same standing committee matter, different dates."
+    },
+    "pair_0051": {
+      "label": "same",
+      "pair_id": "pair_0051",
+      "stratum": "hard_neg",
+      "rationale": "Both spans are the same committee decision item (medical cannabis collection-program fee amendment under sec. 8(a2)); span b (one week later) explicitly refers back to 'the previous meeting' and finalizes the exact fee amounts (220/360 discussed in a, voted as 180/300 in b) — one continuous decision process."
+    },
+    "pair_0052": {
+      "label": "same",
+      "pair_id": "pair_0052",
+      "stratum": "hard_neg",
+      "rationale": "Both spans track the identical policy question — the tax/tariff rate on e-cigarette liquid; span b explicitly describes itself as a further iteration ('גלגול') of the same tariff-order process discussed in the earlier session, just via a new instrument (הוראת שעה מס' 5 replacing תיקון מס' 22)."
+    },
+    "pair_0075": {
+      "label": "same",
+      "pair_id": "pair_0075",
+      "stratum": "hard_neg",
+      "rationale": "Same private member's bill, same bill number (פ/512/25), on real-estate purchase tax exemption for orphaned children; span b is explicitly the second/third-reading preparation of the exact bill introduced and discussed in span a."
+    },
+    "pair_0006": {
+      "label": "same",
+      "pair_id": "pair_0006",
+      "stratum": "positive",
+      "rationale": "Both sessions concern the identical banking regulation ('בנק בעל היקף פעילות רחב') — span b is stated to be 'the second discussion we're holding on this matter,' directly continuing the deliberation begun in span a (Discount/Cal separation issue)."
+    },
+    "pair_0058": {
+      "label": "same",
+      "pair_id": "pair_0058",
+      "stratum": "hard_neg",
+      "rationale": "Both spans concern the same specific policy question - taxing e-cigarette liquid via customs tariff order - across sequential legal instruments (a pending amendment approved in Jan, then a temporary order in May). Span b explicitly frames this as a continuing multi-round saga ('היו מספר גלגולים בוועדה לגבי צווי תעריף המכס של הסיגריות האלקטרוניות'), so this is one continuing regulatory matter, not two separate ones."
+    },
+    "pair_0084": {
+      "label": "new",
+      "pair_id": "pair_0084",
+      "stratum": "easy_neg",
+      "rationale": "Span a is about budget surplus transfers for the Ministry of Aliyah and Integration (housing/absorption for immigrants); span b is a committee markup of a knowledge-intensive industry incentive tax law. No substantive connection beyond both being Finance Committee sessions."
+    },
+    "pair_0037": {
+      "label": "same",
+      "pair_id": "pair_0037",
+      "stratum": "positive",
+      "rationale": "Identical doc_id, date, topic label, and text content (a literal duplicate of the same transcript excerpt about VAT invoice numbering rules in Chapter 26 of the Economic Plan Law)."
+    },
+    "pair_0015": {
+      "label": "related",
+      "pair_id": "pair_0015",
+      "stratum": "positive",
+      "rationale": "Both spans share the topic label of the same overarching state budget bill (מ/1610), but span a is the Finance Minister's opening macro-economic remarks while span b is a distinct ministry-specific session (Education Ministry budget presentation) - different specific matters under one broad umbrella bill, similar to 'same bill, different unrelated chapters' case."
+    },
+    "pair_0065": {
+      "label": "related",
+      "pair_id": "pair_0065",
+      "stratum": "hard_neg",
+      "rationale": "Both concern tax credit points/work grants for parents, but are formally distinct bills: span a is a narrow temporary patch (מ/1604) extending existing credit-points for ages 6-12 through year-end, while span b (מ/1616) is a broader permanent reform extending credit points to age 18 and equalizing the work grant for fathers - related policy area, distinct legislative matters, as the committee itself frames the second as a follow-up commitment distinct from the first."
+    },
+    "pair_0036": {
+      "label": "same",
+      "pair_id": "pair_0036",
+      "stratum": "positive",
+      "rationale": "Identical topic label including 'המשך דיון' (continued discussion) marker, indicating both spans are sequential sessions of the same ongoing committee discussion on mortgage/deposit interest rates and bank competition."
+    },
+    "pair_0077": {
+      "label": "related",
+      "pair_id": "pair_0077",
+      "stratum": "hard_neg",
+      "rationale": "Both spans are from the same Chapter 9 (insurance/pension intermediation) of the same bill, but topic labels are explicitly complementary and deliberately split: span a covers only Section 36 (unreasonable refusal to contract with pension advisors), span b explicitly excludes Section 36 and covers Sections 37(1)/37(4) (insurance companies owning insurance agencies) - distinct sub-matters within one bill."
+    },
+    "pair_0049": {
+      "label": "same",
+      "pair_id": "pair_0049",
+      "stratum": "positive",
+      "rationale": "Identical topic label (same private member's bill פ/775/24 on default savings track for children); span b (earlier session) covers the substantive markup of default track from banks to pension funds, and span a (later session) continues the same bill's discussion after an unrelated political tangent - two sessions of the same bill markup."
+    },
+    "pair_0032": {
+      "label": "same",
+      "pair_id": "pair_0032",
+      "stratum": "positive",
+      "rationale": "Identical topic label across both dates (Chapter 9, excluding Section 36, on insurance company ownership of insurance agencies), both sessions continuing markup of the same specific provision restricting insurance-agency acquisitions."
+    },
+    "pair_0028": {
+      "label": "related",
+      "pair_id": "pair_0028",
+      "stratum": "positive",
+      "rationale": "Both spans share the same broad chapter label (Chapter 9 tax provisions minus certain excluded sections) from the same Economic Efficiency Law, but discuss different specific tax measures: span a is about the new 'micro-business' (עוסק זעיר) taxation model, while span b is about VAT invoice-number allocation anti-fraud measures (and touches on an unrelated property-tax item) - same umbrella bill, distinct specific matters."
+    },
+    "pair_0011": {
+      "label": "same",
+      "pair_id": "pair_0011",
+      "stratum": "positive",
+      "rationale": "Identical topic label (private member's bill פ/1458/25 exempting oncology drugs from VAT); span a (2023-03-14) is the bill's opening reading by MK Amsalem, span b (2023-03-22) is the direct continuation of the same bill's discussion a week later, same specific legislative matter."
+    },
+    "pair_0009": {
+      "label": "same",
+      "pair_id": "pair_0009",
+      "stratum": "positive",
+      "rationale": "Identical topic label on bank interest rates on housing loans/deposits; span a (2023-02-20) is the opening presentation by MK Farkash-Hacohen, span b (2023-02-27) is the direct continuation one week later with the Bank Supervisor presenting on the same specific matter (rates on deposits/mortgages)."
+    },
+    "pair_0021": {
+      "label": "same",
+      "pair_id": "pair_0021",
+      "stratum": "positive",
+      "rationale": "Identical, highly specific topic label (Chapter D - housing market taxation, same bill מ/1612, same excluded sections); both spans are consecutive committee markup sessions of that same chapter (REIT provisions, then apartment-swap provisions two weeks later) — a continuing clause-by-clause markup of the same legislative chapter."
+    },
+    "pair_0020": {
+      "label": "same",
+      "pair_id": "pair_0020",
+      "stratum": "positive",
+      "rationale": "Identical topic label (Chapter כ - local authorities, same enumerated sections, same bill מ/1612); both spans are sessions of the same ongoing markup process for that chapter (reservation votes on one date, substantive discussion with the Finance Minister on the other) — same specific legislative matter."
+    },
+    "pair_0022": {
+      "label": "same",
+      "pair_id": "pair_0022",
+      "stratum": "positive",
+      "rationale": "Identical topic label (Chapter D - housing market taxation, same bill מ/1612); both spans are sessions four days apart in the same clause-by-clause markup, covering different sub-provisions (shell-apartment definition vs. REIT incentives) of the same chapter's legislative process."
+    },
+    "pair_0007": {
+      "label": "same",
+      "pair_id": "pair_0007",
+      "stratum": "positive",
+      "rationale": "Identical topic label (customs/purchase-tax order on e-cigarette liquid, amendment 22); span a (2023-01-31) opens discussion of the same specific decree, span b (2023-02-14) is the direct continuation two weeks later debating the same decree's status and rates."
+    },
+    "pair_0060": {
+      "label": "related",
+      "pair_id": "pair_0060",
+      "stratum": "hard_neg",
+      "rationale": "Span a is a broad hearing on the general rise in milk prices industry-wide (mentioning the Ramat Golan dairy's closure risk as one example among several); span b is an entire session dedicated specifically to rescuing that one dairy — a related but narrower, distinct matter rather than the same journal entry."
+    },
+    "pair_0072": {
+      "label": "related",
+      "pair_id": "pair_0072",
+      "stratum": "hard_neg",
+      "rationale": "Span a is the Feb 20 session on housing-loan/deposit interest rates; span b, over three months later, is labeled as a continuation but its visible content is entirely a eulogy for a deceased rabbi with no visible overlap, and its topic label adds a distinct business-credit/inflation angle — related economic-policy territory but not confirmed as the same specific matter from the text given."
+    },
+    "pair_0069": {
+      "label": "new",
+      "pair_id": "pair_0069",
+      "stratum": "hard_neg",
+      "rationale": "Span a nominally concerns fee exemptions for nursing institutions employing foreign workers (though text is mostly garbled chair-name repetition) while span b concerns a 'ruined property' clause within the local-authorities chapter of the economic plan law — no substantive connection between the two matters."
+    },
+    "pair_0059": {
+      "label": "related",
+      "pair_id": "pair_0059",
+      "stratum": "hard_neg",
+      "rationale": "Both spans feature Bank of Israel Governor Amir Yaron before the Finance Committee, but span a is a general economic/cost-of-living briefing while span b is the statutorily-required presentation of the Bank of Israel's own institutional budget (which veers into a judicial-reform debate) — same institution/speaker but distinct specific matters."
+    },
+    "pair_0053": {
+      "label": "related",
+      "pair_id": "pair_0053",
+      "stratum": "hard_neg",
+      "rationale": "Both concern electing Moshe Gafni as chair, but a) is the vote for the temporary Finance Committee (Nov 2022, pre-government) while b) is the later vote for the permanent Finance Committee (Jan 2023) — same person, same underlying political story, but two formally distinct committees/votes rather than one continuous markup session."
+    },
+    "pair_0078": {
+      "label": "new",
+      "pair_id": "pair_0078",
+      "stratum": "hard_neg",
+      "rationale": "Same date and same omnibus bill package, but entirely different chapters: a) is revision/objection voting on Chapter ז' (banking/credit, P2P loan gate-raising), b) is Chapter ד' (housing taxation, REIT fund building-period extensions) — no substantive overlap beyond being sibling chapters of the same law voted the same day."
+    },
+    "pair_0024": {
+      "label": "same",
+      "pair_id": "pair_0024",
+      "stratum": "positive",
+      "rationale": "Identical topic label and identical substantive matter — both sessions are markup/discussion of Chapter ז' sections 25-26 on raising the P2P credit-company lending cap from 1M to 6M NIS, continuing the same legislative point across two dates (Apr 23 and May 3, 2023)."
+    },
+    "pair_0034": {
+      "label": "same",
+      "pair_id": "pair_0034",
+      "stratum": "positive",
+      "rationale": "Identical topic explicitly marked \"המשך דיון\" (continuation of discussion) on mortgage/deposit interest rates — both are direct continuations of the same ongoing committee discussion thread (May 31 and Jul 3, 2023)."
+    },
+    "pair_0055": {
+      "label": "same",
+      "pair_id": "pair_0055",
+      "stratum": "hard_neg",
+      "rationale": "Both sessions are markup of the same Chapter כ' fund (הקרן להרחבת ההשקעה בתושב) just four days apart, covering complementary sub-sections (a: fund establishment/council; b: fund monies/allocation/sources) — this is the same bill markup split across sequential sessions on the identical fund."
+    },
+    "pair_0092": {
+      "label": "new",
+      "pair_id": "pair_0092",
+      "stratum": "easy_neg",
+      "rationale": "a) is objection voting on the local-authorities investment fund chapter (housing/municipal incentive reform); b) is an unrelated matter — the government's special budget contribution to religious councils (מועצות דתיות) under a different statute entirely. No substantive connection."
+    },
+    "pair_0050": {
+      "label": "same",
+      "pair_id": "pair_0050",
+      "stratum": "positive",
+      "rationale": "Both are the same recurring topic thread — Finance Committee hearings with the Finance Minister on Swords of Iron war compensation policy, ten days apart (Oct 16 and Oct 26, 2023), continuing the same ongoing compensation-framework discussion."
+    },
+    "pair_0061": {
+      "label": "new",
+      "pair_id": "pair_0061",
+      "stratum": "hard_neg",
+      "rationale": "Same date but different chapters of the same omnibus bill with no substantive overlap: a) Chapter ט' on pension/insurance broker refusal-to-contract rules, b) Chapter ד' on housing-taxation REIT provisions."
+    },
+    "pair_0089": {
+      "label": "new",
+      "pair_id": "pair_0089",
+      "stratum": "easy_neg",
+      "rationale": "a) is about extending domestic-product procurement preference for factories near the Gaza border/Sderot; b) is about a cash-use-reduction bill chapter aimed at crime reduction — completely different policy areas with no substantive link."
+    },
+    "pair_0038": {
+      "label": "related",
+      "pair_id": "pair_0038",
+      "stratum": "positive",
+      "rationale": "Both are sessions of the recurring generic \"budget changes 2023\" agenda item, but cover entirely different specific requests: a) immigration/absorption ministry surplus transfers (housing for elderly, Ukraine crisis funding), b) national security ministry and housing ministry revision requests — same procedural session type, different substantive budget matters, so not one journal entry."
+    },
+    "pair_0010": {
+      "label": "same",
+      "pair_id": "pair_0010",
+      "stratum": "positive",
+      "rationale": "Both spans are the Finance Committee's markup/revision-vote of the identical VAT exemption regulation for fuel to Gaza (same regulation text, same aid organizations), on consecutive days (Feb 27-28 2023); B is literally the 'revision request' (בקשה לדיון מחדש) vote on the exact decision made in A."
+    },
+    "pair_0002": {
+      "label": "new",
+      "pair_id": "pair_0002",
+      "stratum": "positive",
+      "rationale": "Although both sessions share the generic recurring agenda title 'שינויים בתקציב לשנת 2022', A's excerpt is a chair's policy monologue on mortgage rates/housing affordability while B (a month later) processes unrelated specific budget-surplus transfer requests (Justice Ministry, Agriculture/Volcani Institute researcher, pension fund complaints) with no textual link back to A's housing discussion."
+    },
+    "pair_0091": {
+      "label": "new",
+      "pair_id": "pair_0091",
+      "stratum": "easy_neg",
+      "rationale": "Completely different subjects: A is about education-institution funding shortfalls raised by local council heads, B is about a customs/excise-duty order on fuel and lubricant products; no overlap in topic, legislation, or discussion content."
+    },
+    "pair_0042": {
+      "label": "same",
+      "pair_id": "pair_0042",
+      "stratum": "positive",
+      "rationale": "Both are committee sessions marking up the identical bill 'הצעת חוק לעידוד תעשייה עתירת ידע (הוראת שעה)' (מ/1577) - A is the opening session with the minister, B is a later clause-by-clause reading of amendments to the same bill."
+    },
+    "pair_0080": {
+      "label": "same",
+      "pair_id": "pair_0080",
+      "stratum": "hard_neg",
+      "rationale": "Same core policy investigation into bank interest rates on mortgages/deposits; B's topic label explicitly reads '...המשך דיון' (continuation of discussion) of the identical subject as A, and B's text references a prior related session with the Competition Authority, indicating an ongoing tracked committee investigation rather than a fresh unrelated matter. Flagged as a genuinely hard call given the ~3.5 month gap and B's broadened scope to business credit/inflation."
+    },
+    "pair_0044": {
+      "label": "same",
+      "pair_id": "pair_0044",
+      "stratum": "positive",
+      "rationale": "Both sessions are markup discussions of the identical bill 'הצעת חוק לעידוד תעשייה עתירת ידע (הוראת שעה)' (מ/1577), continuing the same legislative process toward second/third reading."
+    },
+    "pair_0017": {
+      "label": "same",
+      "pair_id": "pair_0017",
+      "stratum": "positive",
+      "rationale": "Both are markup sessions of the same bill 'הצעת חוק הפחתת הגירעון והגבלת ההוצאה התקציבית (תיקון מס' 23)' (מ/1612); B explicitly opens by referencing 'ב-16 באפריל דנו בהצעת החוק הזאת', directly continuing A's April 16 session."
+    },
+    "pair_0026": {
+      "label": "same",
+      "pair_id": "pair_0026",
+      "stratum": "positive",
+      "rationale": "Identical topic label (Chapter ז', sections 25-26 of the economic-plan bill on P2P credit-intermediary licensing) in both; B opens with 'עוברים לפרק עליו דנו אתמול' (we return to the chapter we discussed yesterday), directly continuing A's session on the same clauses."
+    },
+    "pair_0043": {
+      "label": "same",
+      "pair_id": "pair_0043",
+      "stratum": "positive",
+      "rationale": "Both are markup sessions of the same bill 'הצעת חוק לעידוד תעשייה עתירת ידע (הוראת שעה)' (מ/1577); B opens by summarizing where the previous (A's) session left off ('עצרנו בסוף עמוד 1411'), confirming direct continuity."
+    },
+    "pair_0001": {
+      "label": "same",
+      "pair_id": "pair_0001",
+      "stratum": "positive",
+      "rationale": "Both under 'שינויים בתקציב לשנת 2022'; B opens with 'אני מחדש את הישיבה' (I am resuming the session), explicitly reopening/continuing the same multi-day proceeding processing 2022 budget surplus (עודפים) transfer items begun in A the previous day. Flagged as a moderately hard call since specific items processed differ between the two excerpts, but the explicit resumption language indicates one continuous proceeding."
+    },
+    "pair_0062": {
+      "label": "same",
+      "pair_id": "pair_0062",
+      "stratum": "hard_neg",
+      "rationale": "Span a (Feb 20) is the committee promising a draft order soon covering exemptions for fuel-substitute diluents and lubricant oils; span b (Jun 26) presents exactly that draft customs-tariff/excise exemption order for the same reform, with the same officials discussing its history and revenue impact — a direct continuation of the same specific legislative decree process."
+    },
+    "pair_0068": {
+      "label": "related",
+      "pair_id": "pair_0068",
+      "stratum": "hard_neg",
+      "rationale": "Span a is a specific MK-initiated proposal on funding gaps for Arab-sector education institutions; span b is the general Ministry of Education 2023 budget presentation covering many unrelated sub-programs (gap reduction, academic tracks in high school, special-education reform). Same broad domain (education budget) but not the same specific legislative matter."
+    },
+    "pair_0003": {
+      "label": "new",
+      "pair_id": "pair_0003",
+      "stratum": "positive",
+      "rationale": "Both sessions share the recurring agenda title 'שינויים בתקציב לשנת 2022' but that is a generic standing item for processing budget reallocation requests; span a's actual content is a policy discussion on housing prices/mortgages while span b is a completely different set of specific budget transfer items (Bedouin authority computing costs, avian flu, cat neutering, Gaza evacuee institution) — no substantive overlap."
+    },
+    "pair_0029": {
+      "label": "same",
+      "pair_id": "pair_0029",
+      "stratum": "positive",
+      "rationale": "Both spans are the same committee session series on Chapter 9 tax reforms, specifically continuing the 'עוסק זעיר' (micro-business) taxation model discussion (sections 34-39) from one week to the next, with the same negotiation over exemption thresholds and percentages."
+    },
+    "pair_0030": {
+      "label": "same",
+      "pair_id": "pair_0030",
+      "stratum": "positive",
+      "rationale": "Both spans discuss the identical specific proposal — the new municipal arnona-based fund to incentivize housing construction (Chapter 20, same bill sections) — across two consecutive committee sessions a week apart, continuing the same negotiation."
+    },
+    "pair_0008": {
+      "label": "same",
+      "pair_id": "pair_0008",
+      "stratum": "positive",
+      "rationale": "Both spans are sessions on the exact same matter (fee exemption for nursing institutions employing foreign workers); span b is explicitly the brief closing of a follow-up session on 'also this topic', continuing span a's substantive discussion."
+    },
+    "pair_0012": {
+      "label": "same",
+      "pair_id": "pair_0012",
+      "stratum": "positive",
+      "rationale": "Span b explicitly states this is a follow-up session ('דיון מעקב') to the earlier discussion in span a on the identical proposal by MK Touma-Sliman regarding socioeconomic classification of local authorities."
+    },
+    "pair_0005": {
+      "label": "same",
+      "pair_id": "pair_0005",
+      "stratum": "positive",
+      "rationale": "Both spans are continuing sessions (weeks apart) on the identical matter — COVID-era aid/compensation for sweet potato growers — with the same stakeholders discussing compensation mechanisms."
+    },
+    "pair_0063": {
+      "label": "same",
+      "pair_id": "pair_0063",
+      "stratum": "hard_neg",
+      "rationale": "Span a is explicitly labeled a follow-up discussion ('דיון מעקב') and span b a continued discussion ('המשך דיון') on the identical matter of taxation of diluents and lubricant oils, with the same reform, same officials, and same open issues being tracked across sessions."
+    },
+    "pair_0098": {
+      "label": "new",
+      "pair_id": "pair_0098",
+      "stratum": "easy_neg",
+      "rationale": "Span a concerns extending confidentiality over the Eilat-Ashkelon pipeline company's (קצא\"א) environmental/security activities; span b concerns a law incentivizing knowledge-intensive tech industry. Completely different subject matter with no connection beyond both being Finance Committee sessions."
+    },
+    "pair_0040": {
+      "label": "new",
+      "pair_id": "pair_0040",
+      "stratum": "positive",
+      "rationale": "Both spans share the generic recurring agenda header 'שינויים בתקציב לשנת 2023' (routine surplus-transfer approvals), but the specific items discussed are completely disjoint: span a covers Finance Ministry development funds, Taglit/Masa, and the Ministry of Religious Services surplus, while span b covers the Health Ministry's COVID-related surplus and a classified Defense Ministry transfer. No shared ministry, request number, or substantive question — same procedural bucket, unrelated specific matters."
+    },
+    "pair_0070": {
+      "label": "same",
+      "pair_id": "pair_0070",
+      "stratum": "hard_neg",
+      "rationale": "Identical topic header on both interest-rate/bank-deposit-spread discussions; span b explicitly labels itself 'המשך דיון' (continued discussion) of the exact same subject, picking up the same substantive question (why banks don't raise deposit rates as BoI rate rises) with new testimony from the Competition Authority."
+    },
+    "pair_0064": {
+      "label": "related",
+      "pair_id": "pair_0064",
+      "stratum": "hard_neg",
+      "rationale": "Both concern quarry/mining license duration under the 20-year State Property Law cap, and span a's rapid-discussion motion explicitly calls for extending licenses (framing it as a RMI turf issue) — span b is the formal committee vote extending mining licenses under section 5(c). However, span a is a broad multi-issue policy debate (material shortages, RMI vs Energy Ministry authority, pirate quarries) while span b is a narrow statutory extension request with different numbers (to 30 years, not the 49 requested in a) and a distinct legal instrument — connected precursor/consequence but not the same specific proceeding, so treated as related rather than same. Genuinely a hard call given the tight substantive overlap on license duration."
+    },
+    "pair_0025": {
+      "label": "same",
+      "pair_id": "pair_0025",
+      "stratum": "positive",
+      "rationale": "Identical bill chapter and exact same sections (25-26, P2P credit-raising companies) in both spans; span b directly continues from 'we already discussed... didn't get answers' referencing the prior session's questions, moving into reservations before a vote on the same provision."
+    },
+    "pair_0019": {
+      "label": "same",
+      "pair_id": "pair_0019",
+      "stratum": "positive",
+      "rationale": "Same bill chapter and identical specific sections (local authorities fund, Kfar/Arnona equalization fund) in both spans; span b picks up directly with 'ממשיכים...קרן הארנונה' negotiating the same fund's allocation formula and data requests raised in the prior session."
+    },
+    "pair_0087": {
+      "label": "new",
+      "pair_id": "pair_0087",
+      "stratum": "easy_neg",
+      "rationale": "Span a is a tax-incentive bill for knowledge-intensive industry (conditions on employee headcount for M&A tax relief); span b is a budget-changes session covering Arab municipality equalization grants (Tibi's speech) and Holocaust survivor benefits funding. No overlap in subject matter."
+    },
+    "pair_0088": {
+      "label": "new",
+      "pair_id": "pair_0088",
+      "stratum": "easy_neg",
+      "rationale": "Span a covers dairy pricing policy and a new 'micro-business' (עוסק זעיר) tax regime; span b covers ministers' and deputy-ministers' salary/residence regulations (the Balfour residence renovation dispute). Entirely different substantive matters despite both being Finance Committee business."
+    },
+    "pair_0073": {
+      "label": "same",
+      "pair_id": "pair_0073",
+      "stratum": "hard_neg",
+      "rationale": "Both spans concern the identical National Insurance Law amendment (mesa mesalet default track for child savings, tikun 232); span a applies the continuity rule carrying the bill from the prior Knesset, and span b is the direct continuation toward final passage, referencing the same MKs and the earlier first-reading history."
+    },
+    "pair_0093": {
+      "label": "new",
+      "pair_id": "pair_0093",
+      "stratum": "easy_neg",
+      "rationale": "Span a is a detailed markup of the micro-business (עוסק זעיר) tax bill sections 34-39 (threshold and deduction percentage amendments); span b is a routine budget-surplus-transfer session covering Finance Ministry development and Religious Services funds. Different chapters of different bills, no shared substance."
+    },
+    "pair_0094": {
+      "label": "new",
+      "pair_id": "pair_0094",
+      "stratum": "easy_neg",
+      "rationale": "Span a is a reservations (הסתייגויות) vote sequence on the local-authorities fund bill (housing-quota/arnona fund, opposition protest framing); span b is a dispute over the Finance Minister's fiscal-trends letter under the Basic Law: State Economy for 2024 budget projections. Both are committee business but address unrelated specific questions."
+    },
+    "pair_0004": {
+      "label": "same",
+      "pair_id": "pair_0004",
+      "stratum": "positive",
+      "rationale": "Both spans are consecutive Finance Committee sessions (Dec 2022, Jan 2023) tracking the identical specific crisis: the threatened closure of the Lahavim (BTL/Pratt & Whitney compressor blades) plant and the fate of its ~900 workers; the second is explicitly a follow-up session on the same matter."
+    },
+    "pair_0096": {
+      "label": "new",
+      "pair_id": "pair_0096",
+      "stratum": "easy_neg",
+      "rationale": "A is about establishing a procedure for appointing Knesset/President's Office/State Comptroller director-generals; B is about extending 'buy Israeli' procurement preference for factories near the Gaza envelope/Sderot. No substantive overlap beyond both being Finance Committee business."
+    },
+    "pair_0100": {
+      "label": "new",
+      "pair_id": "pair_0100",
+      "stratum": "easy_neg",
+      "rationale": "A concerns implementation of a public-sector wage agreement for kindergarten teaching assistants; B concerns a bill chapter restricting cash holdings/transactions to combat crime. Entirely different policy matters."
+    },
+    "pair_0090": {
+      "label": "new",
+      "pair_id": "pair_0090",
+      "stratum": "easy_neg",
+      "rationale": "A is about war/indirect-damage compensation regulations (Property Tax and Compensation Fund) tied to a specific military escalation; B is a session on mortgage interest rates and bank deposit interest with the Finance Minister. Unrelated subjects."
+    },
+    "pair_0041": {
+      "label": "same",
+      "pair_id": "pair_0041",
+      "stratum": "positive",
+      "rationale": "Both sessions (June 20 and July 10, 2023) address the identical, narrowly defined matter: setting the government's special contribution to religious councils' budgets under section 11b of the Jewish Religious Services Law for fiscal year 2023 — a direct continuation of the same funding-formula deliberation."
+    },
+    "pair_0076": {
+      "label": "related",
+      "pair_id": "pair_0076",
+      "stratum": "hard_neg",
+      "rationale": "Both spans concern bank interest rates on housing loans vs. deposit interest, part of a recurring committee oversight thread (topic labels nearly identical, B explicitly marked as continued discussion referencing prior sessions). However, the specific sessions differ substantially in framing and scope — A is an MK-petition-driven hearing centered on a comparative rate-gap graph, while B is a broadened session with the Finance Minister tying rates to inflation and business-sector credit access — so I lean toward related rather than merging as one bounded matter, per the same/related tie-break rule."
+    },
+    "pair_0031": {
+      "label": "same",
+      "pair_id": "pair_0031",
+      "stratum": "positive",
+      "rationale": "Consecutive-day sessions (May 8 and May 9, 2023) markup the identical chapter of the economic bill on insurance/pension mediation, specifically the same disputed provision on 'unreasonable refusal to contract' between institutional bodies and pension advisors — a direct continuation of the same clause negotiation."
+    },
+    "pair_0099": {
+      "label": "new",
+      "pair_id": "pair_0099",
+      "stratum": "easy_neg",
+      "rationale": "A discusses the methodology for the socio-economic index used to extend income-tax benefits for certain settlements; B discusses insurance/pension intermediation legislation (section 36, refusal to contract). Different bills and different substantive matters."
+    },
+    "pair_0023": {
+      "label": "same",
+      "pair_id": "pair_0023",
+      "stratum": "positive",
+      "rationale": "Both sessions (April 19 and April 30, 2023) continue markup of the same bill chapter (Chapter D, housing market taxation) within the same economic efficiency law, covering the same set of provisions (rental reporting duty, exemption erosion, housing taxation reform) as an ongoing clause-by-clause negotiation."
+    },
+    "pair_0046": {
+      "label": "same",
+      "pair_id": "pair_0046",
+      "stratum": "positive",
+      "rationale": "Both sessions (June 7 and July 16, 2023) concern the identical bill — Sports Gambling Regulation Law Amendment 17 — with the second explicitly following up on negotiations (sports club/center funding terms) opened in the first session."
+    }
+  }
+}

@@ -21,6 +21,7 @@ logs/
 *.fls
 *.fdb_latexmk
 *.synctex.gz
+*.xdv
 
 # Editor / OS
 .DS_Store
@@ -28,3 +29,10 @@ logs/
 .vscode/
 *.swp
 *.swo
+
+# Unrelated to the Knesset Protocol Journal project (see CLAUDE.md project isolation rule)
+al_nlp_benchmark/
+exercises/
+
+# Intermediate backup snapshots (segmentation.json.bak etc.)
+*.bak

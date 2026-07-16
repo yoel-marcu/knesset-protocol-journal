@@ -1,0 +1,3116 @@
+[
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 75
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 70
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"score\": 15,\n  \"priorities\": [\n    {\n      \"rank\": 1,\n      \"text\": \"<segment>היו\\\"ר משה גפני: בוקר טוב, אני מתכבד לפתוח את ישיבת ועדת הכספים. אני מקדם בברכה את פרופ\\' א",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"אין תשובה חד-משמעית לגבי המועמד המתאים ביותר לתפקיד יו\"ר ועדת הכספים בהתחשב בניסיון העבר של המועמדים, עמדותיהם הפוליטיות, והתפקידים הקודמים שלהם.\"\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"The passage discusses various topics including inflation, interest rates, and economic policies. The speaker emphasizes the importance of controlling government spending ",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"הוועדה המסדרת אישרה את מינויו של ח\"כ משה גפני ליו\"ר ועדת הכספים הזמנית ברוב של 17 מול 11.\"\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"The Bank of Israel will assist in providing expertise on economic processes within the relevant committees, provided they are conducted in a professional and respectful m",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"Major dairy companies in Israel have been hit hard by the recent rise in prices of raw materials used in their production processes. The price hike has led to increased c",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"The Bank of Israel has been invited to present a review on inflation, interest rates, and their impact on the cost of living in Israel. The presentation will also cover t",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"אמיר ירון: קודם כול, תודה, הרב גפני, בוקר טוב לוועדה, לחברי הכנסת ולשאר הנוכחים. דקה לפני שאני אתחיל בסקירה, וזאת סקירה בעיקרה, ברצוני להגיד משהו",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"approved\": true,\n    \"amount\": 256762,\n    \"category\": \"development\",\n    \"description\": \"Sector 7002/02 - NIS 2,065,762\",\n    \"id\": \"257\",\n   ",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"Amir Yaron: The inflation, like you see here in blue, represents the inflation in Israel. The line in green represents the inflation rate relative to the trend. It’s impo",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"status\": \"approved\",\n    \"recommended\": true,\n    \"reasoning\": \"The requested pnayment is approved due to the recommendation of the Finance Committee members. However, further in",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"approved\": true,\n    \"amount\": 2065762,\n    \"category\": \"housing development\",\n    \"description\": \"Funding request for Housing Development in Magharim Communities.\",\n    \"source\"",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"status\": \"approved\",\n    \"reasons\": [\n      \"הוועדה כאן בראשותי עשתה את חוק בנק ישראל עם פרופ' סטנלי פישר.\",\n      \"אני לא מתכוון לשתוק בעניין הזה. אני חושב שזו פ",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"היועצת המשפטית לכנסת שגית אפיק: לא.\"\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"eurozone_inflation\": 10.6,\n    \"israeli_inflation\": 5.1,\n    \"oecd_average_inflation\": 8.8,\n    \"us_inflation\": 7.7,\n    \"unemployment_rate\": ",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"approved\": true,\n    \"amount\": 2065762,\n    \"category\": \"housing development\",\n    \"description\": \"Funding request for Housing Development in Magharim Minorities\",\n    \"id\": 257,",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"Professor Amir Yaron, Governor of Bank Israel, will present his review on current economic issues in front of the temporary Finance Committee.\"\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"approval\": true,\n    \"amount\": 15.5,\n    \"purpose\": \"funding for park restoration project and operational expenses\",\n    \"source\": \"environmental protection fund\",\n    \"status\": ",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"There will be a special session on Tuesday regarding the closure of the Technologies Blades factory. The chairman of the committee, Moshe Gafni, has already spoken with t",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"הצעת אישור השקעת המדינה בחברת פארק אריאל שרון בע\"מ (חל\"צ) בהתאם לסעיף 10 לחוק החברות הממשלתיות, התשל\"ה – 1975.\"\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"הוועדה המסדרת אישרה את מינויו של ח\"כ משה גפני ליו\"ר ועדת הכספים הזמנית\",\n    \"category\": \"politics\"\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"id\": \"143\",\n    \"type\": \"request\",\n    \"status\": \"approved\",\n    \"amount\": 15000,\n    \"purpose\": \"for projectors in local authorities\",\n    \"source\": \"decision 2379\",\n    \"effect",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"approved\": true,\n    \"status\": \"passed\",\n    \"reasoning\": \"The request is approved based on the following reasons:\\n\\n1. The company has undergone a restructuring process in 2014",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"There is no JSON verdict available.\"\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"approval\": true,\n    \"reasoning\": \"The request is approved based on the recommendation of the Minister of Environmental Protection and the support of the Finance Committee.\"\n  }\n",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"approved\": true,\n    \"description\": \"הפנייה אושרה. פנייה מס' 143: רשויות פיקוח - פעילות האגף לשילוב האוכלוסייה הבדואית בנגב במשרד הרווחה. הפנייה נועדה לתקצב ס",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"status\": \"pass\",\n    \"reasoning\": \"The requested information can be extracted from the following JSON verdict:\\n\\n{\\n  \\\"verdict\\\": {\\n    \\\"status\\\": \\\"pass\\\",\\n    \\\"reasoning\\",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"I will work on finding a solution to prevent the closure of the plant.\"\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"id\": \"258-261\",\n    \"type\": \"תקצוב\",\n    \"description\": \"50 מיליון שקל עבור פיתוח מזרח ירושלים, 12.25 מיליון שקל עבור פרויקטי תשתיות בירושלים, בהתאם להחלטת ממשלה משנת 201",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"id\": \"258-261\",\n    \"type\": \"משרד ראש הממשלה\",\n    \"description\": \"תקצוב 50 מיליון שקל עבור פיתוח מזרח ירושלים, במשרד ירושלים ומורשת, שזה נועד לפיתוח מבני ציבור.\",\n    \"status\":",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"approved\": true,\n    \"amount\": 15.5,\n    \"purpose\": \"funding for park ariel sharon company\",\n    \"source\": \"ministry of environmental protection's clean fund\",\n    \"status\": \"pen",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"pniot_mishrad_hamisim\": [\n      {\n        \"id\": \"258\",\n        \"name\": \"פיתוח מזרח ירושלים\",\n        \"description\": \"50 מיליון שקל עבור פיתוח מבני ציבור\",\n        \"status\": \"בוצע",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"pniya\": \"משרד ראש הממשלה\",\n    \"pnayim\": [\"258\", \"259\", \"260\", \"261\"],\n    \"status\": \"discussed\",\n    \"takziv\": 50000000,\n    \"m",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n    \"verdict\": {\n        \"priorities\": [\"משרד החינוך\"],\n        \"status\": \"pending\",\n        \"recommendations\": [\n            {\n                \"priority\": \"משרד החינוך\",\n                \"descriptio",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"request\": \"התייקרות תעריפי המים\",\n    \"status\": \"בוצע\",\n    \"startDate\": \"2022-12-05\",\n    \"endDate\": \"2022-12-12\",\n    \"affectedParties\": [\"",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"The requested information can be found in the following JSON format:\\n\\n{\\n  \\\"status\\\": \\\"approved\\\",\\n  \\\"request\\\": {\\n    \\\"id\\\": \\\"1\\\",\\n    \\\"name\\\": \\\"Israel Post ",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"approved\": true,\n    \"opposition\": false,\n    \"abstention\": false\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"approved\": true,\n    \"opposition\": false,\n    \"abstention\": false,\n    \"totalVotes\": 1,\n    \"majorityRequired\": false\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"pane_id\": \"2022-11-28\",\n    \"text\": \"הבטחתם שתהיו פה להרבה שנים ובסוף אתם רק שנה פה, חבל.\",\n    \"type\": \"quote\"\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"approved\": true,\n    \"revisions\": [\n      {\n        \"member\": \"ינון אזולאי\",\n        \"status\": \"pending\"\n      }\n    ],\n    \"priorities\": [\n      {\n        \"priority\": \"high\",\n  ",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"approved\": true,\n    \"reasoning\": [\n      {\n        \"type\": \"priorities\",\n        \"text\": \"הבקשה התקציבית נועדה להעברת עודפים משנת התקציב 21' לשנת התקציב 22' בסך של 24,665",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"priorities\": [\"משרד השיכון\"],\n    \"status\": \"discussing\",\n    \"actions\": [\"העברות תקציביות\", \"עודפים\"],\n    \"participants\": [\"יפתח עשהאל\", \"אימאן ח'טיב יאסין\", \"יוסי שב",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"This is the JSON verdict:\",\n    \"json\": \"[\\\"This is the JSON verdict:\\\"]\"\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"approved\": true,\n    \"reasons\": [\"העברת תקציב של 559 מיליון שקל בהרשאה להתחייב וארבעה תקני כוח אדם למשרד האנרגיה בהתאם לפירוט הבא\"],\n    \"questions\": [\"למה זה לא נמצא במש",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"approved\": true,\n    \"opposition\": false,\n    \"abstention\": false\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"There is no JSON verdict in the provided text.\"\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"approved\": true,\n    \"opposition\": false,\n    \"abstention\": false,\n    \"status\": \"passed\",\n    \"vote_count\": 1,\n    \"minimum_required\": 1,\n    \"majority_required\": false\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"approved\": true,\n    \"revisions\": [\n      {\n        \"member\": \"ינון אזולאי\",\n        \"status\": \"pending\"\n      }\n    ]\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"approved\": true,\n    \"reasons\": [\n      \"משרד הבריאות\",\n      \"החלטת ממשלה\",\n      \"מקור כללי\",\n      \"צעדים לא צפויים\",\n      \"אירועים לא ידועים\",\n      \"עלייה מסיבית מ",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"I will do everything I can to stop the establishment of another reform committee in the Knesset. This would harm the work of the existing committees, including the Statut",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"approved\": true,\n    \"reasoning\": {\n      \"funding\": {\n        \"sources\": {\n          \"temporary_budget_supplement\": {\n            \"amount\": 4000000,\n            \"purpose\": \"oper",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"priorities\": [\"משרד החינוך\", \"משרד המשפטים\"],\n    \"issues\": [\"תמרוץ וטיפוח\", \"תרבות בציבור החרדי\"],\n    \"status\": \"pending\",\n    \"deadline\": \"before end of year\",\n    \"actions\": ",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"approved\": true,\n    \"opposition\": false,\n    \"abstention\": false\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"pniot\": [\n      {\n        \"id\": \"258\",\n        \"description\": \"פנייה תקציבית להעברת עודפים משנת התקציב 2021 לשימוש ב-22' בסך 111,948 אלפי ₪ בהתאם לפי",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"There is no JSON verdict in the provided text.\"\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"approved\": true,\n    \"reasoning\": {\n      \"priorities\": [\"funding for development in minority communities\"],\n      \"questions\": [\"why is funding allocated differently between dif",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"decision\": \"לא לקיים את הדיון\",\n    \"reasons\": [\"החלטה חד משמעית של ועדת הכספים\"]\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"status\": \"approved\",\n    \"vote_count\": 1,\n    \"opposing_votes\": 0,\n    \"abstaining_votes\": 0\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"pnei_lova\": [\n      {\n        \"number\": \"210-213\",\n        \"description\": \"משרד התחבורה\"\n      },\n      {\n        \"number\": \"264-268\",\n        \"description\": \"משרד החינוך",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"id\": \"36012\",\n    \"type\": \"פנייה\",\n    \"status\": \"אושר\",\n    \"description\": \"פנייה 36012 - שירותי דת\",\n    \"details\": {\n      \"items\": [\n        {\n          \"item",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"approved\": true,\n    \"opposition\": false,\n    \"abstention\": false\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"status\": \"approved\",\n    \"reasons\": [\n      \"הבקשה אושרה פנייה מס' 143: רשויות פיקוח - פעילות האגף לשילוב האוכלוסייה הבדואית בנגב במשרד הרווחה.\",\n      \"הבקשה",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"priorities\": [\"224\"],\n    \"status\": \"pending\"\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"approved\": true,\n    \"funding_source\": \"government\",\n    \"amount\": 2065762,\n    \"purpose\": \"development of housing sites in minority communities\",\n    \"ministry\": \"housing and co",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"approved\": true,\n    \"rejected\": false,\n    \"abstained\": false\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"pniya\": \"258-261\",\n    \"ministry\": \"mishrad_hamamlachti\",\n    \"type\": \"takzubim\",\n    \"amount\": \"50000000\",\n    \"purpose\": \"fitehut_me",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"priorities\": [\"23-470-000\", \"32\"],\n    \"approved\": true\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"approved\": true,\n    \"reasons\": [\n      \"הפנייה אושרה\",\n      \"הפנייה אושרה לאחר שהוועדה קיבלה את הנתונים\",\n      \"הפנייה אושרה לאחר שהוועדה השתכנעה שיש סיבה לאשר את שני הדברים י",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"priorities\": [\n      {\n        \"priority\": 1,\n        \"text\": \"הדרישה של האוצר, למיטב הבנתנו, נועדה לאפשר להם לשלם לביטוח הלאומי על פי הוראות חוק הביטוח הלאומי וסעיף",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"approved\": true,\n    \"opposition\": false,\n    \"abstention\": false,\n    \"totalVotes\": 2,\n    \"majorityRequired\": 1,\n    \"minorityRequired\": 0\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"Dana Dobar will explain beyond this.\"\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"approved\": true,\n    \"opposition\": false,\n    \"abstention\": false,\n    \"id\": \"08-004\",\n    \"description\": \"משרד המשפטים\"\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"approved\": true,\n    \"rejected\": false\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"The requested information can be found in the following JSON format:\",\n    \"json\": \"[\n      {\n        \"number\": \"210\",\n        \"name\": \"משרד התחבורה\",\n        \"descriptio",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"approved\": true,\n    \"status\": \"pass\",\n    \"reasoning\": \"The request was approved by the committee after reviewing the proposal presented by Yoram Horovitz on behalf of the Minis",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"approved\": true,\n    \"opposition\": false,\n    \"abstention\": false\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"approved\": true,\n    \"reasoning\": \"The requested pnimeh (pniyot mishpatim vekalkul) was approved by the committee due to the necessity of managing information within the ministry",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"requestNumber\": 24033,\n    \"type\": \"transfer\",\n    \"amount\": 288940000,\n    \"purpose\": \"supporting health funds for coronavirus tests and vaccinations\",\n    \"year\": 2022,\n    \"mo",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"approved\": true,\n    \"id\": 36012,\n    \"type\": \"pniya\",\n    \"text\": \"פנייה מס' 36012 - משרד הבריאות. אורן כהן: הפנייה הזאת נועדה לתקצב סך של 1",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"priorities\": [\"33-01-02\", \"33-06-03\"],\n    \"changes\": [{\n      \"type\": \"addition\",\n      \"amount\": 1800000,\n      \"description\": \"Rashut Habdouim\"\n   ",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"The pensions were approved in two separate motions.\"\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"priorities\": [\n      {\n        \"number\": 348,\n        \"description\": \"משרד הפנים\",\n        \"amount\": 87,\n        \"type\": \"הוצאה\"\n      },\n      {\n        \"number\": 349,\n        \"",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"punishments\": [],\n    \"approvals\": [\n      {\n        \"type\": \"favorable\",\n        \"number\": 1,\n        \"description\": \"פנייה מס' 08-004 אושרה ברוב של 1 מול 0\"\n      },\n      {",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"priorities\": [\"23-017\", \"295\"],\n    \"approved\": [\"23-017\", \"295\"]\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"priorities\": [\"223\"],\n    \"status\": \"approved\",\n    \"amount\": 14500000,\n    \"description\": \"פיתוח מערכות מחשוב לאגף החשב הכללי ותכנית פיילוט של חברות הזנק בחברות הממש",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"approved\": true,\n    \"reasons\": [\n      \"הפנייה התקציבית נועדה לתקצוב סך של 45,564,000 אלפי ₪ וכן תקצוב בסך של 54,846 אלפי ₪",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"approved\": true,\n    \"amount\": 2065762,\n    \"description\": \"פיתוח אתרים כלליים וביישובי מיעוטים\",\n    \"source\": \"משרד הבינוי והשיכון\",\n    \"type\": \"הרשאה להתחייב",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"approved\": true,\n    \"reasoning\": [\n      \"המדינה במקום לתת תקציב לעמותות השונות מן הסוגים השונים נותנת פטור ממס על תרומות.\",\n      \"התוצאה תהיה בסופו של דבר שאנחנו נא",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"approved\": true,\n    \"opposition\": false,\n    \"restrictions\": {\n      \"timeframe\": \"immediate\",\n      \"conditions\": [\"funding source verification\", \"legal compliance\"]\n    },\n   ",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"Amihai Rozenberg, the head of Israel’s Water Authority, said that the authority had already postponed the increase in water prices until January due to the war in Ukraine",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"Amir Yaron, Governor of Bank Israel, gave a presentation on various economic topics including inflation, interest rates, and fiscal policy. He emphasized the importance o",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"הנושא הוא נושא חשוב, משמעותי.\"\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"approved\": false,\n    \"reason\": \"This pne will not be approved due to the fact that the government has been making requests in a way that does not follow the committee’s norms. T",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"priorities\": [\"22008\", \"36012\"],\n    \"statuses\": [\"אושר\", \"הצבעה\"]\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"pniya\": \"210-213\",\n    \"mishrad\": \"tahbura\",\n    \"hakarat\": \"34,259 אלף ש\\\"ח\",\n    \"cholka\": [\n      {\n        \"mishra\": \"40-5",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"approved\": true,\n    \"reason\": \"הפנייה התקציבית נועדה להעברת עודפים משנת התקציב 2021 לשנת התקציב 2022 בסך של 4,232 אלפי ₪ - - - העודפים פה מחולקים",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"pniya_id\": \"225\",\n    \"status\": \"passed\",\n    \"vote_count\": 10,\n    \"opposition_count\": 0\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"I will not output any part of the segment text above.\"\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"There will be a special session on the closure of the Technologies Blades factory in Israel’s Knesset Finance Committee next week. The chairman of the committee, Moshe Ga",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"This is the JSON verdict.\"\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"pniot_meyushamim\": [\n      {\n        \"id\": \"375-379\",\n        \"type\": \"תקצוב\",\n        \"status\": \"אושר\",\n        \"description\": \"התקצוב נועד לתקצוב סך של 4",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"מי בעד? ירים את ידו.\",\n    \"language\": \"hebrew\",\n    \"context\": \"היו\\\"ר משה גפני: בוקר טוב. אני מתכבד לפתוח את ישיבת ועדת הכספים.\"\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"requestNumber\": 13026,\n    \"purpose\": \"to approve additional funds for payments of unpaid grants in the amount of NIS 85,485,000 under the framework of dealing with COVID-19\",\n  ",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"approved\": true,\n    \"priorities\": [\"תקצוב סך של 2,889 ש\\\"ח עבור מיזם ינביע\", \"העברת תקנים בין הרשויות\"],\n    \"questions\": [\"כמה כסף זה?\", \"מאיפה התקנים האלה",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"approved\": true,\n    \"reason\": \"The request was approved due to the importance of continuing the project and saving lives.\"\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"approval\": true,\n    \"opposition\": false,\n    \"abstention\": false\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"einflation\": \"5.1%\",\n    \"oecd_inflation\": \"5.1%\",\n    \"unemployment\": \"-2.6%\",\n    \"wages\": \"+4.6%\",\n    \"cost_of_living\": \"+5.1%\",\n",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"status\": \"approved\",\n    \"reasons\": [\n      \"הצעה למינוי מועמד למשרת מנכ\"ל הכנסת, מנכ\"ל לשכת נשיא המדינה ומנכ\"ל משרד מבקר המדינה תוגש לוועדת הכספים על ידי מי שה",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"This pivot table contains information about the requested funds transfer within the Ministry of Transportation. The total amount of NIS 34,259,000 will be distributed amo",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"The committee will hold a debate on the mass layoffs in the economy. Member of Knesset Yinon Azoulay requested the debate.\"\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"approved\": true,\n    \"opposition\": false,\n    \"amendment_request\": false\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"הפנייה אושרה.\"\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"rationale\": \"To provide the requested JSON verdict without including the segment text above.\",\n    \"output\": \"[\n      {\n        \"text\": \"\\\"רלב\\\";\",\n        \"type\": \"phrase\",\n    ",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"status\": \"approved\",\n    \"reasoning\": \"The request is approved based on the following reasons:\",\n    \"reasons\": [\n      \"To support the implementation of Covid-19 testing and vac",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"approved\": true,\n    \"opposition\": false,\n    \"abstention\": false\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"This request seeks approval for a change in the 2022 budget for the Ministry of Agriculture and Rural Development. The requested changes include additional funding for va",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"request\": \"הצעת אישור השקעת המדינה בחברת פארק אריאל שרון בע\\\"מ (חל\\\"צ) בהתאם לסעיף 10.\",\n    \"response\": \"הצעת אישור השקעת המדינה בחברת פארק אריאל",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n    \"verdict\": {\n        \"text\": \"הצעת תקנות נכי המלחמה בנאצים (טיפול רפואי) (תיקון), התשפ\\\"ג-2022; הצעת צו נכי רדיפות הנאצים (שינוי שיעור התגמולים), התשפ\\\"ג-202",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"הוועדה תבחר כמה תשובות בפניה המס' 264-268: משרד החינוך.\"\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"פנייה 26005: משרד האנרגיה. הלאל חלאילה: הבקשה דנה בסעיף של משרד האנרגיה. מטרת הפנייה היא העברת תקציב של 559 מיליון שקל בהרשאה להתחייב עבור מערכ",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"pniot_lo_vadat\": [\n      {\n        \"number\": \"210-213\",\n        \"description\": \"משרד התחבורה\",\n        \"status\": \"passed\"\n      },\n      {\n        \"number\": \"264-268\",",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"approved\": true,\n    \"priorities\": [\"עודפים\", \"הלוואות לעובדי מדינה\"],\n    \"revisions\": false\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"approved\": true,\n    \"reasoning\": \"The requested funding approval for the Israel Securities Authority’s budget for 2023 was approved unanimously.\"\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"id\": \"2022-12-28\",\n    \"type\": \"json\",\n    \"text\": \"[INST] What was discussed in the meeting regarding the proposed budget for the State Comptroller's Office? Can you provide me ",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"approved\": true,\n    \"opposition\": false,\n    \"abstention\": false\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"pniya_teqatzeb\": true,\n    \"mechirim_vekalkul\": false,\n    \"mishpati_haklali\": true,\n    \"tachzirat_batey_din\": true,\n    \"nitzotz_beitey",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"priorities\": [\"משרד המשפטים\", \"בנק ישראל\"],\n    \"approved_funding\": [\n      {\n        \"name\": \"משרד המשפטים\",\n        \"amount\": 91814000\n      },\n      {\n        \"name\": \"בנק ישר",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"There was a mistake in the letter sent by the heads of local authorities against the agreements where children in the ultra-Orthodox sector will not receive equal funding",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"priorities\": [\"216\", \"217\", \"218\"],\n    \"status\": \"pending\",\n    \"deadline\": \"January 23rd\",\n    \"committee\": \"Knesset Finance Committee\",\n    \"chairman\": \"Moshe Gafni\",\n",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"approved\": true,\n    \"opposition\": false,\n    \"abstention\": false,\n    \"voteCount\": 1,\n    \"majorityRequired\": false\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"status\": \"pass\",\n    \"reasoning\": \"The provided input contains a valid JSON structure.\"\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"Major changes in dairy prices have been observed over the past decade due to various factors such as inflation, COVID-19 pandemic, and the war in Ukraine. The cost of fee",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"changes\": {\n      \"taken\": [\n        {\n          \"amount\": 1800000,\n          \"type\": \"money\",\n          \"destination\": \"rashut habdavim\",\n          \"source\": \"54\",\n          \"de",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"status\": \"approved\",\n    \"recommendations\": [\"to put the exemption in writing and to issue a directive on the subject\"],\n    \"issues\": []\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"There was a delay in approving the requested funds due to various reasons, including disagreements between the relevant parties during discussions on the budget. The fund",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"הצעת תקנות נכי המלחמה בנאצים (טיפול רפואי) (תיקון), התשפ\\\"ג-2022; הצעת צו נכי רדיפות הנאצים (שינוי שיעור התגמולים), התשפ\\\"ג-202",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"approved\": true,\n    \"opposition\": false,\n    \"abstention\": false\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"approved\": true,\n    \"id\": 256\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"There was no change in the price of electricity over the past two years.\"\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"pniya_id\": \"225\",\n    \"status\": \"measaprim\",\n    \"type\": \"hatsarat\",\n    \"amount\": \"1137800000\",\n    \"description\": \"הגדלת השתתפות אוצר המדינה בג",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"שר החינוך יואב קיש: תודה רבה לך, הרב גפני, יושב ראש ועדת הכספים. צריך לראות את התמונה הכוללת: יוקר המחייה והשכר - כל הנתונים האלה. אמיר",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"הרב גפני נבחר ברוב קולות לכהן כיו\"ר ועדת הכספים הזמנית.\"\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"Prof. Amir Yaron, Governor of Bank Israel, will present his assessment on the current situation regarding electricity prices in Israel.\"\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"taken_from_text\": \"אמיר ירון: יש הבדל גדול אחד, ולכן אנחנו לא בהכרח עובדים אחד לאחד עם מה שקורה בעולם. בארצות-הברית, המשכנתאות, הרבה מהן, הן רק בריבית קבועה,",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"ידידיה גרינוולד: פנייה מס' 143: היחידה לשילוב האוכלוסייה הבדואית בנגב – הפנייה נועדה לתקצב סך של 15,000 ש\"ח בהרשאה וכן שינויים",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"approved\": true,\n    \"amount\": 70899000,\n    \"purpose\": \"תקצוב 70,899,000 ₪ בהרשאה להתחייב עבור הסכם מימון עם חברה ממשלתית נצר השרו",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"approved\": true,\n    \"opposition\": false,\n    \"abstention\": false,\n    \"number\": 10,\n    \"text\": \"\"\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"status\": \"approved\",\n    \"reasoning\": \"The requested funding transfer of 111,948 NIS from 2021 to 2022 is approved for the operational expenses of the Institute of Forensic Medic",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"There is currently a shortage of workers in certain industries such as construction, agriculture, and caregiving due to a lack of local labor supply. The government has b",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"approved\": true,\n    \"opposing\": false,\n    \"abstaining\": false,\n    \"result\": \"רוב גדול\",\n    \"text\": \"\"\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"There was a significant increase in prices in Israel starting in 2009, which has been a linear trend. However, over the past year and a half, the rate of price increases ",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"id\": \"08014\",\n    \"type\": \"transfer\",\n    \"amount\": 3043000,\n    \"department\": \"משרד המשפטים\",\n    \"year\": \"2022\",\n    \"description\": \"פרויקטים טכנולו",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"Yes, there is a significant difference between the quality of the Chinese garlic and the Israeli garlic. The Chinese garlic has less of the beneficial compound called 'al",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"decision\": \"הצעה למינוי מועמד למשרת מנכ\"ל הכנסת, מנכ\"ל לשכת נשיא המדינה ומנכ\"ל משרד מבקר המדינה תוגש לוועדת הכספים על ידי מי שהוסמך לכך לפי חוק שירות המד",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"approved\": true,\n    \"opposition\": false,\n    \"abstention\": false\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"שלומית ארליך: רגע יש עוד. החלטת משכורת נושאי משרה שיפוטית (תיקון), התשפ\\\"ג-2023 בתוקף הסמכות לפי סעיף 10 לחוק-יסוד: השפיטה, מח",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"approved\": true,\n    \"amount\": 8500000,\n    \"category\": \"services\",\n    \"description\": \"municipal religious services, support grants, cemeteries, salaries and operations, rabbini",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"status\": \"pass\",\n    \"reasoning\": \"The provided input contains the requested JSON verdict.\"\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"There will be no establishment of another reform committee in the Knesset. This would harm the work of the existing statutory committees such as Finance Committee, Econom",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"Prof. Amir Yaron, Governor of Bank Israel, has been invited to attend the first meeting of the temporary Committee on Finance, which will discuss relevant economic issues",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"There was a heated debate between members of various political parties regarding the establishment of a new reform committee in the Knesset, which they believe would nega",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"הצעת אישור מוסדות ציבור לעניין סעיף 46 לפקודת מס הכנסה, רשימה שסימנה 2023-000497\",\n    \"category\": \"legislation\",\n    \"status\": \"passed\",\n",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"Prof. Grunau: I have been serving as chairman of public committees for thirty years, when ministers came from all parties. Starting with Shulamit Aloni, Rabbi Atias, Mini",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"There was a significant increase in prices in Israel starting in 2009, which has been a steady linear rise. However, over the past year and a half, the rate of price incr",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"passage\": \"\",\n    \"answer\": \"yes\"\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"The requested information can be found in the following JSON format:\",\n    \"json\": \"[\n      {\n        \"id\": \"1\",\n        \"name\": \"Lirom Baranes\",\n        \"role\": \"Deputy ",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"החוק של הטבות המס ליישובים חוקק לפני כשש שנים על פי קריטריונים שנקבעו בוועדה. רשות המסים טענה אז שהכסף שהולך להטבות מס עדיף שילך לחינוך, רווחה ותשתיות. הממשלה אישרה",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"decision\": \"אישור\",\n    \"reasoning\": \"הצעת צו תעריף המס והפטורים ומס קנייה על טובין (תיקון מס' 22), התשפ\\\"ג-2023 (מס על נוזל לסיגריות אלקטרו",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"status\": \"pass\",\n    \"reasoning\": \"The provided input contains only the JSON verdict without any part of the segment text.\"\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"There was no clear consensus among members of the committee regarding the proposed amendment to freeze salaries for ministers and judges.\"\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"status\": \"pass\",\n    \"reasoning\": \"All segments contain relevant information about the proposed legislation, including discussions on the appointment process, the need for qualif",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"Professor Amir Yaron will present a review of Bank Israel’s activities in the coming years, including the impact of inflation on interest rates and housing prices.\"\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"Amir Yaron, Governor of Bank Israel, presented the bank’s budget proposal in accordance with Section 20(a)(g) of the Bank of Israel Law. The committee did not vote on the",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"There is no opposition to the request.\",\n    \"language\": \"English\"\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"approved\": true,\n    \"opposition\": false,\n    \"abstention\": false\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"approved\": true,\n    \"opposing\": false,\n    \"abstaining\": false\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"status\": \"pass\",\n    \"reasoning\": \"The provided input contains a valid JSON verdict. The reason for passing is that the input consists of a list of segments, each containing a se",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"There is no JSON verdict in the provided input.\"\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"status\": \"pass\",\n    \"reasons\": [\"The proposed amendment to the Banking Law (Special Purpose Banks) was approved in principle by the Finance Committee.\", \"The Finance Committee h",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"There was a significant increase in housing prices during the past few years, which has become a major concern among citizens. The government has allocated approximately ",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"status\": \"pass\",\n    \"reasons\": [\n      \"The requested data can be found in the following segments:\",\n      \"[1], [2], [3], [4], [5], [6], [7], [8], [9], [10]\"\n    ]\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"status\": \"approved\",\n    \"reasons\": [\"הצעת אישור מוסדות ציבור לעניין סעיף 46 לפקודת מס הכנסה, רשימה שסימנה 2023-000497.\", \"העלאת מס הרכישה.\",",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"status\": \"approved\",\n    \"recommendations\": [\n      {\n        \"topic\": \"תקצוב מוסדות החינוך\",\n        \"action\": \"להעביר את התקציב של החינוך העצמאי ומעיין החינוך התורני ל-10",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"אסף וקסלר: בסוף זו שאלה מאוד רחבה, כי זה נוגע כמעט לכל משרדי הממשלה. גם במשרד הבריאות יש היערכות לרעידות אדמה, גם במשרד הביטחון, גם במשרד הפנים. התמקדתי בתחילת",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"התנגדויות לפנייה: אין\",\n    \"details\": {\n      \"תקצוב סך של כ-212 מיליון ₪\": [],\n      \"עיקר הנושאים\": [\"תקצוב סך של כ-100 מיליון ₪ בהרשאה ל",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"There is no need to output the full segment text. The JSON verdict will suffice.\"\n    \"json\": \"[\n      {\n        \"text\": \"\",\n        \"json\": \"\"\n      },\n      {\n        \"",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"status\": \"pass\",\n    \"reasons\": [\"all segments have been processed successfully\"]\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"אין לי את היכולת להוציא את ה-JSON בלבד. אני יכול רק לייצר את ה-JSON עבורכם.\"\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"הצעת תקנות נכי המלחמה בנאצים (טיפול רפואי) (תיקון), התשפ\\\"ג-2022; הצעת צו נכי רדיפות הנאצים (שינוי שיעור התגמולים), התשפ\\\"ג-202",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"status\": \"pass\",\n    \"reasoning\": \"The requested information can be extracted from the provided JSON data.\"\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"status\": \"pass\",\n    \"reasoning\": \"The provided input contains a valid JSON verdict. The reason for passing is that the input consists of a list of segments, each representing a ",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"There is no evidence presented in the provided segments that suggests that the government makes false promises about policy changes or fails to implement them. The statem",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"passage\": \"\",\n    \"output\": \"{\\\"verdict\\\": \\\"\\\",\\\"passage\\\": \\\"\\\"}\"\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"approved\": true,\n    \"opposition\": false,\n    \"abstention\": false,\n    \"status\": \"passed\",\n    \"majority\": \"large majority\",\n    \"vote_count\": 10,\n    \"minority\": false,\n    \"no_",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"status\": \"pass\",\n  \"verdict\": {\n    \"id\": \"302\",\n    \"name\": \"טיפול במפעל \\\"להבים\\\" בנהרייה\",\n    \"description\": \"הפנייה התקציבית נועדה להעברת עודפים משנת התקציב 2021 לשימוש ב-22",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"status\": \"approved\",\n    \"vote_count\": 5,\n    \"opposing_vote_count\": 1,\n    \"abstaining_vote_count\": 0\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"status\": \"pass\",\n    \"reasoning\": \"The requested information can be found in the following JSON structure:\\n\\n{\\n  \\\"data\\\": {\\n    \\\"text\\\": \\\"\\\"\\\",\\n    \\\"segments\\\": [\\n      ",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"status\": \"pass\",\n    \"reasoning\": \"The committee has discussed the issue of establishing a forensic pathology branch in Nazareth Hospital to address the needs of deceased individ",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"status\": \"pass\",\n    \"reasoning\": \"The requested data is present in the provided text material.\"\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"status\": \"pass\",\n    \"reasons\": [\n      \"The proposed amendment to extend the deadline for tax benefits for strengthening buildings until May 18th, 2026, was approved by the Fina",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"There was no verdict provided in the given segment.\"\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"הצעת חוק הגדלת נקודות זיכוי להורים במס הכנסה והגדלת מענק העבודה (הוראת שעה) (תיקון), התשפ\\\"ג-2023\",\n    \"type\": \"legislation\",\n    \"status\":",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"status\": \"pass\",\n    \"recommendations\": [\n      \"To address the concerns raised by Yinon Azoulay regarding the implementation of the tax on chemicals and oils, Rashut HaMisim sho",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"There is no clear answer in the provided material regarding the question about the timing of bringing up the extension of mining licenses for minerals. However, based on ",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"status\": \"ok\",\n    \"text\": \"הוועדה דנה בסיוע לענף גידול הבטטות בעקבות משבר נגיף הקורונה. גיא דוד, נציג הענף, הסביר כי עלות הייצור של בטטה היא 2.5 שקל והמחיר שה",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"status\": \"pass\",\n    \"reasoning\": \"The requested information about the status of the proposed tax on e-cigarette liquids can be found in the following passage:\\n\\nהיו\\\"ר משה גפני",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"There is no evidence to suggest that the proposed reform in Israel’s legal system will have negative effects on the country’s economy.\"\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"approved\": true,\n    \"opposition\": false,\n    \"abstention\": false,\n    \"status\": \"passed\",\n    \"vote_count\": 1,\n    \"total_votes\": 1,\n    \"majority_required\": false,\n    \"minorit",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"status\": \"approved\",\n    \"vote_count\": 5,\n    \"opposing_vote_count\": 1,\n    \"abstaining_vote_count\": 0\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"approved\": true,\n    \"opposition\": false,\n    \"abstention\": false,\n    \"date\": \"2023-02-01\",\n    \"time\": \"10:58\",\n    \"title\": \"החלטת משכורת נשיא המדי",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"approved\": true,\n    \"reasons\": [\n      \"תקנות מס הכנסה (יישום תקן אחיד לדיווח ולבדיקת נאותות של מידע על חשבונות פיננסיים) (תיקון מס' 1), התשפ\"ג-",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"אין השפעה - רק לטובה\",\n    \"source\": \"ולדימיר בליאק (יש עתיד)\",\n    \"type\": \"opinion\"\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"status\": \"pass\",\n    \"reasoning\": \"The proposed legislation aims to address the financial burden on families purchasing homes due to the rise in interest rates. The bill proposes",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"There was no verdict provided in the given segment.\"\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"approved\": true,\n    \"rejected\": false\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"The government requests to retroactively apply the amendment to the law on property taxation (purchase and sale of apartments), which was set to expire in December 2021. ",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"approved\": true,\n    \"status\": \"passed\",\n    \"committee\": \"Finance Committee\",\n    \"subject\": \"Hatlat Din Ratzifut on the Proposal to Amend the National Insurance Law (Amendment ",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"שר האוצר בצלאל סמוטריץ' מברך את הופעתו הראשונה בוועדת הכספים ומתחייב לסייע בפתרון בעיות כלכליות.\"\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"approved\": true,\n    \"opposition\": false,\n    \"abstention\": false,\n    \"voteCount\": 3,\n    \"decisionDate\": \"1 בינואר 2023\",\n    \"title\": \"החלטת משכורת נושאי משרה שיפו",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"שר האוצר בצלאל סמוטריץ' הופיע לראשונה בוועדת הכספים ונתן את ברכתו על הפסקת המיסוי על הכלים החד-פעמיים. הוועדה דנה על דרישת רשות המיסים להשבת מע",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"There is no JSON verdict available.\"\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"decision\": \"אישור\",\n    \"members\": [\"משה גפני\", \"מיכאל מרדכי ביטון\", \"ינון אזולאי\"],\n    \"date\": \"2023-02-01\",\n    \"time\": \"10:00 AM\",\n",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"הצעת תקנות מס הכנסה (יישום תקן אחיד לדיווח ולבדיקת נאותות של מידע על חשבונות פיננסיים) (תיקון מס' 1), התשפ\\\"ג-2023\"\n  }\n",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"Yes, there is a need to address the issue of rising housing prices in Israel. The government needs to take action to increase supply, reduce taxes on home purchases, and ",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"The proposed bill aims to provide tax exemption on the purchase of cancer medications that are not included in the national health basket.\"\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"decision\": \"To approve the funding request submitted by the Prime Minister’s Office, pn 258-261.\",\n    \"reasoning\": \"The decision was made based on the need to provide funding fo",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"There is no JSON verdict in the provided text.\"\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"There was a deal between Prof. Stanley Fischer and me regarding Bank Israel employees’ salaries. I did not agree to their salaries exceeding any control. We reached a com",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"approved\": true,\n    \"reasoning\": \"The decision was made unanimously by the committee members based on a well-established procedure with the legal advisor present. However, the S",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"The proposed legislation was discussed in the Committee on Finance, and the members requested that the Israel Tax Authority include a provision in their regulations stati",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"status\": \"pass\",\n    \"reasons\": [\n      \"The proposed legislation in the Finance Arrangements Bill aims to address a loophole in tax law regarding luxury apartments, which allows",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"הלאה.\"\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"There was no JSON verdict provided in the input.\"\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"There was a request made by members of the Knesset to discuss the expiration of the law regarding the purchase of public housing units by tenants who have lived in those ",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"הצעה לסדר-היום בנושא: \\\"עליית מחירי הנדל\\\"ן\\\", של חה\\\"כ אברהם בצלאל (מס\\' 121)\",\n    \"speakers\": [\"היו\\\"ר משה גפני\"],\n    \"attendees\":",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"status\": \"approved\",\n    \"vote_count\": 5,\n    \"opposing_vote_count\": 1,\n    \"abstaining_vote_count\": 0\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"status\": \"approved\",\n    \"vote_count\": 5,\n    \"opposing_vote_count\": 1,\n    \"abstaining_vote_count\": 0\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"הצעה לסדר-היום בנושא: \\\"עליית מחירי הנדל\\\"ן\\\", של חבר הכנסת בצלאל אברהם.\",\n    \"type\": \"title\"\n  },\n  \"segments\": [\n    {\n      \"text\": \"היו\\\"ר משה",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"status\": \"pass\",\n    \"reasoning\": \"The provided input contains a JSON verdict which can be extracted without any additional information.\"\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"מבקר המדינה מתניהו אנגלמן: אחד הפתרונות שעלו לאורך השנים שהממשלה החליטה עליו היה תכנית שוה\\\"ם 3, מעבר בסיסי צה\\\"ל ממרכז הארץ והקמת 60,00",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"text\": \"\",\n  \"json\": {\n    \"committee\": \"ועדת הכספים\",\n    \"date\": \"2023-01-09\",\n    \"title\": \"תקציב משרד הכלכלה והתעשייה\",\n    \"participants\": [\"משה גפני\", \"ינון אזולא",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"pniot\": [\n      {\n        \"number\": \"210-213\",\n        \"description\": \"העברת סכום של 34,259 אלפי ש\\\"ח בהוצאה, בחלוקה לתוכניות.\",\n        \"details\": [\n          {\n           ",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"approved\": true,\n    \"status\": \"passed\",\n    \"recommended_action\": \"to approve the proposed amendment to the law on the treatment of Holocaust survivors in Israel\",\n    \"opposing",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"approved\": true,\n    \"revisions\": [\n      {\n        \"member\": \"ינון אזולאי\",\n        \"type\": \"רביזיה\"\n      }\n    ]\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"status\": \"pass\",\n    \"reasons\": [\"הצעת החוק עברה בראשונה\", \"האוצר הסכים עם זה\", \"הרב גפני תומך בהצעה\"]\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"status\": \"approved\",\n    \"reasoning\": \"The proposed amendment to section 48 of the Income Tax Ordinance will allow taxpayers who receive refunds from the National Insurance Insti",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"status\": \"pass\",\n    \"reasoning\": \"The requested information can be found in the following JSON verdict:\\n\\n{\\n  \\\"text\\\": \\\"\\\"\\\",\\n  \\\"segments\\\": [\\n    {\\n      \\\"type\\\": \\\"st",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"status\": \"pass\",\n    \"reasoning\": \"The proposed legislation has been approved in the previous session and is currently under consideration in the current session. The bill aims t",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"הצעת חוק ההתייעלות הכלכלית (תיקוני חקיקה להשגת יעדי התקציב לשנות התקציב 2023 ו-2024), התשפ\\\"ג-2023\",\n    \"type\": \"legislation\",",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"approved\": true,\n    \"revisions\": [\n      {\n        \"submittedBy\": \"ינון אזולאי\",\n        \"status\": \"pending\"\n      }\n    ]\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"status\": \"pass\",\n    \"reasoning\": \"The requested JSON verdict is: { \\\"status\\\": \\\"pass\\\", \\\"reasoning\\\": \\\"\\\"}\"\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"הצעה למינוי מועמד למשרת מנכ\"ל הכנסת, מנכ\"ל לשכת נשיא המדינה ומנכ\"ל משרד מבקר המדינה תוגש לוועדת הכספים על ידי מי שהוסמך לכך לפי חוק שירות המדי",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"status\": \"pass\",\n    \"reasoning\": \"The proposed policy change has been implemented in accordance with the recommendations made by the relevant committees. It involves working clo",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"הצעה לדיון מהיר בנושא שינוי אופן הגשת הוכחת תרומה לזיכוי מס לפי סעיף 46\",\n    \"speakers\": [\"אליהו ברוכי\", \"ואליד אלהואשלה\"],\n    \"status\": \"passed",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"status\": \"pass\",\n    \"reasoning\": \"The requested information can be found in the following JSON structure:\\n\\n{\\n  \\\"text\\\": \\\"שלמה אוחיון: כתבתי לאדוני, דוגמה למשל, תאריך הנפקת ",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"ערן יעקב: כמובן הצטרפו אלי עמיתיי שכבר מוכרים לכם - מירי סביון ושי דותן מהחטיבה הכלכלית ואריה רמיני שאחראי על כל גוף הטכנולוגיה ברשות המיסים. אני רוצה לת",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"status\": \"pass\",\n    \"reasoning\": \"The provided input contains a valid JSON verdict.\"\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"תקציב בנק ישראל\": \"1.198 מיליארד בנוסף להרשאה להתחייב של 428 מיליוני שקלים\",\n    \"מסגרת התקציב השנה\": \"2.9% גידול לעומת 2022\",\n    \"מסגרת התקנים\": \"95",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"This bill proposes to amend section 31 of the Value Added Tax Law, which provides exemption from VAT on renting out apartments in accordance with certain conditions. The ",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"הצעת חוק ההתייעלות הכלכלית (תיקוני חקיקה להשגת יעדי התקציב לשנות התקציב 2023 ו-2024), התשפ\\\"ג-2023\",\n    \"chapters\": [\n      {",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"status\": \"pass\",\n  \"segments\": [\n    {\n      \"text\": \"הצעה לסדר-היום בנושא: \\\"עליית מחירי הנדל\\\"ן\\\", של חה\\\"כ אברהם בצלאל (מס\\' 121)\",\n      \"type\": \"title\"\n    },\n   ",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"approved\": true,\n    \"reasons\": [\n      \"תקצוב סך של כ-100 מיליון ₪ בהרשאה להתחייב עבור התמיכות בהפחתת פליטות מתוקף הוראת מנכ\"ל 441 של מנכ\"ל",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"status\": \"pass\",\n    \"reasons\": [\n      \"The requested JSON verdict will be provided without any parts of the segment text.\",\n      \"The JSON verdict will include information abo",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"הוועדה קיבלה את הודעת הסיכום\",\n    \"type\": \"positive\"\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"הצעת חוק מיסוי מקרקעין (שבח ורכישה), (תיקון מספר 99), התשפ\\\"ג-2023, עם התיקון כפי שאמרנו.\",\n    \"type\": \"approved\",\n    \"passing_",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"הצעת חוק הגדלת נקודות זיכוי להורים במס הכנסה והגדלת מענק העבודה (הוראת שעה) (תיקון), התשפ\\\"ג-2023\",\n    \"type\": \"legislation\",\n    \"status\":",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"הצבעה בעד – 5 נגד – 1 נמנעים - אין אושר.\",\n    \"type\": \"approval\",\n    \"status\": true\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"ההחלטה הייתה שלא להעלות את מחיר החלב.\"\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"status\": \"pass\",\n    \"reasons\": [\"all the amendments were voted on and passed\"]\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"לא התקבלה\"\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"status\": \"approved\",\n    \"vote_count\": 5,\n    \"opposing_vote_count\": 1,\n    \"abstaining_vote_count\": 0\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"איתי טמקין: צוהריים טובים. שלום היושב ראש. ינון אזולאי (ש\\\"ס): תשים לב שהיום כל התותחים של משרד האוצר מגיעים.\",\n    \"language\": \"hebrew\",\n    \"source\":",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"status\": \"pass\",\n    \"reasons\": [\"all the amendment proposals were rejected\"]\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"אורית פרקש הכהן (המחנה הממלכתי): ברור, הם מאבדים מיסים.\"\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"OK\"\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"הרוויזיה לא התקבלה\"\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"status\": \"pass\",\n    \"reasoning\": \"Although there were discussions in the committee regarding the proposed changes to the law, including concerns about the impact on small busine",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"status\": \"pass\",\n    \"reasons\": [\"הסתייגויות של קבוצת המחנה הממלכתי: הסתייגות מס' 1. אחרי הסעיף יבוא: \\\"ובהינתן שיתקיים דיון אודות ירידה בהכנסות המדינה\\",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"The proposed legislation seeks to extend the validity of the tax benefits for rental properties in the framework of the Housing Renewal Law, which expired on December 31,",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n    \"verdict\": {\n        \"text\": \"ההסתייגויות לא התקבלו.\"\n    }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"status\": \"pass\",\n    \"reasons\": [\"all rovizias were rejected\"]\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"status\": \"pass\",\n    \"reasons\": [\"ההוראה היום מדברת על שנתיים בהן ניתן לבצע שחלוף דירות.\", \"ההטבה המדוברת היא שקודם תסביר ואחר כך תקריא.\"],\n    \"issues\": []\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"This bill is brought under the Economic Stabilization Plan, as a measure aimed at increasing revenue and adhering to the spending framework in the budget. This step aims ",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"status\": \"pass\",\n    \"reasons\": [\n      \"The proposed amendment to the law would allow a group of four MKs to split off from their party without losing funding.\",\n      \"The bill",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"There are no changes in the proposed legislation regarding the reduction of the tax exemption threshold for rental income and the requirement to report such income.\"\n  }\n",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"status\": \"pass\",\n    \"reasons\": [\"הוראת השעה לשנתיים, בלי שום דבר נוסף.\", \"התיקונים האלה שאמרתי עכשיו מופיעים בנוסח שבפניכם.\", \"התיקון של הקרובים, אנחנו מוכנים קרוב",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"passage\": \"\",\n    \"answer\": \"Passage: היו\"ר משה גפני: אני מתנצל על העיכוב שהתמשך. כשיש הצבעות במליאת הכנסת - אני לא מקיים את הישיבה כאן. אני שמח שאנחנו העברנו במליאה",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"הצעת החוק עברה בקריאה ראשונה במליאה והכוונה, אני מבינה, להכין אותה לקריאה שנייה ושלישית באותו נוסח.\"\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"changes\": {\n      \"taken\": [\"1,800 אלפי ש\\\"ח במזומן\", \"47,370 אלפי ₪ בהוצאה מותנית\", \"148,487 אלפי ₪ בהרשאה להתחייב\"],\n      \"",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"status\": \"pass\",\n    \"reasons\": [\n      \"The proposed legislation aims to establish a procedure for appointing a CEO in the Knesset, President’s Office, and State Comptroller’s o",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"caseNumber\": \"ועדת_הכספים\",\n    \"participants\": [\"משה גפני\", \"ינון אזולאי\"],\n    \"legislation\": [\"הצעת חוק ההתייעלות הכלכלית (תיקוני חקיקה להשגת יעדי",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"status\": \"pass\",\n    \"reasoning\": \"The provided input contains a valid JSON structure representing the verdict of the parliamentary committee on two bills relating to tax exempti",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"passage\": \"\",\n    \"answer\": \"Passage: אבל איפה זה כתוב בחוק פקודת מס הכנסה?\",\n    \"question\": \"\"\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"approval\": true,\n    \"recommended_changes\": [\"הצעת תקנות הבנקאות (רישוי) (בנק בעל היקף פעילות רחב), התשפ\\\"ג-2023\"],\n    \"remarks\": \"הצעת תקנות הבנקאות (רישוי) (",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"status\": \"pass\",\n    \"reasons\": [\"all royzias were rejected\"]\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"אסף וקסלר, אגף התקציבים, מציג את החוק בנושא קרנות הריט.\"\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"There was a request for a revision on the section regarding deducting national insurance fees.\"\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"הצעת-חוק יסוד: משק המדינה (תיקון מספר 13), הכנה לקריאה שנייה ושלישית\"\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"passage\": \"\",\n    \"text\": \"\"\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"There is no need to output the full segment text. The JSON verdict will suffice.\"\n    \"json\": \"[\n      {\n        \"text\": \"I am the JSON verdict.\",\n        \"json\": \"\"\n    ",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"ההסתייגות לא התקבלה.\"\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"text\": \"\",\n  \"json\": {\n    \"committee\": \"ועדת הכספים\",\n    \"members\": [\"משה גפני\", \"ינון אזולאי\", \"אלי דלל\", \"משה סולומון\", \"חוה אתי עטייה\", \"חמד עמאר\"],\n    \"attende",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"The proposed amendment seeks to modify the calculation methodology in section 5(2) of the bill. The committee has requested several changes to the provision. Specifically",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"There is no verdict in the provided segment.\"\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"הצעת חוק הגדלת נקודות זיכוי להורים במס הכנסה והגדלת מענק העבודה (הוראת שעה) (תיקון), התשפ\\\"ג, הכנה לקריאה שנייה ושלישית.\",\n    \"language\": \"hebrew",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"reporting_requirement\": true,\n    \"exemption_limit\": false\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"ההסתייגות לא התקבלה.\"\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"status\": \"pass\",\n    \"reasons\": [\"הצעת החוק שבפניכם נועדה לאפשר לממשלה להביא תקציב מוקדם, חצי שנה מראש ויותר, ויש מנגנון שפותר את הבעיות ואין התפזרות בסוף הדרך אם",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"passage\": \"\",\n    \"answer\": \"\"\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"החוק התקבל\"\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"שר האוצר אישר את הצעדים הללו לאחר דיון בוועדת הכספים.\"\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"מטרת החוק היא לתקן חוקים קיימים ולקבוע הוראות נוספות במטרה להעלות את רמת החיים בישראל, לחזק את הצמיחה במשק ובכלל זה הצמיחה לנפש, להגדיל את התעסוקה, את הפריון במש",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"result\": \"pass\",\n    \"reasons\": [\n      \"All the roviziot were rejected.\",\n      \"There was no vote on the amendment.\"\n    ]\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"הוועדה ביקשה להבין איזה תקנות צפויות להגיע לוועדה.\"\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"הוועדה ביקשה להוריד את המילים \\\"תושב ישראל\\\" ולהחיל את הוראות הסעיף כך שלא יחולו הוראות סעיף קטן (ב1) אלא (ב)(1). בנוסף, בפסקה (1) הוכנס תיקון בהת",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"passage\": \"הצעת חוק ההתייעלות הכלכלית (תיקוני חקיקה להשגת יעדי התקציב לשנות התקציב 2023 ו-2024), התשפ\\\"ג-2023 פרק א': מטרת החוק מ",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"passage\": \"\",\n    \"text\": \"\"\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"passage\": \"\",\n    \"text\": \"\"\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"status\": \"pass\",\n    \"message\": \"All roviziot on section 7 were rejected.\"\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"status\": \"passed\",\n    \"reasons\": [\"הסתייגות מס' 1: חוק זה אינו יכול להשיג את יעדי התקציב.\", \"הסתייגות מס' 2: חוק זה אינו יכול לשמור על מדיניות פיסקלית.\", \"הס",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"אורית פרקש הכהן (המחנה הממלכתי): ברור, הם מאבדים מיסים.\",\n    \"language\": \"hebrew\"\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"The proposed legislation includes two bills, each containing a separate budget for the fiscal years 2023 and 2024. The first bill deals with the budget for the fiscal yea",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"eligibility\": true,\n    \"recommendations\": [\n      {\n        \"type\": \"increase\",\n        \"description\": \"Increase funding for job training programs in order to address skills gap",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"There is no JSON verdict available.\"\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"passage\": \"שרן מרים השכל (המחנה הממלכתי): נשמח לשמוע מה הסיפור.\",\n    \"text\": \"שרן מרים השכל (המחנה הממלכתי): נשמח לשמוע מה הסיפור.\"\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"status\": \"pass\",\n    \"recommendations\": [],\n    \"issues\": []\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"passage\": \"\",\n    \"answer\": \"not passed\"\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"status\": \"passed\",\n    \"vote_count\": 3,\n    \"opposition_vote_count\": 4,\n    \"amendment_number\": 1,\n    \"amendment_type\": \"textual\",\n    \"amended_clause\": \"מטרת חוק זה -",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"הקצאת כספי הקרן להרחבת ההשקעה בתושב ולהגדלת היצע הדיור\",\n    \"startIndex\": 10,\n    \"endIndex\": 30\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"passage\": \"\",\n    \"text\": \"\"\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"passage\": \"\",\n    \"answer\": \"\"\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"status\": \"pass\",\n    \"reasons\": [\"The proposed changes were agreed upon by representatives from various parties including local authorities and the Treasury.\", \"The amended secti",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"status\": \"pass\",\n    \"reasons\": [\"הצעת החוק עברה קריאה ראשונה\", \"הוועדה דנה בפיצול מועצת הקרן\", \"הוועדה דנה בהוראת שעה ובגובה הסכום\", \"הוועדה דנה בהקצאת כ",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"status\": \"pass\",\n    \"recommendations\": [],\n    \"errors\": []\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"The proposed amendment will reduce the minimum number of units required in order to qualify for the exemption from 15 to 10. The definition of 'close relative' will also ",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"סעיף 9: \\\"ביצוע ותקנות\\\"\",\n    \"page\": 19\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"status\": \"pass\",\n    \"recommended_changes\": []\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n    \"verdict\": {\n        \"text\": \"הצעת חוק התכנית הכלכלית (תיקוני חקיקה ליישום המדיניות הכלכלית לשנות התקציב 2023 ו-2024), התשפ\\\"ג-2023\",\n        \"pageNumber\": 4,\n",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"passage\": \"\",\n    \"answer\": \"\"\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"There is no JSON verdict in the provided text.\"\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"passage\": \"\",\n    \"text\": \"\"\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"The proposed amendment removes the purpose clause from the bill, which was included in previous versions. The removal of the purpose clause does not weaken the profession",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"passage\": \"\",\n    \"answer\": \"Passage: שלומית ארליך: הסתייגות מס' 4. במקום \\\"חיזוק הצמיחה במשק\\\" יבוא: \\\"חיזוק הצמיחה, התוצר המקומי או הגולמי והתוצר הלאומי\\\",",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"passed\": true,\n    \"reasons\": [\n      \"The following rovizions were passed:\",\n      \"1. Roovization on section 1\",\n      \"2. Roovization on section 2\",\n      \"3. Roovization on s",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"There is insufficient information in the provided segments to determine a clear verdict. However, based on the content of each segment, here are some potential conclusion",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"אסתי פלדמן: מונחות בפניכם שתי הצעות חוק, האחת הצעת חוק התקציב לשנת הכספים 2023, השנייה חוק התקציב לשנת הכספים 2024. אנחנו מגישים אותן יחד בג",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"passage\": \"\",\n    \"answer\": \"Passage: שלומית ארליך: סעיף 11(1), פסקה (1א) שהיא החמרה ביחס להטבות שנקבעו בפרק הזה. היו\\\"ר משה גפני: הסתייגויות. את",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"passage\": \"היו\"ר משה גפני: מטרת החוק.\",\n    \"text\": \"היו\\\"ר משה גפני: מטרת החוק.\"\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"אסתי פלדמן: מונחות בפניכם שתי הצעות חוק, האחת הצעת חוק התקציב לשנת הכספים 2023, השנייה חוק התקציב לשנת הכספים 2024, הכנה לקריאה שנייה וש",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"status\": \"pass\",\n    \"reasons\": [\"all roviziot were rejected\"]\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"status\": \"pass\",\n    \"reasoning\": \"The provided input contains a valid JSON structure.\"\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"Professor Amir Yaron, Governor of Bank Israel, will present his report on the bank’s budget for 2023 in accordance with Section 20(a)(g) of the Bank of Israel Law, Tish’a",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"הצעת חוק הגדלת נקודות זיכוי להורים במס הכנסה והגדלת מענק העבודה (הוראת שעה) (תיקון), התשפ\\\"ג, הכנה לקריאה שנייה ושלישית.\",\n    \"category\": \"legis",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"status\": \"approved\",\n    \"reasoning\": \"The request was approved due to the following reasons:\",\n    \"reasons\": [\n      \"The committee has been discussing the subject for three co",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"תקנות מס הכנסה, שיעור מס הכנסה בעד עבודה במשמרות\": {\n      \"הוראת שעה\": false,\n      \"הוראת קבע\": true\n    }\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"I will prepare a letter with you and send it to the current Minister of Public Security. We will also send it to the future Minister of National Security.\"\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"status\": \"pass\",\n    \"reasoning\": \"The requested information can be extracted from the provided JSON data.\"\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"There is currently no official position on the subject of the financial readiness of Israel in the event of an earthquake. The government has established a committee of m",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"This is the JSON verdict.\"\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"status\": \"approved\",\n    \"reasons\": [\n      \"צו היטלי סחר ואמצעי הגנה (היטל היצף על יבוא של כבלי נחושת למתח נמוך מטורקיה) (הוראת שעה), התשפ\\\"ג - 2",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"There is no JSON verdict in the provided text.\"\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"status\": \"pass\",\n    \"reasoning\": \"The requested information can be extracted from the provided JSON data.\"\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"There is no need to extend the confidentiality on the activities of Katzavim, according to the request made by Member of Knesset Yorai Lahav Hertzano.\"\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"שר החינוך יואב קיש פתח את הדיון על תקציב משרד החינוך לשנים 2023 ו-2024, כשהוא מברך את חברי הוועדה ואת השר חיים ביטון על עבודתם המשותפת. הוא ציין",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"status\": \"pass\",\n    \"reasoning\": \"The provided input contains a valid JSON structure.\"\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"The following is the JSON verdict:\"\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"ההצבעות יהיו בנפרד, אותו דבר בסעיף השלישי על נושאי משרה שיפוטית, גילום מס וכו'\"\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"הצעת החלטת שכר שרים וסגני שרים (תיקון) התשפ\\\"ג-2023 (גילום מס בשל הכנסה הנובעת משדרוג רכב לצורכי מיגון)\"\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"אין השפעה\",\n    \"source\": \"ולדימיר בליאק (יש עתיד)\"\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"הצעה לדיון מהיר בנושא: \\\"המחסור הצפוי בחומרי גלם לבנייה אשר ישפיע על המחירים ועל קצב הבנייה בישראל\\\", של חבר הכנסת ינון אזולאי.\"\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"approved\": true,\n    \"reasons\": [\"הצעת אישור מוסדות ציבור לעניין סעיף 46 לפקודת מס הכנסה\", \"רשימה שסימנה 2023-000497\"],\n    \"remarks\": [\"היות ומדובר",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"status\": \"pass\",\n    \"reasons\": [\"תקנות הבנקאות (רישוי) (בנק בעל היקף פעילות רחב), התשפ\\\"ג-2023\"]\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"status\": \"pass\",\n    \"reasons\": [\"תקנות הבנקאות (רישוי) (בנק בעל היקף פעילות רחב), התשפ\"ג-2023\", \"תקציב בנק ישראל כפי שאושר על-ידי המועצה המנהלית\"]\n  }",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"תקנות הבנקאות (רישוי) (בנק בעל היקף פעילות רחב), התשפ\\\"ג-2023\": {\n      \"הצבעה\": \"לא\",\n      \"החלטה\": \"לא\",\n      \"הסבר\": \"המפקח על הבנקים",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"The proposed legislation aims to increase competition in the credit market through measures such as allowing more credit to small and medium-sized businesses via non-bank",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"status\": \"pass\",\n    \"reasons\": [\"no errors detected\"]\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"The proposed amendment to the Banking Ordinance (Licensing) (Bank with Extensive Activity), Tishafa’gadash-2023 will be discussed today in the Finance Committee. The disc",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"approved\": true,\n    \"pniyaNumber\": 256,\n    \"description\": \"תקצוב של 447,159 אלפי ש\\\"ח על מנת לעמוד בסיוע המשולם לקרנות הפנסיה הוותיקות, הן הגירעוניות והן",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"text\": \"\",\n  \"json\": {\n    \"title\": \"פרק כ' (רשויות מקומיות)\",\n    \"number\": \"7\",\n    \"subtitle\": \"מקורות הקרן\",\n    \"subsection\": \"7(א)\"\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"הסתייגות מספר 2. שרן מרים השכל (המחנה הממלכתי): יש לי כאן את כל ההסכמים הקואליציוניים.\"\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"status\": \"pass\",\n    \"reasoning\": \"The passage contains a request for clarification on the legality of certain actions taken during a recent meeting of the Finance Committee. The",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"To implement the proposed changes in the tax law regarding rental income, the government proposes three steps: mandatory reporting on rental income below the exemption th",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"status\": \"pass\",\n    \"reasoning\": \"The requested information can be found in the following JSON structure:\\n\\n{\\n  \\\"id\\\": 24033,\\n  \\\"name\\\": \\\"קופות ובתי חולים\\\",\\n  \\\"descript",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"הצעת החוק מבקשת לאפשר לחברות ה-P2P לגייס חוב אשראי נוסף, אשר ישמש אותן להגדלת פעילותן ולהעמדת אשראי לעסקים קטנים ובינוניים. ההצעה נועדה להגביר את התחרו",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"Yes, I can provide the JSON verdict.\"\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"תקנות הנהיגה הספורטיבית (אגרת רישיון נהיגה ספורטיבית) (תיקון), תשפ\\\"ב-2022 ותקנות הנהיגה הספורטיבית (אגרת הגשת בקשה לרישיון כלי תחרותי) (",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"הוראת על סגירת מוסד חינוך\"\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"passage\": \"\",\n    \"roviyot\": [\n      {\n        \"number\": 1,\n        \"result\": \"לא התקבלה\",\n        \"text\": \"\"\n      },\n      {\n        \"number\": 2,\n        \"result\": \"לא התקבלה\",",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"תקנות הבנקאות (רישוי) (בנק בעל היקף פעילות רחב), התשפ\\\"ג-2023\": {\n      \"הצעת\": true\n    }\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"decision\": \"To approve the requested amendment to the decision regarding the allocation of funds for the development of East Jerusalem in accordance with the government resolutio",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"approved\": true,\n    \"opposition\": false,\n    \"abstention\": false,\n    \"status\": \"passed\",\n    \"vote_count\": 3,\n    \"total_votes\": 3\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"status\": \"pass\",\n    \"reasoning\": \"The provided text contains a valid JSON verdict. The reason for passing is that the text provides a clear and concise explanation of the propos",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"approved\": true,\n    \"reason\": \"The requested changes in the budget for 2023 are approved.\",\n    \"details\": {\n      \"priorities\": [\"Nursing homes\", \"Mosadim Mochsharim\"],\n      \"",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"approved\": true,\n    \"rejected\": false,\n    \"pending\": false\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"התיקון יעבור\",\n    \"reasoning\": \"התיקון יעבור כי הוא מטפל בנושא חשוב ומשמעותי, ומסדיר את המיסוי של החזרי דמי ביטוח לאומי. בנוסף, היועצת המשפטית של הוועדה",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"status\": \"pass\",\n    \"reasons\": [\n      \"The proposed amendment to the law on local authorities aims to establish a fund that will assist municipalities in expanding their invest",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"status\": \"approved\",\n    \"request_id\": \"08014\",\n    \"amount\": \"85485000\",\n    \"purpose\": \"מענקים לעסקים ומענקים לעצמאים\",\n    \"source\": \"מסגרת התקציב המיוע",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"approved\": true,\n    \"opposition\": false,\n    \"abstention\": false\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"approved\": true,\n    \"rejected\": false,\n    \"abstained\": false\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"requestNumber\": \"05008014\",\n    \"status\": \"approved\",\n    \"voteCount\": 1,\n    \"opposingVoteCount\": 0,\n    \"abstainingVoteCount\": 0\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"approved\": true,\n    \"revisions\": [\n      {\n        \"submittedBy\": \"Yinon Azoulay\",\n        \"reason\": \"Need more time to review\"\n      }\n    ]\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"approval\": true,\n    \"opposition\": false,\n    \"abstention\": false\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"status\": \"pass\",\n    \"reasoning\": \"The passage discusses the impact of reducing customs duties on imported electronic cigarettes in Israel. The speaker mentions that the decision",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"status\": \"approved\",\n    \"reasons\": [\n      \"הצו שעומד לדיון עכשיו הוא צו תעריף המכס והפטורים ומס קנייה על טובין (תיקון מס' 22), התשפ\\\"ב-2022.\",",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"status\": \"approved\",\n    \"reasons\": [\n      \"הסכם רד-מד שנחתם בין חברת קצא\\\"א ב\\' לבין האמירויות, שלא ברור אם הוא מומש, ממומש, לא ממומש.\",\n      \"החלטת הממשלה שמבק",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"status\": \"pass\",\n    \"reasoning\": \"The requested information about the current minister’s position on the proposed tax order has been provided by the representatives of the relev",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"some_text\": \"This is some text\",\n    \"json_output\": \"[\\\"Some JSON\\\", \\\"Another JSON\\\"]\"\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"status\": \"pass\",\n    \"reasoning\": \"The committee has discussed the tax on electric cigarettes and the impact of diabetes in Israel. The government’s decision to impose taxes on e",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"status\": \"pass\",\n    \"recommendations\": [\n      \"הגדלת תופעת ההון השחור\",\n      \"זיהוי איזה רכב תודלק\",\n      \"הגדלת הרווחיות\",\n      \"הרעה משמעותית בנתונים\",\n",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"decision\": \"To approve the amendment to the Tax Ordinance regarding the imposition of a special tax on certain imported goods\",\n    \"reasons\": [\n      \"The decision was made in r",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"status\": \"approved\",\n    \"reasons\": [\n      \"The request was approved.\",\n      \"The government has agreed to provide relief.\"\n    ],\n    \"explanations\": [\n      \"The company requ",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"roots\": [\"שבח ריאלי\", \"מגשי אלומיניום\", \"פלסטיק\"],\n    \"branches\": [{\n      \"branch\": \"מגשי אלומיניום\",\n      \"leaves\": [\"פלסטיק\"]\n    }, {\n      \"branch\": \"שבח ריאלי",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"approved\": [\n      {\n        \"id\": \"403\",\n        \"name\": \"משרד הרווחה\"\n      },\n      {\n        \"id\": \"404\",\n        \"name\": \"משרד הרווחה\"\n      }\n    ]\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"pniya\": \"29004\",\n    \"status\": \"approved\",\n    \"takamot\": [\n      {\n        \"type\": \"transfer\",\n        \"amount\": 9260000,\n        \"fromYear\": 2021,\n        \"",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"approved\": true,\n    \"id\": \"37001\",\n    \"name\": \"משרד התיירות\",\n    \"description\": \"הבקשה התקציבית נועדה להעברת עודפי תקציב בסך 216,382 אלפי ₪ משנת 2",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"תקציב ועדת הבחירות המרכזית לכנסת לשנים 2023-2024\": \"הצעת התקציב עומדת על 66,667,000 שקלים לשנת 2023 ו-80,777,000",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"text\": \"\",\n  \"json\": {\n    \"speakers\": [],\n    \"attendees\": [],\n    \"title\": \"הצעת חוק התקציב לשנת הכספים 2023, התשפ\\\"ג-2023\",\n    \"startDate\": \"2023-05-0",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"This bill proposes to amend section 122A of the Income Tax Ordinance, which deals with tax exemptions on rental income. The proposed changes include limiting the amount o",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"approved\": true,\n    \"revisions\": false\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"שר הכלכלה והתעשייה ניר ברקת: תודה רבה.\"\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"הפטור במע\"מ פה הוא לא על דמי השכירות, אלא על עסקת המכירה.\",\n    \"context\": \"שלומית ארליך: אין קשר ל-11(1)? רודין נפסון: יש לזה קשר. זו מכי",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"The following segments contain relevant information about the requested verdict:\"\n    \"segments\": [\n      {\n        \"date\": \"2023-05-14\",\n        \"time\": \"15:15\",\n       ",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"type\": \"no match\",\n    \"reasons\": [\"none\"]\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"There is no need to provide the full segment text in JSON format. The verdict is simply 'no change'.\"\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"There is no JSON verdict in the provided text.\"\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 95
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"There is no JSON verdict in the provided input.\"\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"This is the JSON verdict.\"\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"תקנות מס הכנסה, שיעור מס הכנסה בעד עבודה במשמרות\": {\n      \"status\": \"passed\",\n      \"date\": \"April 30, 2023\",\n      \"committee\": \"Knesset Finance Committee\",\n      \"chairperson\"",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"אין צורך להמשיך את הדיון על החוק בעניין יוקר הדירות, מכיוון שהמדינה תהיה חלק מהעניין.\"\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"question\": \"What is the current status of the negotiations between the government and the education sector regarding the funding of non-state schools in Israel?\",\n    \"answer\": \"",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"approved\": true,\n    \"opposing\": false,\n    \"abstaining\": false\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"status\": \"pass\",\n    \"reasons\": [\"all relevant parties were present during the discussions, including representatives from various government ministries and organizations such as",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"passage\": \"\",\n    \"answer\": \"\"\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"punishments\": [],\n    \"fines\": [],\n    \"rewards\": []\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"approved\": true,\n    \"reasons\": [\"תקנות הנהיגה הספורטיבית\", \"הנחה בגובה 50 אחוזים למשרתי המילואים הפעילים\", \"התייחסות לחיילי המילואים\"]\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"approved\": true,\n    \"status\": \"passed\",\n    \"vote_count\": 5,\n    \"opposition_count\": 1\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"אסתי פלדמן: אנחנו עוברים להצעת חוק התקציב לשנת 2024.\",\n    \"language\": \"hebrew\",\n    \"source\": \"אסתי פלדמן: אנחנו עוברים להצעת חוק התקציב לשנת 2024.\"\n",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"הצעת חוק הפחתת הגירעון והגבלת ההוצאה התקציבית (תיקון מס' 23) (הוראת שעה), התשפ\\\"ג-2023\",\n    \"type\": \"legislation\",\n    \"status\": \"passed",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"ההסתייגויות לא התקבלו\",\n    \"type\": \"negative\"\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"תקנות הנהיגה הספורטיבית (אגרת רישיון נהיגה ספורטיבית) (תיקון), תשפ\\\"ב-2022 ותקנות הנהיגה הספורטיבית (אגרת הגשת בקשה לרישיון כלי תחרותי) (",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"There was a request made by Member of Knesset Hamed Amar to discuss the situation in Israel regarding terrorism, the weakening shekel, and the rise in crime rates. The sp",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"priorities\": [\n      {\n        \"id\": \"43-001\",\n        \"name\": \"המרכז למיפוי ישראל\",\n        \"description\": \"פניית עודפים של המרכז למיפוי ישראל על סך של 27 מיליון 12",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"status\": \"pass\",\n    \"reasoning\": \"The requested information can be found in the following JSON structure:\\n\\n{\\n  \\\"id\\\": 1,\\n  \\\"name\\\": \\\"תקצוב מוסדות החינוך בחברה הערבית\\\",\\n",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"היו\"ר משה גפני: שלום, אני מתכבד לפתוח את ישיבת ועדת הכספים. אנחנו דנים ביישום החלטת הממשלה לעניין מתן העדפה במכרזי רכש ממשלתי לטובין שיוצרו במפעלים המ",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 90
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 15
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"status\": \"pass\",\n    \"reasoning\": \"The provided input contains a valid JSON structure.\"\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": 1,
+    "same_confidence": 15
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n    \"verdict\": {\n        \"approved\": true,\n        \"rejected\": false\n    },\n    \"questions\": []\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"approved\": true\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n    \"verdict\": {\n        \"text\": \"The proposed amendment to the Law on Reducing the Deficit and Limiting Government Expenditure (Temporary Provision), Teshafa-2023, aims to adjust the government’s e",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"approved\": true\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"electorate\": \"הוועדה המסדרת\",\n    \"speaker\": \"יואב קיש\",\n    \"topic\": \"תקצוב מוסדות החינוך בחברה הערבית\",\n    \"participants\": [\"אימאן ח'טיב יאסין\", \"עאי",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"תקציב ההוצאה לשנת הכספים 2023 יהיה 610,745,702,000 שקלים חדשים, המורכב מתקציב רגיל בסך 423,685,627,000 שקלים",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"001\": \"משרד החקלאות ופיתוח הכפר\",\n    \"002\": \"משרד הבינוי והשיכון\",\n    \"003\": \"משרד הבריאות\",\n    \"004\": \"משרד החינוך\",\n    \"005\": \"",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"passage\": \"\",\n    \"answer\": \"\"\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"approved\": true,\n    \"revisions\": []\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"approved\": true,\n    \"amount\": 2065762,\n    \"category\": \"development\",\n    \"description\": \"Funding request for development in Yarka and other Arab communities.\",\n    \"id\": 257,\n ",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"passage\": \"\",\n    \"text\": \"\"\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"[10] (date 2023-05-03, committee ועדת_הכספים)\"\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"answer\": \"yes\",\n    \"question\": \"Is there a significant difference between the two segments in terms of their relevance to the proposed amendment?\"\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"status\": \"pass\",\n    \"reasoning\": \"The proposed legislation aims to provide tax relief to individuals who rent out their homes in Jerusalem and pay taxes on rental income exceedi",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"passage\": \"\",\n    \"answer\": \"This passage discusses changes to legislation regarding peer-to-peer lending companies in Israel. These companies allow individuals to invest in cons",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"regulators\": [\n      {\n        \"name\": \"אביגיל ונקרט\",\n        \"role\": \"אגף תקציבים, משרד האוצר\"\n      },\n      {\n        \"name\": \"עומר רחמים\",\n        \"role\": \"סגן בכיר ליוע",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"status\": \"pass\",\n    \"reasons\": [\"נתנאל אשרי: הפנייה נועדה לתקצב 50 מיליון שקל עבור פיתוח מזרח ירושלים, במשרד ירושלים ומורשת, שזה נועד לפיתוח מבני ציבור. זה בהתאם להחלטת ממשלה מש",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"I am sorry, I cannot provide the full JSON verdict without the complete input. Please provide me with the complete input so I can generate the desired JSON verdict.\"\n  }\n",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"approved\": true,\n    \"opposition\": false,\n    \"abstention\": false\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"approved\": true,\n    \"opposition\": false,\n    \"abstention\": false\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"To approve the following requests:\"\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"approved\": true,\n    \"opposition\": false,\n    \"abstention\": false,\n    \"totalVotes\": 0,\n    \"majorityRequired\": 0,\n    \"passingThreshold\": 0\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"approved\": true,\n    \"opposing_votes\": 0,\n    \"abstaining_votes\": 0,\n    \"passing_vote_count\": 1,\n    \"total_votes\": 1\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"status\": \"approved\",\n    \"recommended_nominees\": [\"שם המועמד\", \"קורות החיים של המועמד\"],\n    \"no_conflict_of_interest\": true,\n    \"national_service_requirement\": false,\n    \"elig",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"שרן, אם את רוצה להיות אופוזיציה ולהתחיל לעשות לי רשימות, אנחנו קיימנו את הדיונים האלה. לא רק שקיימנו את הדיונים אלא אני קראתי לחברי הוועדה.\"\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"ההסתייגות לא התקבלה.\"\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"There was no JSON verdict provided in the input.\"\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"status\": \"pass\",\n    \"reasons\": [\"הפנייה אושרה.\", \"הצעתם של חברי הכנסת מיכאל ביטון וינון אזולאי.\", \"הבמה עומדת לרשותכם.\"]\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"approval\": false,\n    \"reason\": \"Requesting more information within three days on the details of the programs mentioned in the request.\"\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"approved\": true,\n    \"reasons\": [\n      \"הפנייה התקציבית נועדה להעברת עודפים משנת 2021 ל-2022 בסך של 9,260 אלף שקלים\",\n      \"התקציב מיועד לתקציב התפעול של",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"status\": \"pass\",\n    \"reasoning\": \"All segments have been analyzed and verified as valid.\"\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"הצעת חוק לעידוד תעשייה עתירת ידע (הוראת שעה), התשפ\\\"ב-2022 הגדרות 1. (א) בחוק זה - \\\"בעלות\\\", בנכס לא מוחשי מוטב - בעלות מ",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"status\": \"pass\",\n    \"reasoning\": \"The proposed amendment to section 31 of the Value Added Tax Law, which provides a tax exemption on the sale of apartments in rental housing pro",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"גד רחמני: הפנייה התקציבית נועדה להעברת עודפים משנת התקציב 2021 לשימוש ב-22' בסך 111,948 אלפי ₪ בהתאם לפירוט.\"\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"status\": \"approved\",\n    \"priorities\": [\"mta leumi\"],\n    \"amount\": 10376000,\n    \"description\": \"transferring surplus funds to 2023 on the amount of 10,376,000 shekels",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"There was a request made by Member of Knesset Ahmad Tibi regarding the establishment of a special committee in the Knesset. The Chairman of the Committee, MK Moshe Gafni,",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"There was no decision made regarding the allocation of NIS 100 million for environmental programs in the Arab sector.\"\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"decision\": \"To approve the request of the Prime Minister’s Office, reference numbers 258-261.\",\n    \"reasons\": [\n      \"For funding development in East Jerusalem, in the Ministry",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"שר האוצר שלח מכתב על המגמות וכל מה שנלווה לעניין. חסר את מה שהפקידות המקצועית צריכה להביא והיא תצטרך להביא את זה. אבקש ממזכירות הוועדה לתאם עם שר האו",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"status\": \"pass\",\n    \"reasoning\": \"The requested information can be extracted from the provided JSON data.\"\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"approved\": true,\n    \"id\": \"78001\",\n    \"name\": \"תיירות\",\n    \"amount\": 67500,\n    \"purpose\": \"פיתוח תשתיות תיירות בגליל ובגולן בהתאם להחלטת הממשלה\",\n   ",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"approved\": true,\n    \"reasoning\": [\n      \"הבקשה אושרה.\",\n      \"הבקשה הבאה, 15001, משרד הביטחון.\",\n      \"הכסף עוד לא הועבר לתקנות של משרד הביטחון, אז הוא לא שם",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"caseNumber\": \"2023-03-26\",\n    \"legislation\": \"הצעת חוק ההתייעלות הכלכלית (תיקוני חקיקה להשגת יעדי התקציב לשנת התקציב 2017 ו-2018) (",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"approved\": true,\n    \"number\": 177,\n    \"department\": \"Ministry of Energy\",\n    \"amount\": 559000000,\n    \"purpose\": {\n      \"salary_positions\": [\n        {\n          \"description",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"הצעת חוק ההתייעלות הכלכלית (תיקוני חקיקה להשגת יעדי התקציב לשנות התקציב 2017 ו-2018), תיקון מספר 9 הקצאת סכום לרשויות המקומיות הסמו",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"status\": \"pass\",\n    \"reasons\": [\"no errors detected in the provided input\"]\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"There was a request made by Yinon Azoulay (Shas) to discuss the issue of the yokra mahaya (affordable housing) program in the next meeting.\"\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"status\": \"pass\",\n    \"reasoning\": \"The proposed solution involves implementing a system whereby donors can receive tax deductions based on their contributions to eligible organiz",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"There was no vote against Gafni becoming chairman of the Finance Committee in the current Knesset.\"\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"caseNumber\": \"2023-050458\",\n    \"defendant\": \"ע.ל.ה. גילגולים - בי\\\"ס להתעמלות ספורטיבית (ע\\\"ר)\",\n    \"judgeName\": \"\",\n    \"plaintiff\": \"בחורי ח",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"תקציב משרד הרווחה והביטחון החברתי לשנות הכספים 2024-2023\": {\n      \"הצגת עמדת שר הרווחה והביטחון החברתי\",\n      \"דיון בנושא\",\n      \"שאלות ותשובות",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"אין מחלוקת שלניצב בדימוס אדרי יש הרקע, היכולות בכל תפקיד ניצב שהוא עשה - והוא מילא כמה וכמה תפקידים כאלה: ראש אגף התנועה, מפקד מחוז תל-אביב, מפקד מחוז",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"type\": \"verdict\",\n  \"text\": \"גד רחמני: הפנייה התקציבית נועדה להעברת עודפי תקציב בסך של 287,555 אלפי ש\\\"ח בהתאם לפירוט הבא:\\n\\tתוכנית 301102, מינהל ואמרכלות –",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"approved\": true\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"decision\": \"ועדת הכספים של הכנסת, בישיבתה מיום 25 ביולי, לקבוע פטור מחובת מכרז פומבי לפי סעיף 19 לחוק, למשרת מנהל מינהלת מיזם כנסת 2030,",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"approved\": true,\n    \"revisions\": false\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"שר החינוך יואב קיש הציג את החזון ואת התקציב לשנת 2023 ו-2024. הוא הביע את שביעות רצונו מהעבודה המשותפת עם השר חיים ביטון והביע תקווה שמערכת היחס",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"request\": \"Please do not output any part of the segment text above.\",\n    \"answer\": \"{\\\"verdict\\\": \\\"Please do not output any part of the segment text above.\\\",\\\"input\\\": \\\"\\\",\\\"",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"There was no request for funding for daycare centers.\"\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"ההסכמה הייתה להוריד את החלק השני שלא בחוק ההסדרים.\"\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"recommends_approval\": true,\n    \"supports_reform\": false,\n    \"knowledge_level\": \"high\",\n    \"commitment_to_public_interest\": \"yes\",\n    \"experience_in_economic_regulation\": \"ext",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"There was no change in the law regarding the number of members required to split off from a faction.\"\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"approval\": true,\n    \"recommended\": false,\n    \"comments\": [\n      {\n        \"type\": \"question\",\n        \"text\": \"ינון אזולאי (ש\\\"ס): אגב, הפרסומים שאתם עושים בתיירות, פעולות הפר",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"הוועדה מתנגדת למתן הלחי השנייה. מותר לכל אחד להוציא את הכסף שלו ולהעביר אותו למקומות אחרים.\"\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"topic\": \"סולבר\",\n    \"action\": \"To prevent closure of Solbar plant in Ashkelon and Ashdod, which employs 200 workers, the government should consider maintaining the existing tari",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"ינון אזולאי (ש\\\"ס): תודה רבה לך, אדוני היושב-ראש, האמת, מיכאל, הרמת לי. כשאני מסתכל פה בסופו של דבר נשארנו מעט אחרי דיון כזה. מיכאל מרד",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"אין כאן ממש מה שנקרא אקדח מעשן ומידע מובהק שמצריך הפרדה.\"\n  }\n}",
+    "same_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "_parse_error": true,
+    "_raw": "{\n  \"verdict\": {\n    \"text\": \"אסף וקסלר: בסוף זו שאלה מאוד רחבה, כי זה נוגע כמעט לכל משרדי הממשלה.\"\n  }\n}",
+    "same_confidence": 0
+  }
+]

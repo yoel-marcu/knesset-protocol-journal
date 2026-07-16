@@ -1,0 +1,14 @@
+{
+  "annotators": [
+    "llm",
+    "yoel"
+  ],
+  "total_adjudicated": 100,
+  "agreed": 100,
+  "conflicts": 0,
+  "gold_distribution": {
+    "same": 56,
+    "related": 17,
+    "new": 27
+  }
+}

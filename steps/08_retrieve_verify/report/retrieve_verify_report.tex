@@ -1,0 +1,170 @@
+\documentclass[11pt,a4paper]{article}
+\usepackage[margin=2.5cm]{geometry}
+\usepackage{booktabs}
+\usepackage{graphicx}
+\usepackage{xcolor}
+\usepackage{hyperref}
+\usepackage{enumitem}
+\usepackage{titlesec}
+\usepackage{fancyhdr}
+\usepackage{microtype}
+\usepackage{parskip}
+\usepackage{fontspec}
+\usepackage{polyglossia}
+\usepackage{amsmath}
+\usepackage{amssymb}
+
+\setmainlanguage{english}
+\setotherlanguage{hebrew}
+\newfontfamily\hebrewfont{DejaVu Sans}[Script=Hebrew]
+
+\hypersetup{colorlinks=true, linkcolor=blue, urlcolor=blue}
+
+\pagestyle{fancy}
+\fancyhf{}
+\rhead{Knesset Protocol Journal Project}
+\lhead{Step 8 --- Retrieve-then-Verify}
+\rfoot{Page \thepage}
+\lfoot{Tomer Morad, Or Israeli, Yoel Marko --- July 2026}
+
+\titleformat{\section}{\large\bfseries}{\thesection.}{0.6em}{}[\titlerule]
+\titleformat{\subsection}{\normalsize\bfseries}{\thesubsection}{0.6em}{}
+
+\begin{document}
+
+\begin{center}
+  {\LARGE \textbf{Retrieve-then-Verify: an LLM Verifier for Streaming Linking}}\\[0.3em]
+  {\large Step 8 --- Task 2b, CLAUDE.md Milestone 3b}\\[0.6em]
+  {\normalsize Tomer Morad \quad Or Israeli \quad Yoel Marko}\\
+  {\normalsize July 2026}
+\end{center}
+
+\vspace{0.5em}
+
+\section{Objective}
+
+Step 7 showed that no fixed cosine threshold on e5\_k1 similarity can separate rare true
+repeats from the flood of similar-sounding unrelated topics at gold-segmentation granularity
+(best-F1 streaming precision $\approx$8\%). This step tests the project brief's proposed fix:
+use similarity only to \emph{retrieve} a candidate shortlist, then have an \textbf{LLM verifier}
+read the actual text and decide same/related/new, rather than trusting a vector-distance cutoff.
+\textbf{Status: paused below baseline, not dead-ended} --- every configuration tried is
+documented here, including several that made things worse, because the negative results are as
+informative as the positive ones for scoping future work.
+
+\section{Method}
+
+\textbf{Retrieval side.} An oracle-growth journal (new entry created on each topic's true first
+occurrence) ranks existing entries by e5\_k1 cosine similarity for all 36 gold repeat events.
+
+\textbf{Verifier side.} 522 streaming-decision queries, each with the new segment's text and its
+top-10 retrieved candidates (100-word content-only snippets, deliberately excluding the gold
+topic label to prevent string-matching the answer). Three local HF chat models compared:
+\texttt{dicta-il/dictalm2.0-instruct}, \texttt{Qwen2.5-7B-Instruct}, \texttt{Qwen2.5-3B-Instruct}.
+The model picks the best-matching candidate rank and a 0--100 confidence score, swept as a
+threshold exactly like Step 7's cosine curve for direct comparability.
+
+\section{Results}
+
+\subsection{Retrieval recall@K --- never the bottleneck}
+\begin{center}
+\begin{tabular}{lrrrrr}
+\toprule
+$K$ & 1 & 2 & 3 & 5 & 10 \\
+\midrule
+Recall & 0.694 & 0.778 & 0.917 & 0.944 & \textbf{1.000} \\
+\bottomrule
+\end{tabular}
+\end{center}
+All 36/36 gold repeats are retrievable in the top 10. Three embedding/lexical fixes for the 69\%
+recall@1 gap (regex boilerplate stripping, TF-IDF rerank, ministry-name gating) were each tried
+and ruled out with evidence (ceiling $\approx$+1/36 in all three cases) --- the corpus's
+recurring ``year-end budget surplus'' sessions share so much administrative vocabulary across
+\emph{different} ministries that lexical tricks cannot cleanly separate them; one case needs
+genuine reading comprehension (same ministry, same section, different specific matter). This
+motivated committing to an LLM verifier rather than continuing to chase retrieval fixes.
+
+\subsection{Verifier comparison --- 6 real bugs fixed en route}
+Getting to a working, comparable verifier required: (1) merging system+user roles for
+DictaLM's chat template, (2) stopping models from literally continuing the (likely memorized)
+real transcript text past the prompt cutoff, (3--4) anchoring the exact JSON schema with a
+worked example without \texttt{no\_repeat\_ngram\_size} banning the model from legitimately
+repeating that schema's tokens, (5) discovering a fixed same/new decision was miscalibrated
+completely differently per model, fixed by (6) switching to a swept 0--100 confidence score.
+
+\begin{center}
+\begin{tabular}{lrrrr}
+\toprule
+\textbf{Model} & \textbf{Best F1} & \textbf{Precision} & \textbf{Recall} & \textbf{$\theta$} \\
+\midrule
+dictalm2 & 0.086 & 4.5\% & 92.0\% & 0 \\
+\textbf{qwen3b} & \textbf{0.111} & 6.0\% & 70.4\% & 65 \\
+qwen7b & 0.077 & 4.0\% & 95.0\% & 15 \\
+\midrule
+\textbf{Baseline (e5\_k1 threshold, Step 7)} & \textbf{0.125} & 7.7\% & 33.3\% & --- \\
+\bottomrule
+\end{tabular}
+\end{center}
+Recall is excellent across all three models (70--95\%, vs.\ baseline's 33\%) --- they genuinely
+find almost every true recurrence. \textbf{Precision is the isolated bottleneck.}
+
+\subsection{Four precision-calibration experiments}
+\begin{center}
+\small
+\begin{tabular}{p{5.2cm}rrr}
+\toprule
+\textbf{Experiment} & \textbf{qwen3b F1} & \textbf{qwen7b F1} & \textbf{dictalm2 F1} \\
+\midrule
+baseline & \textbf{0.111} & 0.077 & 0.086 \\
+Ensemble (majority vote, no new LLM calls) & \multicolumn{3}{l}{0.109 --- ties qwen3b, doesn't beat it} \\
++more few-shot examples (2$\to$4) & 0.104 $\downarrow$ & 0.070 $\downarrow$ & 0.057 $\downarrow$ \\
++two-score schema (topical vs.\ specific) & 0.102 $\downarrow$ & \textbf{0.085} $\uparrow$ & \textbf{0.096} $\uparrow$ \\
++longer snippets (100$\to$400 words) & 0.068 $\downarrow\downarrow$ & 0.055 $\downarrow\downarrow$ & 0.000 (broke) \\
+\bottomrule
+\end{tabular}
+\end{center}
+
+\textbf{None beat the baseline.} Ensemble majority-voting successfully filters dictalm2/qwen7b's
+excess false positives (precision rises to 5.9\% vs.\ their 4.0--4.5\%) but cannot exceed the
+best individual model once it's one of the three votes. Longer snippets actively hurt every
+model and broke dictalm2 outright (its old document-continuation failure mode resurfaces at
+longer context). More few-shot examples also hurt across the board. The two-score schema is the
+one genuinely interesting result: it helped the two \emph{more miscalibrated} models
+(dictalm2, qwen7b) but slightly hurt qwen3b, which was already well-calibrated.
+
+\section{What Needs Improvement}
+
+\begin{enumerate}[leftmargin=1.4em]
+  \item \textbf{The precision ceiling is real and evidenced, not a quick prompt-engineering
+        fix.} Four different calibration ideas were tried; none closed the gap to baseline.
+  \item \textbf{Two separate scores helped the weaker models} --- worth exploring further with
+        the two-score schema \emph{and} extended few-shot together (not yet combined), or with
+        a larger model.
+  \item \textbf{Whether the 100-word snippet cap is fundamentally too little context}, or
+        whether longer context is inherently harmful for this classification-style task
+        (unlike Step 9's free-text generation, where more context per candidate was never
+        tried) remains genuinely open.
+  \item \textbf{``Related'' predictions are unused.} The current schema only distinguishes
+        LINK vs.\ NEW for scoring, since gold has no 3-way label. Whether ``related'' is usable
+        for Task 3 (log writing) input is still open.
+  \item \textbf{Recommendation for now}: keep method (a), the similarity-threshold baseline,
+        as the production linking method (decision made 2026-07-15) --- it remains the best of
+        everything tried, including this step's LLM verifier.
+\end{enumerate}
+
+\vspace{1.5em}
+\hrule
+\vspace{0.4em}
+\raggedright
+{\small
+\textbf{Artifacts (this step):} \newline
+\texttt{outputs/shortlist\_recall.json}, \texttt{outputs/verifier\_queries.json}, \newline
+\texttt{outputs/verifier\_predictions\_*.json} (14 configs), \texttt{outputs/verifier\_eval\_summary.json} \newline
+\textbf{Code:} \texttt{code/build\_verifier\_inputs.py}, \texttt{code/run\_verifier.py},
+\texttt{code/eval\_verifier.py}, \texttt{code/ensemble\_verifier.py}, \newline
+\texttt{code/shortlist\_recall.py}, \texttt{code/rerank\_recall.py},
+\texttt{code/ministry\_gate\_recall.py}, \newline \texttt{code/strip\_procedural.py},
+\texttt{code/inspect\_misses.py}.
+}
+
+\end{document}

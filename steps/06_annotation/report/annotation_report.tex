@@ -1,0 +1,127 @@
+\documentclass[11pt,a4paper]{article}
+\usepackage[margin=2.5cm]{geometry}
+\usepackage{booktabs}
+\usepackage{graphicx}
+\usepackage{xcolor}
+\usepackage{hyperref}
+\usepackage{enumitem}
+\usepackage{titlesec}
+\usepackage{fancyhdr}
+\usepackage{microtype}
+\usepackage{parskip}
+\usepackage{fontspec}
+\usepackage{polyglossia}
+\usepackage{amsmath}
+\usepackage{amssymb}
+
+\setmainlanguage{english}
+\setotherlanguage{hebrew}
+\newfontfamily\hebrewfont{DejaVu Sans}[Script=Hebrew]
+
+\hypersetup{colorlinks=true, linkcolor=blue, urlcolor=blue}
+
+\pagestyle{fancy}
+\fancyhf{}
+\rhead{Knesset Protocol Journal Project}
+\lhead{Step 6 --- Annotation}
+\rfoot{Page \thepage}
+\lfoot{Tomer Morad, Or Israeli, Yoel Marko --- July 2026}
+
+\titleformat{\section}{\large\bfseries}{\thesection.}{0.6em}{}[\titlerule]
+\titleformat{\subsection}{\normalsize\bfseries}{\thesubsection}{0.6em}{}
+
+\begin{document}
+
+\begin{center}
+  {\LARGE \textbf{Annotation: Full-Protocol Gold Segmentation}}\\[0.3em]
+  {\large Step 6 --- Milestone 1: the annotated evaluation set}\\[0.6em]
+  {\normalsize Tomer Morad \quad Or Israeli \quad Yoel Marko}\\
+  {\normalsize July 2026}
+\end{center}
+
+\vspace{0.5em}
+
+\section{Objective}
+
+\textbf{Milestone 1} requires a manually-labeled evaluation set before any quantitative
+scoring is meaningful. The original plan (this step's own initial scope) was a 100-pair
+sample of span pairs labeled \texttt{same}/\texttt{related}/\texttt{new}, built on Step 2's
+marker-based topic spans. That plan was superseded mid-project (see \S3) by a more ambitious
+target: manually re-segment every protocol into fine-grained topic spans, which yields both
+Task~1 gold (segment boundaries) and Task~2 gold (recurring-topic chains) simultaneously and
+at full corpus coverage, rather than a small sample.
+
+\section{Method}
+
+A browser-based annotation tool (\texttt{code/serve.py}, Flask) shows each protocol's
+transcript with auto-detected \texttt{<{}<} \texthebrew{נושא} \texttt{>{}>} marker boundaries pre-filled, and lets
+an annotator confirm, edit, split, or merge segments, labeling each with a topic string reused
+across sessions where applicable.
+
+Coverage started at 21/213 protocols (human-annotated by the three of us). The remaining
+190/213 were completed by an LLM (Claude), reading each protocol's full utterance list to find
+genuine subject changes rather than relying on the single auto-detected marker per protocol —
+critical because many sessions (especially year-end ``budget surplus reallocation'' omnibus
+meetings) cover a dozen unrelated ministry line-items under one nominal agenda title. Every
+LLM-added segment is tagged \texttt{"annotator": "llm"} at the segment level, kept fully
+distinguishable from the 21 human-annotated protocols.
+
+A 14-protocol subset flagged as highest-risk (over 1000 utterances, yet only 1--2 segments
+assigned) was independently re-verified with exhaustive, non-sampled re-reading. 13/14 held up
+unchanged; one (\texttt{25\_ptv\_2623525}) had a missed opening segment, corrected.
+
+\section{Results}
+
+\begin{center}
+\small
+\begin{tabular}{lrp{6.5cm}}
+\toprule
+\textbf{Metric} & \textbf{Value} & \textbf{Note} \\
+\midrule
+Protocols segmented & 211 / 213 & 2 unsegmented (500K+ char marathon sessions, deferred) \\
+Human-annotated protocols & 21 & Original team annotation \\
+LLM-annotated protocols & 190 & Tagged \texttt{annotator: llm} per segment \\
+Total segments & 522 & Across all 211 protocols \\
+High-risk re-verification & 13/14 unchanged & 1 correction found and applied \\
+\bottomrule
+\end{tabular}
+\end{center}
+
+A separate 100-pair \texttt{same}/\texttt{related}/\texttt{new} set was also produced (LLM-judged,
+content-only, blind to sampling stratum) as originally planned, before the full-segmentation
+approach superseded it. It is preserved as \texttt{outputs/annotations\_llm.json} /
+\texttt{gold\_labels.json} but is \textbf{not} used by any downstream evaluation script --- see
+Step 7, which is built directly on the full segmentation instead.
+
+\section{What Needs Improvement}
+
+\begin{enumerate}[leftmargin=1.4em]
+  \item \textbf{2 protocols remain unsegmented} --- both marathon overnight budget sessions
+        (783K and 574K characters) using a legacy \texttt{<{}<} \texthebrew{הצח} \texttt{>{}>}-only marker format
+        that the standard parser mishandles. Needs a dedicated chunked-reading pass.
+  \item \textbf{No label canonicalization.} Near-duplicate topic strings across protocols are
+        not merged (e.g. two segments about the same matter with slightly different generated
+        titles will not be detected as recurring). Accepted per the project's own asymmetric-cost
+        rule (false-split $\ll$ false-merge), but it means Step 7's ``22 recurring topics'' is
+        very likely an \emph{undercount} of true recurrence.
+  \item \textbf{The 100-pair \texttt{same}/\texttt{related}/\texttt{new} set is orphaned.} It
+        has richer 3-way labels than the full-segmentation approach's binary same/not-same
+        chains, and could still be mined for calibration examples (e.g.\ Step 8's few-shot
+        prompts), but is not currently used anywhere in the pipeline.
+  \item \textbf{Only spot-checked, not exhaustively verified.} 190 LLM-annotated protocols
+        were produced; only the highest-risk 14 were re-verified with exhaustive reading. The
+        remaining 176 rely on the original (partly sampled) reading pass.
+\end{enumerate}
+
+\vspace{1.5em}
+\hrule
+\vspace{0.4em}
+{\small
+\textbf{Artifacts (this step):} \newline
+\texttt{outputs/segmentation.json} (211/213 protocols, 522 segments) \newline
+\texttt{outputs/annotations\_llm.json}, \texttt{outputs/gold\_labels.json} \newline
+\textbf{Code:} \texttt{code/serve.py}, \texttt{code/annotate.py}, \texttt{code/adjudicate.py},
+\texttt{code/sample\_pairs.py}.
+}
+
+\end{document}

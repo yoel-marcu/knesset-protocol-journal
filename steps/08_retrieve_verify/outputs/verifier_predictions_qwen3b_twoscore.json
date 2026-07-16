@@ -1,0 +1,2612 @@
+[
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 65,
+    "specific_match_confidence": 30
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 85,
+    "specific_match_confidence": 20
+  },
+  {
+    "best_matched_rank": 4,
+    "topical_similarity": 85,
+    "specific_match_confidence": 20
+  },
+  {
+    "best_matched_rank": 2,
+    "topical_similarity": 85,
+    "specific_match_confidence": 30
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 75,
+    "specific_match_confidence": 20
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": 2,
+    "topical_similarity": 60,
+    "specific_match_confidence": 20
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 80,
+    "specific_match_confidence": 20
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": 4,
+    "topical_similarity": 80,
+    "specific_match_confidence": 30
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 75,
+    "specific_match_confidence": 20
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 50,
+    "specific_match_confidence": 10
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": 2,
+    "topical_similarity": 60,
+    "specific_match_confidence": 30
+  },
+  {
+    "best_matched_rank": 3,
+    "topical_similarity": 75,
+    "specific_match_confidence": 20
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 60,
+    "specific_match_confidence": 20
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 75,
+    "specific_match_confidence": 20
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 85,
+    "specific_match_confidence": 50
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": 2,
+    "topical_similarity": 75,
+    "specific_match_confidence": 20
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 75,
+    "specific_match_confidence": 20
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 85,
+    "specific_match_confidence": 50
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 85,
+    "specific_match_confidence": 40
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 75,
+    "specific_match_confidence": 25
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 70,
+    "specific_match_confidence": 10
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": 5,
+    "topical_similarity": 85,
+    "specific_match_confidence": 70
+  },
+  {
+    "best_matched_rank": 3,
+    "topical_similarity": 85,
+    "specific_match_confidence": 50
+  },
+  {
+    "best_matched_rank": 4,
+    "topical_similarity": 85,
+    "specific_match_confidence": 60
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": 2,
+    "topical_similarity": 80,
+    "specific_match_confidence": 40
+  },
+  {
+    "best_matched_rank": 4,
+    "topical_similarity": 85,
+    "specific_match_confidence": 40
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 85,
+    "specific_match_confidence": 30
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 80,
+    "specific_match_confidence": 20
+  },
+  {
+    "best_matched_rank": 4,
+    "topical_similarity": 80,
+    "specific_match_confidence": 20
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 75,
+    "specific_match_confidence": 20
+  },
+  {
+    "best_matched_rank": 3,
+    "topical_similarity": 75,
+    "specific_match_confidence": 20
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": 2,
+    "topical_similarity": 60,
+    "specific_match_confidence": 20
+  },
+  {
+    "best_matched_rank": 2,
+    "topical_similarity": 60,
+    "specific_match_confidence": 20
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 85,
+    "specific_match_confidence": 50
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 80,
+    "specific_match_confidence": 20
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 85,
+    "specific_match_confidence": 20
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": 2,
+    "topical_similarity": 60,
+    "specific_match_confidence": 30
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 85,
+    "specific_match_confidence": 20
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 85,
+    "specific_match_confidence": 20
+  },
+  {
+    "best_matched_rank": 2,
+    "topical_similarity": 85,
+    "specific_match_confidence": 60
+  },
+  {
+    "best_matched_rank": 2,
+    "topical_similarity": 40,
+    "specific_match_confidence": 20
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 75,
+    "specific_match_confidence": 20
+  },
+  {
+    "best_matched_rank": 3,
+    "topical_similarity": 75,
+    "specific_match_confidence": 40
+  },
+  {
+    "best_matched_rank": 2,
+    "topical_similarity": 75,
+    "specific_match_confidence": 20
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 75,
+    "specific_match_confidence": 20
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 85,
+    "specific_match_confidence": 20
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 85,
+    "specific_match_confidence": 20
+  },
+  {
+    "best_matched_rank": 7,
+    "topical_similarity": 75,
+    "specific_match_confidence": 40
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 75,
+    "specific_match_confidence": 20
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 85,
+    "specific_match_confidence": 20
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 85,
+    "specific_match_confidence": 30
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": 2,
+    "topical_similarity": 75,
+    "specific_match_confidence": 50
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 80,
+    "specific_match_confidence": 20
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 85,
+    "specific_match_confidence": 30
+  },
+  {
+    "best_matched_rank": 4,
+    "topical_similarity": 50,
+    "specific_match_confidence": 20
+  },
+  {
+    "best_matched_rank": 2,
+    "topical_similarity": 60,
+    "specific_match_confidence": 30
+  },
+  {
+    "best_matched_rank": 6,
+    "topical_similarity": 85,
+    "specific_match_confidence": 50
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 75,
+    "specific_match_confidence": 20
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 75,
+    "specific_match_confidence": 20
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 75,
+    "specific_match_confidence": 20
+  },
+  {
+    "best_matched_rank": 2,
+    "topical_similarity": 60,
+    "specific_match_confidence": 30
+  },
+  {
+    "best_matched_rank": 2,
+    "topical_similarity": 60,
+    "specific_match_confidence": 30
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 85,
+    "specific_match_confidence": 20
+  },
+  {
+    "best_matched_rank": 2,
+    "topical_similarity": 85,
+    "specific_match_confidence": 20
+  },
+  {
+    "best_matched_rank": 5,
+    "topical_similarity": 85,
+    "specific_match_confidence": 40
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": 3,
+    "topical_similarity": 75,
+    "specific_match_confidence": 30
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": 8,
+    "topical_similarity": 85,
+    "specific_match_confidence": 50
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": 7,
+    "topical_similarity": 75,
+    "specific_match_confidence": 20
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": 2,
+    "topical_similarity": 60,
+    "specific_match_confidence": 30
+  },
+  {
+    "best_matched_rank": 4,
+    "topical_similarity": 75,
+    "specific_match_confidence": 30
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 75,
+    "specific_match_confidence": 20
+  },
+  {
+    "best_matched_rank": 2,
+    "topical_similarity": 60,
+    "specific_match_confidence": 30
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 75,
+    "specific_match_confidence": 20
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": 7,
+    "topical_similarity": 85,
+    "specific_match_confidence": 80
+  },
+  {
+    "best_matched_rank": 9,
+    "topical_similarity": 75,
+    "specific_match_confidence": 30
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": 2,
+    "topical_similarity": 60,
+    "specific_match_confidence": 20
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": 2,
+    "topical_similarity": 60,
+    "specific_match_confidence": 30
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 80,
+    "specific_match_confidence": 20
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 75,
+    "specific_match_confidence": 25
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": 4,
+    "topical_similarity": 85,
+    "specific_match_confidence": 50
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": 7,
+    "topical_similarity": 85,
+    "specific_match_confidence": 50
+  },
+  {
+    "best_matched_rank": 5,
+    "topical_similarity": 85,
+    "specific_match_confidence": 50
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 75,
+    "specific_match_confidence": 20
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 85,
+    "specific_match_confidence": 50
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 80,
+    "specific_match_confidence": 20
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 85,
+    "specific_match_confidence": 20
+  },
+  {
+    "best_matched_rank": 2,
+    "topical_similarity": 75,
+    "specific_match_confidence": 50
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": 6,
+    "topical_similarity": 85,
+    "specific_match_confidence": 20
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 80,
+    "specific_match_confidence": 20
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": 2,
+    "topical_similarity": 75,
+    "specific_match_confidence": 20
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": 5,
+    "topical_similarity": 85,
+    "specific_match_confidence": 50
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": 5,
+    "topical_similarity": 75,
+    "specific_match_confidence": 20
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": 2,
+    "topical_similarity": 60,
+    "specific_match_confidence": 30
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": 2,
+    "topical_similarity": 75,
+    "specific_match_confidence": 20
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 80,
+    "specific_match_confidence": 20
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 75,
+    "specific_match_confidence": 20
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 75,
+    "specific_match_confidence": 25
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 85,
+    "specific_match_confidence": 80
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 80,
+    "specific_match_confidence": 20
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 75,
+    "specific_match_confidence": 20
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 85,
+    "specific_match_confidence": 50
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": 2,
+    "topical_similarity": 85,
+    "specific_match_confidence": 50
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": 6,
+    "topical_similarity": 90,
+    "specific_match_confidence": 50
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 85,
+    "specific_match_confidence": 30
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 85,
+    "specific_match_confidence": 50
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 85,
+    "specific_match_confidence": 20
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 85,
+    "specific_match_confidence": 20
+  },
+  {
+    "best_matched_rank": 8,
+    "topical_similarity": 90,
+    "specific_match_confidence": 70
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": 3,
+    "topical_similarity": 85,
+    "specific_match_confidence": 30
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 85,
+    "specific_match_confidence": 50
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 90,
+    "specific_match_confidence": 70
+  },
+  {
+    "best_matched_rank": 4,
+    "topical_similarity": 85,
+    "specific_match_confidence": 40
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 75,
+    "specific_match_confidence": 20
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 85,
+    "specific_match_confidence": 20
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 85,
+    "specific_match_confidence": 5
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 85,
+    "specific_match_confidence": 50
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 85,
+    "specific_match_confidence": 50
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 85,
+    "specific_match_confidence": 20
+  },
+  {
+    "best_matched_rank": 5,
+    "topical_similarity": 85,
+    "specific_match_confidence": 40
+  },
+  {
+    "best_matched_rank": 7,
+    "topical_similarity": 85,
+    "specific_match_confidence": 50
+  },
+  {
+    "best_matched_rank": 2,
+    "topical_similarity": 75,
+    "specific_match_confidence": 20
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 85,
+    "specific_match_confidence": 50
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": 3,
+    "topical_similarity": 75,
+    "specific_match_confidence": 25
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 85,
+    "specific_match_confidence": 20
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 90,
+    "specific_match_confidence": 50
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 90,
+    "specific_match_confidence": 50
+  },
+  {
+    "best_matched_rank": 3,
+    "topical_similarity": 75,
+    "specific_match_confidence": 30
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 60,
+    "specific_match_confidence": 20
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 85,
+    "specific_match_confidence": 40
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 75,
+    "specific_match_confidence": 20
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 90,
+    "specific_match_confidence": 50
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 85,
+    "specific_match_confidence": 20
+  },
+  {
+    "best_matched_rank": 6,
+    "topical_similarity": 75,
+    "specific_match_confidence": 30
+  },
+  {
+    "best_matched_rank": 7,
+    "topical_similarity": 75,
+    "specific_match_confidence": 20
+  },
+  {
+    "best_matched_rank": 2,
+    "topical_similarity": 85,
+    "specific_match_confidence": 70
+  },
+  {
+    "best_matched_rank": 6,
+    "topical_similarity": 85,
+    "specific_match_confidence": 50
+  },
+  {
+    "best_matched_rank": 9,
+    "topical_similarity": 85,
+    "specific_match_confidence": 50
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 80,
+    "specific_match_confidence": 50
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 85,
+    "specific_match_confidence": 80
+  },
+  {
+    "best_matched_rank": 5,
+    "topical_similarity": 85,
+    "specific_match_confidence": 40
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": 2,
+    "topical_similarity": 85,
+    "specific_match_confidence": 40
+  },
+  {
+    "best_matched_rank": 2,
+    "topical_similarity": 75,
+    "specific_match_confidence": 20
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 85,
+    "specific_match_confidence": 50
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 75,
+    "specific_match_confidence": 20
+  },
+  {
+    "best_matched_rank": 7,
+    "topical_similarity": 85,
+    "specific_match_confidence": 50
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 85,
+    "specific_match_confidence": 50
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 85,
+    "specific_match_confidence": 50
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 85,
+    "specific_match_confidence": 75
+  },
+  {
+    "best_matched_rank": 2,
+    "topical_similarity": 75,
+    "specific_match_confidence": 20
+  },
+  {
+    "best_matched_rank": 3,
+    "topical_similarity": 75,
+    "specific_match_confidence": 30
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": 5,
+    "topical_similarity": 85,
+    "specific_match_confidence": 40
+  },
+  {
+    "best_matched_rank": 2,
+    "topical_similarity": 85,
+    "specific_match_confidence": 30
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 85,
+    "specific_match_confidence": 30
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 85,
+    "specific_match_confidence": 50
+  },
+  {
+    "best_matched_rank": 9,
+    "topical_similarity": 85,
+    "specific_match_confidence": 50
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 85,
+    "specific_match_confidence": 20
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": 2,
+    "topical_similarity": 85,
+    "specific_match_confidence": 50
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": 6,
+    "topical_similarity": 85,
+    "specific_match_confidence": 60
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 85,
+    "specific_match_confidence": 20
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 85,
+    "specific_match_confidence": 50
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 80,
+    "specific_match_confidence": 60
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 85,
+    "specific_match_confidence": 20
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 85,
+    "specific_match_confidence": 60
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 90,
+    "specific_match_confidence": 50
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 85,
+    "specific_match_confidence": 20
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 90,
+    "specific_match_confidence": 50
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 85,
+    "specific_match_confidence": 50
+  },
+  {
+    "best_matched_rank": 5,
+    "topical_similarity": 75,
+    "specific_match_confidence": 30
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 85,
+    "specific_match_confidence": 70
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 85,
+    "specific_match_confidence": 50
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 85,
+    "specific_match_confidence": 80
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 85,
+    "specific_match_confidence": 50
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 80,
+    "specific_match_confidence": 30
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 85,
+    "specific_match_confidence": 50
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 85,
+    "specific_match_confidence": 20
+  },
+  {
+    "best_matched_rank": 6,
+    "topical_similarity": 75,
+    "specific_match_confidence": 30
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": 3,
+    "topical_similarity": 85,
+    "specific_match_confidence": 30
+  },
+  {
+    "best_matched_rank": 2,
+    "topical_similarity": 75,
+    "specific_match_confidence": 20
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 90,
+    "specific_match_confidence": 70
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 75,
+    "specific_match_confidence": 20
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 95,
+    "specific_match_confidence": 95
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 85,
+    "specific_match_confidence": 30
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 85,
+    "specific_match_confidence": 20
+  },
+  {
+    "best_matched_rank": 3,
+    "topical_similarity": 85,
+    "specific_match_confidence": 30
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 85,
+    "specific_match_confidence": 50
+  },
+  {
+    "best_matched_rank": 3,
+    "topical_similarity": 85,
+    "specific_match_confidence": 40
+  },
+  {
+    "best_matched_rank": 2,
+    "topical_similarity": 85,
+    "specific_match_confidence": 50
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 85,
+    "specific_match_confidence": 20
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 85,
+    "specific_match_confidence": 50
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 85,
+    "specific_match_confidence": 50
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 85,
+    "specific_match_confidence": 20
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 85,
+    "specific_match_confidence": 5
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 85,
+    "specific_match_confidence": 20
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 85,
+    "specific_match_confidence": 50
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 85,
+    "specific_match_confidence": 50
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 85,
+    "specific_match_confidence": 75
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 85,
+    "specific_match_confidence": 50
+  },
+  {
+    "best_matched_rank": 2,
+    "topical_similarity": 85,
+    "specific_match_confidence": 40
+  },
+  {
+    "best_matched_rank": 8,
+    "topical_similarity": 85,
+    "specific_match_confidence": 50
+  },
+  {
+    "best_matched_rank": 4,
+    "topical_similarity": 85,
+    "specific_match_confidence": 50
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": 4,
+    "topical_similarity": 75,
+    "specific_match_confidence": 20
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": 2,
+    "topical_similarity": 85,
+    "specific_match_confidence": 30
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 75,
+    "specific_match_confidence": 25
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": 6,
+    "topical_similarity": 85,
+    "specific_match_confidence": 70
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 80,
+    "specific_match_confidence": 20
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": 3,
+    "topical_similarity": 75,
+    "specific_match_confidence": 20
+  },
+  {
+    "best_matched_rank": 5,
+    "topical_similarity": 85,
+    "specific_match_confidence": 40
+  },
+  {
+    "best_matched_rank": 5,
+    "topical_similarity": 75,
+    "specific_match_confidence": 25
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": 7,
+    "topical_similarity": 85,
+    "specific_match_confidence": 40
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 85,
+    "specific_match_confidence": 30
+  },
+  {
+    "best_matched_rank": 2,
+    "topical_similarity": 75,
+    "specific_match_confidence": 20
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 85,
+    "specific_match_confidence": 20
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 85,
+    "specific_match_confidence": 50
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 85,
+    "specific_match_confidence": 30
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": 3,
+    "topical_similarity": 75,
+    "specific_match_confidence": 30
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": 3,
+    "topical_similarity": 75,
+    "specific_match_confidence": 25
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 80,
+    "specific_match_confidence": 20
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 80,
+    "specific_match_confidence": 20
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 85,
+    "specific_match_confidence": 20
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 85,
+    "specific_match_confidence": 30
+  },
+  {
+    "best_matched_rank": 2,
+    "topical_similarity": 75,
+    "specific_match_confidence": 25
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 80,
+    "specific_match_confidence": 60
+  },
+  {
+    "best_matched_rank": 3,
+    "topical_similarity": 85,
+    "specific_match_confidence": 20
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": 2,
+    "topical_similarity": 75,
+    "specific_match_confidence": 20
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 75,
+    "specific_match_confidence": 20
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": 2,
+    "topical_similarity": 60,
+    "specific_match_confidence": 30
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 80,
+    "specific_match_confidence": 20
+  },
+  {
+    "best_matched_rank": 7,
+    "topical_similarity": 85,
+    "specific_match_confidence": 70
+  },
+  {
+    "best_matched_rank": 6,
+    "topical_similarity": 85,
+    "specific_match_confidence": 40
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 60,
+    "specific_match_confidence": 20
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 60,
+    "specific_match_confidence": 20
+  },
+  {
+    "best_matched_rank": 6,
+    "topical_similarity": 85,
+    "specific_match_confidence": 60
+  },
+  {
+    "best_matched_rank": 2,
+    "topical_similarity": 75,
+    "specific_match_confidence": 30
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": 2,
+    "topical_similarity": 85,
+    "specific_match_confidence": 40
+  },
+  {
+    "best_matched_rank": 9,
+    "topical_similarity": 60,
+    "specific_match_confidence": 20
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 80,
+    "specific_match_confidence": 80
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 80,
+    "specific_match_confidence": 20
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": 6,
+    "topical_similarity": 85,
+    "specific_match_confidence": 50
+  },
+  {
+    "best_matched_rank": 7,
+    "topical_similarity": 75,
+    "specific_match_confidence": 50
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 85,
+    "specific_match_confidence": 20
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 85,
+    "specific_match_confidence": 20
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 75,
+    "specific_match_confidence": 20
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 85,
+    "specific_match_confidence": 20
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 75,
+    "specific_match_confidence": 20
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 60,
+    "specific_match_confidence": 20
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 85,
+    "specific_match_confidence": 20
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 75,
+    "specific_match_confidence": 20
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 85,
+    "specific_match_confidence": 20
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 85,
+    "specific_match_confidence": 20
+  },
+  {
+    "best_matched_rank": 4,
+    "topical_similarity": 75,
+    "specific_match_confidence": 40
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 85,
+    "specific_match_confidence": 20
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 85,
+    "specific_match_confidence": 50
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 75,
+    "specific_match_confidence": 20
+  },
+  {
+    "best_matched_rank": 4,
+    "topical_similarity": 85,
+    "specific_match_confidence": 20
+  },
+  {
+    "best_matched_rank": 4,
+    "topical_similarity": 85,
+    "specific_match_confidence": 50
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 85,
+    "specific_match_confidence": 50
+  },
+  {
+    "best_matched_rank": 7,
+    "topical_similarity": 85,
+    "specific_match_confidence": 20
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 80,
+    "specific_match_confidence": 60
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 85,
+    "specific_match_confidence": 70
+  },
+  {
+    "best_matched_rank": 8,
+    "topical_similarity": 85,
+    "specific_match_confidence": 60
+  },
+  {
+    "best_matched_rank": 2,
+    "topical_similarity": 85,
+    "specific_match_confidence": 70
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 85,
+    "specific_match_confidence": 50
+  },
+  {
+    "best_matched_rank": 4,
+    "topical_similarity": 75,
+    "specific_match_confidence": 20
+  },
+  {
+    "best_matched_rank": 2,
+    "topical_similarity": 85,
+    "specific_match_confidence": 40
+  },
+  {
+    "best_matched_rank": 4,
+    "topical_similarity": 85,
+    "specific_match_confidence": 70
+  },
+  {
+    "best_matched_rank": 2,
+    "topical_similarity": 60,
+    "specific_match_confidence": 30
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 85,
+    "specific_match_confidence": 60
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 75,
+    "specific_match_confidence": 20
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 85,
+    "specific_match_confidence": 50
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 85,
+    "specific_match_confidence": 30
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 85,
+    "specific_match_confidence": 70
+  },
+  {
+    "best_matched_rank": 3,
+    "topical_similarity": 85,
+    "specific_match_confidence": 60
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 85,
+    "specific_match_confidence": 30
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 85,
+    "specific_match_confidence": 80
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 85,
+    "specific_match_confidence": 20
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": 8,
+    "topical_similarity": 75,
+    "specific_match_confidence": 50
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 80,
+    "specific_match_confidence": 20
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 75,
+    "specific_match_confidence": 20
+  },
+  {
+    "best_matched_rank": 6,
+    "topical_similarity": 85,
+    "specific_match_confidence": 70
+  },
+  {
+    "best_matched_rank": 2,
+    "topical_similarity": 80,
+    "specific_match_confidence": 50
+  },
+  {
+    "best_matched_rank": 2,
+    "topical_similarity": 75,
+    "specific_match_confidence": 30
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 85,
+    "specific_match_confidence": 30
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": 2,
+    "topical_similarity": 60,
+    "specific_match_confidence": 30
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 75,
+    "specific_match_confidence": 20
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 80,
+    "specific_match_confidence": 20
+  },
+  {
+    "best_matched_rank": 4,
+    "topical_similarity": 85,
+    "specific_match_confidence": 60
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": 3,
+    "topical_similarity": 75,
+    "specific_match_confidence": 25
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": 2,
+    "topical_similarity": 60,
+    "specific_match_confidence": 20
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": 4,
+    "topical_similarity": 85,
+    "specific_match_confidence": 50
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 60,
+    "specific_match_confidence": 30
+  },
+  {
+    "best_matched_rank": 3,
+    "topical_similarity": 85,
+    "specific_match_confidence": 50
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 75,
+    "specific_match_confidence": 20
+  },
+  {
+    "best_matched_rank": 3,
+    "topical_similarity": 60,
+    "specific_match_confidence": 30
+  },
+  {
+    "best_matched_rank": 1,
+    "topical_similarity": 80,
+    "specific_match_confidence": 20
+  },
+  {
+    "best_matched_rank": 4,
+    "topical_similarity": 85,
+    "specific_match_confidence": 60
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  },
+  {
+    "best_matched_rank": null,
+    "topical_similarity": 0,
+    "specific_match_confidence": 0
+  }
+]

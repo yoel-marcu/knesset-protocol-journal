@@ -1,0 +1,136 @@
+\documentclass[11pt,a4paper]{article}
+\usepackage[margin=2.5cm]{geometry}
+\usepackage{booktabs}
+\usepackage{graphicx}
+\usepackage{xcolor}
+\usepackage{hyperref}
+\usepackage{enumitem}
+\usepackage{titlesec}
+\usepackage{fancyhdr}
+\usepackage{microtype}
+\usepackage{parskip}
+\usepackage{fontspec}
+\usepackage{polyglossia}
+\usepackage{amsmath}
+\usepackage{amssymb}
+
+\setmainlanguage{english}
+\setotherlanguage{hebrew}
+\newfontfamily\hebrewfont{DejaVu Sans}[Script=Hebrew]
+
+\hypersetup{colorlinks=true, linkcolor=blue, urlcolor=blue}
+
+\pagestyle{fancy}
+\fancyhf{}
+\rhead{Knesset Protocol Journal Project}
+\lhead{Step 9 --- Log Writing}
+\rfoot{Page \thepage}
+\lfoot{Tomer Morad, Or Israeli, Yoel Marko --- July 2026}
+
+\titleformat{\section}{\large\bfseries}{\thesection.}{0.6em}{}[\titlerule]
+\titleformat{\subsection}{\normalsize\bfseries}{\thesubsection}{0.6em}{}
+
+\begin{document}
+
+\begin{center}
+  {\LARGE \textbf{Context-Conditioned Log Writing}}\\[0.3em]
+  {\large Step 9 --- Task 3: incremental, RAG-style journal summarization}\\[0.6em]
+  {\normalsize Tomer Morad \quad Or Israeli \quad Yoel Marko}\\
+  {\normalsize July 2026}
+\end{center}
+
+\vspace{0.5em}
+
+\section{Objective}
+
+Task 3 (previously entirely unstarted): given the existing journal entry for a legislative
+matter and a new protocol segment about that same matter, generate \emph{only} the incremental
+contribution --- new developments, decisions, status changes --- not a full re-summary.
+Faithfulness is defined as chain-relative: judged against the summary chain built so far, not
+by re-deriving ground truth from every prior session's raw transcript.
+
+\section{Method}
+
+\textbf{Deliberately built on Step 7's gold chains}, not method (a)'s predicted linking output:
+method (a) is only 7.7\% precision at best-F1, so using its predicted chains here would conflate
+``is the summarizer bad'' with ``is the upstream linking bad.'' Same isolation precedent as
+Step 7 separating Task 1 from Task 2.
+
+For each of the 22 gold-recurring chains (36 total incremental-update instances): generate an
+opening entry from the first occurrence alone, then for each subsequent occurrence, generate an
+update given (a) the running journal built from the model's \emph{own} prior generations and
+(b) the new occurrence's text (capped at 700 words). Two generators compared:
+\texttt{dictalm2.0-instruct} (Hebrew-native) and \texttt{Qwen2.5-7B-Instruct}. Every entry is
+then scored by an independent judge (\texttt{Qwen2.5-3B-Instruct}, not used for generation, to
+avoid self-preference bias) on two 0--100 axes: \textbf{faithfulness} (grounded in the source
+text, no hallucination) and \textbf{novelty} (updates only --- genuinely new content vs.\ just
+restating the existing journal).
+
+\section{Results}
+
+\begin{center}
+\small
+\begin{tabular}{lrrrr}
+\toprule
+\textbf{Prompt version} & \textbf{dictalm2 F.} & \textbf{dictalm2 N.} & \textbf{qwen7b F.} & \textbf{qwen7b N.} \\
+\midrule
+\textbf{original (no few-shot)} & \textbf{80.7} & \textbf{18.1} & 63.4 & \textbf{10.1} \\
+v2 (real-corpus example) & 71.1 & 15.0 & 63.1 & 8.3 \\
+v3 (fictional example) & 53.6 & 5.0 & \textbf{69.2} & 5.3 \\
+\bottomrule
+\end{tabular}
+\\[0.3em]
+{\footnotesize F. = mean faithfulness, N. = mean novelty (updates only), both 0--100.}
+\end{center}
+
+All three configurations had 0/58 JSON parse errors. \textbf{Faithfulness}: dictalm2 (Hebrew-
+native) is consistently more grounded than qwen7b on the original prompt --- the opposite
+pattern from Step 8, where dictalm2 struggled with rigid JSON-schema output but this is
+free-text generation, playing to its strength.
+
+\textbf{Novelty is the central open problem}, and two attempted fixes made it \emph{worse}, not
+better. v2 added a worked BAD-vs-GOOD example built from real corpus content: 13/36 (36\%) of
+dictalm2's updates turned out to be \emph{literal verbatim copies} of the worked example's
+answer, regardless of the actual input. v3 rebuilt the example with fully fictional content plus
+an explicit anti-copying instruction, hypothesizing real-corpus content was the specific
+problem --- this made copying \emph{worse} (33/36 = 92\%), traced to an authoring bug (a literal
+placeholder left in the fictional example's source-text slot, giving the model nothing to reason
+from except the fixed answer). \textbf{More importantly, independent of that bug}: novelty
+declined monotonically for \emph{both} models across all three versions, including qwen7b, which
+had zero copying issue at all (10.1 $\to$ 8.3 $\to$ 5.3). Few-shot examples for this specific
+free-text incremental-diff task cause imitation of the example's \emph{content}, not just its
+\emph{style} --- the opposite of Step 8's classification task, where few-shot genuinely helped.
+
+\section{What Needs Improvement}
+
+\begin{enumerate}[leftmargin=1.4em]
+  \item \textbf{Recommendation: use the original (zero-few-shot) prompt.} It is best or
+        tied-best on every metric for dictalm2, and few-shot didn't meaningfully help qwen7b
+        either.
+  \item \textbf{Novelty scores are low across the board} (best case 18.1/100) --- even without
+        the few-shot regression, genuinely incremental (not recap-laden) log writing is unsolved.
+  \item \textbf{Untried next lever}: force a structured ``what changed'' bullet-list output
+        instead of free prose, which should be harder to blend a copied/recapped example into
+        than a flowing paragraph. Not attempted in this step.
+  \item \textbf{No human-written reference summaries exist} for this corpus, so faithfulness/
+        novelty are judged by an LLM against the same context the generator saw, not by
+        comparison to a gold summary. A small human-annotated reference set (even 5--10 chains)
+        would substantially strengthen this evaluation.
+  \item \textbf{Built on gold chains, not predicted linking} --- by design, so this step's
+        numbers say nothing about end-to-end pipeline quality (linking + log writing together).
+        That combined evaluation has not been run.
+\end{enumerate}
+
+\vspace{1.5em}
+\hrule
+\vspace{0.4em}
+\raggedright
+{\small
+\textbf{Artifacts (this step):} \newline
+\texttt{outputs/journal\_chains.json}, \texttt{outputs/generated\_logs\_*.json} (6 configs), \newline
+\texttt{outputs/faithfulness\_scores\_*.json}, \texttt{outputs/faithfulness\_summary.json} \newline
+\textbf{Code:} \texttt{code/build\_journal\_chains.py}, \texttt{code/generate\_logs.py},
+\texttt{code/eval\_faithfulness.py}.
+}
+
+\end{document}

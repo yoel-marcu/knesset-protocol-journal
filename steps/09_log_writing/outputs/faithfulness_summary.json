@@ -1,0 +1,41 @@
+{
+  "judge_model": "Qwen/Qwen2.5-3B-Instruct",
+  "results": {
+    "dictalm2": {
+      "n_entries": 58,
+      "mean_faithfulness": 80.7,
+      "mean_novelty_updates_only": 18.1,
+      "n_parse_errors": 0
+    },
+    "qwen7b": {
+      "n_entries": 58,
+      "mean_faithfulness": 63.4,
+      "mean_novelty_updates_only": 10.1,
+      "n_parse_errors": 0
+    },
+    "dictalm2_v2": {
+      "n_entries": 58,
+      "mean_faithfulness": 71.1,
+      "mean_novelty_updates_only": 15.0,
+      "n_parse_errors": 0
+    },
+    "qwen7b_v2": {
+      "n_entries": 58,
+      "mean_faithfulness": 63.1,
+      "mean_novelty_updates_only": 8.3,
+      "n_parse_errors": 0
+    },
+    "dictalm2_v3": {
+      "n_entries": 58,
+      "mean_faithfulness": 53.6,
+      "mean_novelty_updates_only": 5.0,
+      "n_parse_errors": 0
+    },
+    "qwen7b_v3": {
+      "n_entries": 58,
+      "mean_faithfulness": 69.2,
+      "mean_novelty_updates_only": 5.3,
+      "n_parse_errors": 0
+    }
+  }
+}

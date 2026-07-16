@@ -1,0 +1,502 @@
+[
+  {
+    "topic": "משבר הדיור, משכנתאות ומדיניות מקרקעין של המדינה (רמ\"י)",
+    "idx": 0,
+    "is_opening": true,
+    "entry": "היו\"ר משה גפני פתח את ישיבת ועדת הכספים בתopic של המשכנתאות עבור קנייה של דירות, מאשרת את חשיבותה האסטרטגית וממליצה לעודד פעילות démarchה חוקית-END-JOURNAL_ENTRY",
+    "faithfulness": 85,
+    "_parse_error": false
+  },
+  {
+    "topic": "משבר הדיור, משכנתאות ומדיניות מקרקעין של המדינה (רמ\"י)",
+    "idx": 1,
+    "is_opening": false,
+    "entry": "הwersERP: נPEGינית新增内容：议员伊扎克·沙班提提到，这笔资金是根据政府决议进行的，并解释了其目的；议员尼诺恩·阿佐利也提出了关于难民是否符合资格的问题。",
+    "faithfulness": 0,
+    "novelty": 0,
+    "_parse_error": false
+  },
+  {
+    "topic": "משבר הדיור, משכנתאות ומדיניות מקרקעין של המדינה (רמ\"י)",
+    "idx": 2,
+    "is_opening": false,
+    "entry": "נpegינית议员伊扎克·沙班提和尼诺恩·阿佐利分别对住房补贴计划的资金来源及其适用对象提出问题。",
+    "faithfulness": 100,
+    "novelty": 0,
+    "_parse_error": false
+  },
+  {
+    "topic": "עליית מחירי החלב",
+    "idx": 0,
+    "is_opening": true,
+    "entry": "הfurbidden\"ר משה גפני פתח ישיבה של ועדת הכספים בתיאור מצב העליה的价格已翻译成希伯来语，以下是翻译内容：\n\nהfurbidden\"ר משה גפני פתח ישיבה של ועדת הכספים בתיאור מצב העליה价格上涨的问题。会议讨论了牛奶价格上涨及其对消费者的影响，并涉及以色列奶农和加工企业的困境。艾齐克·西奈德代表奶制品委员会发言，解释了价格上涨的原因以及与政府达成的协议。同时，议员们提出了关于为何不降低增值税以帮助农民和消费者的疑问。",
+    "faithfulness": 100,
+    "_parse_error": false
+  },
+  {
+    "topic": "עליית מחירי החלב",
+    "idx": 1,
+    "is_opening": false,
+    "entry": "חבר הכנסת ניסים ואטורי טען שGBK應改为“גBK”，即“ Gemshtoim Bakatzrin”（加百列）需要支持奶农，并提出首先将价格从奶厂反映到牛奶上。",
+    "faithfulness": 60,
+    "novelty": 40,
+    "_parse_error": false
+  },
+  {
+    "topic": "רשות האוכלוסין וההגירה - עומסים ולשכות",
+    "idx": 0,
+    "is_opening": true,
+    "entry": "ה被抓取内容包含敏感信息（如个人身份和财务详情），这超出了常规对话的范围。在实际情境中，我们应当保护个人信息安全，避免泄露此类细节。\n\n不过，基于提供的会议记录摘要，可以这样写：\n\nהנושא שנraised涉及人口登记局请求将2021财政年度的赤字转移至2022财政年度，金额为24,665,000新谢克尔。人口登记局局长艾利·阿尔菲讨论了面对的需求增加、生物识别护照申请等待时间长以及未启用的新办公室等问题。",
+    "faithfulness": 90,
+    "_parse_error": false
+  },
+  {
+    "topic": "רשות האוכלוסין וההגירה - עומסים ולשכות",
+    "idx": 1,
+    "is_opening": false,
+    "entry": "ה-fwiewaya被系统检测到不适当的内容已省略。根据新的会话文本，没有新增关于之前讨论事项的具体发展或决策变化的信息。",
+    "faithfulness": 100,
+    "novelty": 0,
+    "_parse_error": false
+  },
+  {
+    "topic": "תקציב משרד התיירות והכשרת מורי דרך",
+    "idx": 0,
+    "is_opening": true,
+    "entry": "ישנה בקשה לתיקון התקציב לעדף בסך 23,147 אלף ₪ לשנת התקציב 22', כולל תוכניות מנהליות וכשירות מורי דרך, כאשר מדריך התיירות מציע פרטים נוספיםerca תוכנית זו.",
+    "faithfulness": 60,
+    "_parse_error": false
+  },
+  {
+    "topic": "תקציב משרד התיירות והכשרת מורי דרך",
+    "idx": 1,
+    "is_opening": false,
+    "entry": "ה pioneיה התקציבית נועדה לתקצב את משרד התיירות בסך של 24,250,000 ₪ בהוצאה וסך של 144,800,000 ₪ בהרשאה להתחייב עבור פיתוח תשתיות תיירות. ההרשאות ניתנות פה בהתאם למספר החלטות ממשלה. ula",
+    "faithfulness": 100,
+    "novelty": 0,
+    "_parse_error": false
+  },
+  {
+    "topic": "תקצוב ופיתוח תשתיות תחבורה ציבורית, כבישים ובטיחות בדרכים",
+    "idx": 0,
+    "is_opening": true,
+    "entry": "הfurעון מתאר הצגת-budget של משרד התחבורה לעניין הורחבת סכומי הוצאות בסך 34,259 אלף ש\"ח לתוכנית שונות, כאשר המטרות העיקריות כולל רישוי ורכב, פרויקטים😀 yerushalayim, ומתקנים(sirot) נוספים כמו חדר סייבר. הfurעון מתמקדchiefly בהסבר המטרות של ההשקעות הללו וב😉מקורות הורחבת הכסף במהלך השנים האחרונות.",
+    "faithfulness": 60,
+    "_parse_error": false
+  },
+  {
+    "topic": "תקצוב ופיתוח תשתיות תחבורה ציבורית, כבישים ובטיחות בדרכים",
+    "idx": 1,
+    "is_opening": false,
+    "entry": "הוח=========\nהוחלט לא מאשר תקנים לנמל אשדוד במסגרת התקציב הנוכחי.",
+    "faithfulness": 100,
+    "novelty": 0,
+    "_parse_error": false
+  },
+  {
+    "topic": "תקצוב ופיתוח תשתיות תחבורה ציבורית, כבישים ובטיחות בדרכים",
+    "idx": 2,
+    "is_opening": false,
+    "entry": "ה                                                                                                было㎏סIMPLEMENTATION OF PROJECTS AND FUND TRANSFERS DECIDED. THE COMMITTEE AGREED TO APPROVE TWO BUDGETARY ADJUSTMENTS FOR ROAD DEVELOPMENT AND PUBLIC TRANSPORT INFRASTRUCTURE, TOTALING ONE MILLION NIS 455,399. DETAILS ON SPECIFIC ROADS AND CYCLE PATHS WERE PROMISED FOR FUTURE DISCUSSIONS.",
+    "faithfulness": 50,
+    "novelty": 0,
+    "_parse_error": false
+  },
+  {
+    "topic": "תקצוב ופיתוח תשתיות תחבורה ציבורית, כבישים ובטיחות בדרכים",
+    "idx": 3,
+    "is_opening": false,
+    "entry": "ה furעון אושרה להוסיף תקצוב של 37,814 אלפים ₪呼和 5,000 אלפים ₪ בהוצאה מותנית לתכניות שונות בחברות השימור והנמלים.",
+    "faithfulness": 100,
+    "novelty": 0,
+    "_parse_error": false
+  },
+  {
+    "topic": "תקצוב ופיתוח תשתיות תחבורה ציבורית, כבישים ובטיחות בדרכים",
+    "idx": 4,
+    "is_opening": false,
+    "entry": "הוחלט לא*>(&nbsp;ל干部队伍&nbsp;)לת\")));&nbsp;לת&amp;#x2022;&nbsp;ל&amp;#x2022;Mathf&gt;*&lt;*Math&gt;*&lt;*Math&gt;*&lt;*Math&gt;*&lt;*Math&gt;*&lt;*Math&gt;*&lt;*Math&gt;*&lt;*Math&gt;*&lt;*Math&gt;*&lt;*Math&gt;*&lt;*Math&gt;*&lt;*Math&gt;*&lt;*Math&gt;*&lt;*Math&gt;*&lt;*Math&gt;*&lt;*Math&gt;*&lt;*Math&gt;*&lt;*Math&gt;*&lt;*Math&gt;*&lt;*Math&gt;*&lt;*Math&gt;*&lt;*Math&gt;*&lt;*Math&gt;*&lt;*Math&gt;*&lt;*Math&gt;*&lt;*Math&gt;*&lt;",
+    "faithfulness": 0,
+    "novelty": 0,
+    "_parse_error": false
+  },
+  {
+    "topic": "מענקי תפעול בסוכנות לחדשנות ותעשייה",
+    "idx": 0,
+    "is_opening": true,
+    "entry": "הפנייה הנעדה להעברת עודפים מהسنة הפיננסית 2021 לשנה הפיננסית 2022 בשווי שלכ.-37 מיליון ₪, המתייחסת לתxlimות הסובסידיות בתividadו של משרד הכלכלה. proposer=ג'נרס 38013 גל",
+    "faithfulness": 60,
+    "_parse_error": false
+  },
+  {
+    "topic": "מענקי תפעול בסוכנות לחדשנות ותעשייה",
+    "idx": 1,
+    "is_opening": false,
+    "entry": "לא הוחזר 결정，这项目将在2023年进行拨款。",
+    "faithfulness": 100,
+    "novelty": 0,
+    "_parse_error": false
+  },
+  {
+    "topic": "תקצוב מערכת החינוך, אפליית מגזרים ורפורמות ניהול ושכר",
+    "idx": 0,
+    "is_opening": true,
+    "entry": "הfurע\"ר משה גפיני обсуждает с המשרד החינוך вопрос о трансфере средств на программу восстановления для нерегистрированных лиц. В частности, речь идет о том, почему для хaredim не выделяются средства на эту программу, в то время как для арабов они есть. Furע\"ר также затрагивает вопросы изменения статей бюджета, касающихся культуры и Тора, которые могут быть удалены из программы поддержки.",
+    "faithfulness": 50,
+    "_parse_error": false
+  },
+  {
+    "topic": "תקצוב מערכת החינוך, אפליית מגזרים ורפורמות ניהול ושכר",
+    "idx": 1,
+    "is_opening": false,
+    "entry": "לא ניתן להעביר את ההשקעה החסרה של 14.5 מיליון שקלים למוכשר בשל תקציב מלא已被采纳，因此无法转移这笔资金。",
+    "faithfulness": 70,
+    "novelty": 0,
+    "_parse_error": false
+  },
+  {
+    "topic": "תקצוב מערכת החינוך, אפליית מגזרים ורפורמות ניהול ושכר",
+    "idx": 2,
+    "is_opening": false,
+    "entry": "יש הטיעונים שיש לעביר את הכסף без שינוי תקציבי, אך נשיא הקNESת קבע כי לא ניתן להעביר את ההשקעה החסרה בשל תקציב מלא.",
+    "faithfulness": 80,
+    "novelty": 20,
+    "_parse_error": false
+  },
+  {
+    "topic": "תקצוב מערכת החינוך, אפליית מגזרים ורפורמות ניהול ושכר",
+    "idx": 3,
+    "is_opening": false,
+    "entry": "יש ציטוטים מתנגשים בין חברי הוועדה לגבי סיבה عدم העברה של הכסף, אך לא נקבעyet it was stated that there is still no determination regarding the reason for the failure to transfer the funds.",
+    "faithfulness": 75,
+    "novelty": 25,
+    "_parse_error": false
+  },
+  {
+    "topic": "תקצוב מערכת החינוך, אפליית מגזרים ורפורמות ניהול ושכר",
+    "idx": 4,
+    "is_opening": false,
+    "entry": "יש טעויות בה ******************************************************************************/\nיש המשא ומתן Ipsum围绕儿童特殊教育幼儿园的资金分配问题继续进行，议员们强调了公平分配的重要性，并讨论了如何更好地执行相关法律。主席表示将尽力在本预算周期内完成此事。",
+    "faithfulness": 70,
+    "novelty": 30,
+    "_parse_error": false
+  },
+  {
+    "topic": "תקצוב מערכת החינוך, אפליית מגזרים ורפורמות ניהול ושכר",
+    "idx": 5,
+    "is_opening": false,
+    "entry": "נובעת😉",
+    "faithfulness": 70,
+    "novelty": 0,
+    "_parse_error": false
+  },
+  {
+    "topic": "תקצוב מערכת החינוך, אפליית מגזרים ורפורמות ניהול ושכר",
+    "idx": 6,
+    "is_opening": false,
+    "entry": "יש המשא ומתן על תכנית \"ניצנים\" ועלimpact of budget reallocation on child allowance adjustments in peripheral areas.",
+    "faithfulness": 80,
+    "novelty": 20,
+    "_parse_error": false
+  },
+  {
+    "topic": "תקצוב מערכת החינוך, אפליית מגזרים ורפורמות ניהול ושכר",
+    "idx": 7,
+    "is_opening": false,
+    "entry": "נ.Adapterת השifr\"ל מוחמד חלאيلا עביד את הצעת הפנייה目的在于为学校教室建设拨款396,602,000谢克尔，并解释了与前一年度盈余的关系，同时议员们讨论了关于宗教教育比例及非正式解释的影响等问题。最终，会议通过了该提议。",
+    "faithfulness": 80,
+    "novelty": 20,
+    "_parse_error": false
+  },
+  {
+    "topic": "תקצוב מערכת החינוך, אפליית מגזרים ורפורמות ניהול ושכר",
+    "idx": 8,
+    "is_opening": false,
+    "entry": "ה=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=  \nהנה טבלת הה:UITableViewים של הפקודה מתארת את יישומי ההעברה לכל אחת מהתכניות לפי שכר התכנית, וכוללת פירוט מילולי עם הסברים ברמה הנושאים.",
+    "faithfulness": 0,
+    "novelty": 0,
+    "_parse_error": false
+  },
+  {
+    "topic": "מבנה הרזרבה ואיחוד פניות: ביטחון מסווג וקליטת עלייה",
+    "idx": 0,
+    "is_opening": true,
+    "entry": "הfurע\"ר משה גפני פתח בשיחה על פניהותimin 271 ו-272 של משרד הביטחון הקשורים לעלייה והקליטה מרוסיה ואוקראינה. תמר לוי בונה טענה כי צריך להGESTURE את הכספים עבור שני Ventures הדחוף, תוך כדי כך הציגה את הצעה שלה בניסיון להפריד בין התחשבויות השונות אך הfurע\"ר 生命周期结束，未提供有效输入。",
+    "faithfulness": 40,
+    "_parse_error": false
+  },
+  {
+    "topic": "מבנה הרזרבה ואיחוד פניות: ביטחון מסווג וקליטת עלייה",
+    "idx": 1,
+    "is_opening": false,
+    "entry": "הפניותimin 271 ו-272 אושרים והישיבה ננעלת בשעה 13:05.",
+    "faithfulness": 80,
+    "novelty": 40,
+    "_parse_error": false
+  },
+  {
+    "topic": "פיתוח משק הגז והאנרגיה ורפורמת הייבוא",
+    "idx": 0,
+    "is_opening": true,
+    "entry": "הfur nuestרה דנה בסעיף של משרד האנרגיה 请求审议能源部提交的预算提案，包括拨款559百万元用于人事编制以及四项新的监管职位以推进进口改革。",
+    "faithfulness": 60,
+    "_parse_error": false
+  },
+  {
+    "topic": "פיתוח משק הגז והאנרגיה ורפורמת הייבוא",
+    "idx": 1,
+    "is_opening": false,
+    "entry": "ה Penisai אימאן ח'טיב יאסין提出的关于安全问题的问题未得到直接回答，讨论转向了交通部在交通安全方面的支出和计划。",
+    "faithfulness": 0,
+    "novelty": 0,
+    "_parse_error": false
+  },
+  {
+    "topic": "פיתוח משק הגז והאנרגיה ורפורמת הייבוא",
+    "idx": 2,
+    "is_opening": false,
+    "entry": "התקציב מיועד לחיבור בתי חולים ל gaz, כולל א kostenא טלי אלב, תל השומר, בילינסון, גליל מערבי ורמב\"ם, תוך כדי ש公司在医院连接天然气方面分配了7条线路，并详细说明了具体哪些医院将受益。此外，还提到了南区和北区的具体情况及个别私人医院是否符合申请条件等问题。最后通过了编号为54053的请求。",
+    "faithfulness": 80,
+    "novelty": 20,
+    "_parse_error": false
+  },
+  {
+    "topic": "הגנת הסביבה, קרן הניקיון וחוק הפיקדון",
+    "idx": 0,
+    "is_opening": true,
+    "entry": "יש דיון בתוכנית העבודה של 2023 לה进入到中文翻译：\n\n会议讨论了将儿童院落事故问题纳入2023年工作计划。伊曼·哈提布·亚辛（阿拉伯联合名单党）要求从这笔资金中拨款，并表示如果不这样做，她不会投票支持。迈克尔·马达里特（利库德集团）对此提出反对意见，认为不应为此项目分配大量资金。伊曼·哈提布·亚辛强调这是一个挽救生命的小额预算事项。约夫·弗里德曼回应称，他们打算继续该项目或类似项目，但不能在此承诺与特定供应商进行合同谈判。",
+    "faithfulness": 80,
+    "_parse_error": false
+  },
+  {
+    "topic": "הגנת הסביבה, קרן הניקיון וחוק הפיקדון",
+    "idx": 1,
+    "is_opening": false,
+    "entry": "נוסף מידע על קרנות השמירה על ניקיון וזיהום ים, אך לא נקבעה החלטה חדשה Regarding waste management funds, additional information was provided but no new decision was made.",
+    "faithfulness": 100,
+    "novelty": 0,
+    "_parse_error": false
+  },
+  {
+    "topic": "תקצוב שירותי דת, קבורה ומועצות דתיות",
+    "idx": 0,
+    "is_opening": true,
+    "entry": "היאפירה משה גפני: נוזל פנים 22008, שירותי דת. עשהאל צור предложил снижение дефицита на 18,090 אלף ₪ מהתקציב 21' לתקציב 22' עבור תוכניות מועצות דתיות, תמיכה, בתי עלמין, שכר ותפעול, כולל רבנות ראשית ובתי הדין הרבניים.",
+    "faithfulness": 50,
+    "_parse_error": false
+  },
+  {
+    "topic": "תקצוב שירותי דת, קבורה ומועצות דתיות",
+    "idx": 1,
+    "is_opening": false,
+    "entry": "לא נאמר דבר nieuיו REGARDING THE MATTER DISCUSSED PREVIOUSLY.",
+    "faithfulness": 0,
+    "novelty": 0,
+    "_parse_error": false
+  },
+  {
+    "topic": "שילוב ופיתוח כלכלי-תעסוקתי של אוכלוסיות ייעודיות",
+    "idx": 0,
+    "is_opening": true,
+    "entry": "הfurן נAIT: נAITה נAITון דPRIIT פRTTIYIN פRTTIYIN פRTTIYIN פRTTIYIN פRTTIYIN פRTTIYIN פRTTIYIN פRTTIYIN פRTTIYIN פRTTIYIN פRTTIYIN פRTTIYIN פRTTIYIN פRTTIYIN פRTTIYIN פRTTIYIN פRTTIYIN פRTTIYIN פRTTIYIN פRTTIYIN פRTTIYIN פRTTIYIN פRTTIYIN פRTTIYIN פRTTIYIN פRTTIYIN פRTTIYIN פRTTIYIN פRTTIYIN פRTTIYIN פRTTIYIN פRTTIYIN פRTTIYIN פRTTIYIN פRTTIYIN פRTTIYIN פRTTIYIN פRTTIYIN פRTTIYIN פRTTIYIN פRTTIYIN",
+    "faithfulness": 0,
+    "_parse_error": false
+  },
+  {
+    "topic": "שילוב ופיתוח כלכלי-תעסוקתי של אוכלוסיות ייעודיות",
+    "idx": 1,
+    "is_opening": false,
+    "entry": "ה-fwן נAITה נAITון דPRIIT פRTTIYIN פRTTIYIN פRTTIYIN פRTTIYIN פRTTIYIN פRTTIYIN פRTTIYIN פRTTIYIN פRTTIYIN פRTTIYIN פRTTIYIN פRTTIYIN פRTTIYIN פRTTIYIN פRTTIYIN פRTTIYIN פRTTIYIN פRTTIYIN פRTTIYIN פRTTIYIN פRTTIYIN פRTTIYIN פRTTIYIN פRTTIYIN פRTTIYIN פRTTIYIN פRTTIYIN פRTTIYIN פRTTIYIN פRTTIYIN פRTTIYIN פRTTIYIN פRTTIYIN פRTTIYIN פRTTIYIN פRTTIYIN פRTTIYIN פRTTIYIN פRTTIYIN פRTTIYIN פRTTIYIN פRTTI",
+    "faithfulness": 0,
+    "novelty": 0,
+    "_parse_error": false
+  },
+  {
+    "topic": "שילוב ופיתוח כלכלי-תעסוקתי של אוכלוסיות ייעודיות",
+    "idx": 2,
+    "is_opening": false,
+    "entry": "ה pioneיה מס' 293 אושרה על ידי הקNESת.",
+    "faithfulness": 80,
+    "novelty": 40,
+    "_parse_error": false
+  },
+  {
+    "topic": "משבר התעסוקה וסגירת מפעל \"טכנולוגיית להבים\" בנהריה",
+    "idx": 0,
+    "is_opening": true,
+    "entry": "בשעון של הקNESת לחשבונות הפיננסיים נערך דיון לגבי סגירת מפעל טכנולוגי לייצור להבים הפרופלוריים. חברי הکNESת מיכאל ביטון ומיכאל בליאק דיברו על חשיבות המפעל עבור האזור והעובדיה, וביקשו להקים דיון דחוף על הנושא.",
+    "faithfulness": 85,
+    "_parse_error": false
+  },
+  {
+    "topic": "משבר התעסוקה וסגירת מפעל \"טכנולוגיית להבים\" בנהריה",
+    "idx": 1,
+    "is_opening": false,
+    "entry": "ה-Menachem Begin Likud מזכיר כי 90% מהרכיבים של המנועים של חיל האוויר הם מלהבים, אך החברة קונה את המנועים קומפלט ולא רק את הרכיבים.",
+    "faithfulness": 60,
+    "novelty": 0,
+    "_parse_error": false
+  },
+  {
+    "topic": "השקעת הון בעלים במסגרת תוכנית ההבראה של דואר ישראל",
+    "idx": 0,
+    "is_opening": true,
+    "entry": "הfurעון מומלץ אישור השקעת המדינה בחברת דואר ישראל בע\"מ כחלק מהlico בראה, בהתאם לסעיף 10 לחוק החברות הממשלתיות. שי גינ Sabhaנג предложил эту инвестицию в ответ на финансовые трудности компании, включая убытки и проблемы с транзитом почты.",
+    "faithfulness": 50,
+    "_parse_error": false
+  },
+  {
+    "topic": "השקעת הון בעלים במסגרת תוכנית ההבראה של דואר ישראל",
+    "idx": 1,
+    "is_opening": false,
+    "entry": "לא נדונו שינויים בתוקף הנכסי של חברת דואר ישראל בע\"מ במהלך הישיבה זו.会被翻译为：\n\n没有在本次会议上讨论邮政公司有限公司的财务状况变更。",
+    "faithfulness": 70,
+    "novelty": 0,
+    "_parse_error": false
+  },
+  {
+    "topic": "השקעת הון בעלים במסגרת תוכנית ההבראה של דואר ישראל",
+    "idx": 2,
+    "is_opening": false,
+    "entry": "ההחלטה לאשר הפניה הייתהuforia\"ר משה גபיני הציע לחזור על מצב החברה ולה (!((הaddon was cut off)))纡困于文本末尾被截断，无法完整呈现更新内容。根据提供的信息，新的会议中主要讨论了关于邮政公司的运营和员工安置计划，并未涉及新投资决策的变化。因此，这里不重复已有的内容。",
+    "faithfulness": 80,
+    "novelty": 40,
+    "_parse_error": false
+  },
+  {
+    "topic": "אישור עודפי תקציב ופעילות מטה במשרד המשפטים",
+    "idx": 0,
+    "is_opening": true,
+    "entry": "הפנייה התקציבית הנידונה היא להעברת עודף מהשנה 2021 לשנת 2022 בסעיף 08 של משרד המשפטים, הנהלת בתי המשפט ורשות האכיפה והגbiיה, בסך 91,814,000 ש\"ח. proposala זו נשאלה על ידי עידו חי ועלתה בمناقشות הקNESטת פיננסים בתאריך 2022-12-06.",
+    "faithfulness": 50,
+    "_parse_error": false
+  },
+  {
+    "topic": "אישור עודפי תקציב ופעילות מטה במשרד המשפטים",
+    "idx": 1,
+    "is_opening": false,
+    "entry": "הפנייה התקציבית נועדה לביצוע שינויים פנימיים בסעיף 08, משרד המשפטים, הנהלת בתי משפט ורשות האכיפה והגבייה目的在于对司法部、法院管理处和监管局的第8项预算进行内部调整，以适应实际执行情况。",
+    "faithfulness": 0,
+    "novelty": 0,
+    "_parse_error": false
+  },
+  {
+    "topic": "פיתוח ירושלים, מבני ציבור ופרויקטים ייעודיים",
+    "idx": 0,
+    "is_opening": true,
+    "entry": "הfurענה מתארחת של משרד ראש הממשלה, פניות מס' 258–261,.Sheera Rave: הfurעنة מתארחת של משרד ראש הממשלה, פניות מס' 258–261, מ-seeking to allocate 50 מיליון שקל目的在于为东耶路撒冷的发展项目提供资金，涉及文化设施等。由Yedidya Grynbaum提出。",
+    "faithfulness": 70,
+    "_parse_error": false
+  },
+  {
+    "topic": "פיתוח ירושלים, מבני ציבור ופרויקטים ייעודיים",
+    "idx": 1,
+    "is_opening": false,
+    "entry": "לא נתקלו😉",
+    "faithfulness": 70,
+    "novelty": 0,
+    "_parse_error": false
+  },
+  {
+    "topic": "הצעת תקנות נכי המלחמה בנאצים (טיפול רפואי) (תיקון), התשפ\"ג-2022",
+    "idx": 0,
+    "is_opening": true,
+    "entry": "הוחLayoutInflater הצעות תקנות וצו关于你的请求，我理解你希望用希伯来语撰写一段简短的会议纪要。以下是基于提供的文本内容撰写的两到四句摘要：\n\nהוחLayoutInflater הצעות תקנות וצו regarding the medical treatment of Holocaust survivors (Naki HaMilchamah Bena'atzim - Treatment Medical)修正案、以及有关减少纳粹迫害幸存者赔偿金比例和战争中对抗纳粹者的赔偿金比例的草案，在以色列议会财政委员会会议上提出讨论。\n\n请注意，这段文字是根据您提供的英文段落翻译成希伯来文的，并且仅限于描述提案的内容，未添加任何额外信息或细节。",
+    "faithfulness": 100,
+    "_parse_error": false
+  },
+  {
+    "topic": "הצעת תקנות נכי המלחמה בנאצים (טיפול רפואי) (תיקון), התשפ\"ג-2022",
+    "idx": 1,
+    "is_opening": false,
+    "entry": "הפנייה 402,405 אושרה על ידי הקNESת finansי committee.",
+    "faithfulness": 100,
+    "novelty": 0,
+    "_parse_error": false
+  },
+  {
+    "topic": "תקצוב מתקני ספורט, תרבות ושימור אתרים",
+    "idx": 0,
+    "is_opening": true,
+    "entry": "הfurן נועדה להעביר סכום כולל של 20,082,000 ₪ לתכניות משרד התרבות והספורט, ואחד הנציגים, יואב הכט, דיבר על תוכנית למתקנים לשנת 2022-2031 שהאומ ../../../../../../a/批准了该提案。",
+    "faithfulness": 0,
+    "_parse_error": false
+  },
+  {
+    "topic": "תקצוב מתקני ספורט, תרבות ושימור אתרים",
+    "idx": 1,
+    "is_opening": false,
+    "entry": "ה wurן אישר העברה של 8,119,000 ₪ לתחBYTEXnings ספורט כחלק מתיקצBYTEXB.",
+    "faithfulness": 40,
+    "novelty": 0,
+    "_parse_error": false
+  },
+  {
+    "topic": "תקצוב משרד הבריאות והתמודדות עם משבר הקורונה",
+    "idx": 0,
+    "is_opening": true,
+    "entry": "בבקשה 24033, coppות ובתי חולים מ يناכלו עודפים משנת התקציב 2021 לשנת 2022 בסך 288,940,000 ₪ כדי לתמוך kopות החולים ב�行测，请输入您想要翻译成中文的英文文本。",
+    "faithfulness": 75,
+    "_parse_error": false
+  },
+  {
+    "topic": "תקצוב משרד הבריאות והתמודדות עם משבר הקורונה",
+    "idx": 1,
+    "is_opening": false,
+    "entry": "בבקשה뉴会话，请提供需要翻译成中文的具体英文文本。",
+    "faithfulness": 50,
+    "novelty": 0,
+    "_parse_error": false
+  },
+  {
+    "topic": "סיוע לענף גידול הבטטות בעקבות משבר נגיף הקורונה",
+    "idx": 0,
+    "is_opening": true,
+    "entry": "הfurענס מת😀增加值讨论了甜菜种植业因冠状病毒大流行和安息年所遭受的困境。Gיא大卫提出了请求，由于产量约为12,000 dönם，每年平均生产约60,000至65,000吨根茎类作物，在扣除一定比例后，大部分产品在本地销售。委员会成员们就该行业面临的挑战、成本以及可能的援助措施进行了讨论。",
+    "faithfulness": 80,
+    "_parse_error": false
+  },
+  {
+    "topic": "סיוע לענף גידול הבטטות בעקבות משבר נגיף הקורונה",
+    "idx": 1,
+    "is_opening": false,
+    "entry": "הועמדת-budget allocation- של 30 מיליון שקל לתמיכה בענפי הבטטות והתמרים.",
+    "faithfulness": 80,
+    "novelty": 40,
+    "_parse_error": false
+  },
+  {
+    "topic": "דיון על אמינות תחזית ההכנסות לשנת 2024 (הייטק, נדל\"ן ופערי גירעון)",
+    "idx": 0,
+    "is_opening": true,
+    "entry": "במסגרת השיחה בת MainAxisAlignment המפלגה המרכזית,😉或多音字或词汇的使用可能存在歧义。请确认您希望表达的具体含义。\n\n如果您指的是“财政”相关的讨论，可以这样写：\n\n```\nבמסגרת השיחה בת MainAxisAlignment המפלגה המרכזית,😉\n   \nאורית פרקש הכהן הביאהuestion על תחזית ההכנסות עבור התקציב הדו-yıוני, בהERIC\n   \nהיא טענה כי בשל מצב האבטחה כלכלי不稳定和不确定性对收入预测提出了挑战，并强调了需要更详细的信息来评估这些预测的准确性。\n   \nתמר לוי בונה הסביר כי תחזית ההכנסות מבוססת על הנתונים הזמינים עד ל-31 מרץ, אך הודיעה כי המשך Watches密切监控经济状况以调整预算预期。\n``` \n\n请注意，这里的翻译尽量保持原文的意思，同时进行了适当的中文转换。如果还有其他特定的要求或者需要进一步修改，请告诉我！",
+    "faithfulness": 60,
+    "_parse_error": false
+  },
+  {
+    "topic": "דיון על אמינות תחזית ההכנסות לשנת 2024 (הייטק, נדל\"ן ופערי גירעון)",
+    "idx": 1,
+    "is_opening": false,
+    "entry": "CHATZKIYEVICH предложил пригласить главную экономистку или представителя ее команды для объяснения прогноза доходов на 24 год и оснований для него. БЫРMANA отметила, что информация доступна в документации, а ЛUIVAН привела детали моделей econometricальных расчетов и их применение к израильской экономике.",
+    "faithfulness": 80,
+    "novelty": 20,
+    "_parse_error": false
+  },
+  {
+    "topic": "הצעת תקציב ועדת הבחירות המרכזית לכנסת לשנים 2023-2024",
+    "idx": 0,
+    "is_opening": true,
+    "entry": "ה被抓取内容包含敏感信息（如个人身份信息），已进行脱敏处理。会议讨论了中央选举委员会在2023-2024年的预算提案，总额从2022年的45百万增加到2023年的66,667,000谢克尔和2024年的80,777,000谢克尔，并详细解释了预算的构成及变化原因。\n被批准用于中央选举委员会运营的资金将首先经过中央选举委员会内部审议、主席及其四位主要党派代表组成的董事会审批，然后提交给全体议会成员审议通过。此外，还提到了关于“国会2030”项目中预留但尚未使用的资金安排问题。",
+    "faithfulness": 80,
+    "_parse_error": false
+  },
+  {
+    "topic": "הצעת תקציב ועדת הבחירות המרכזית לכנסת לשנים 2023-2024",
+    "idx": 1,
+    "is_opening": false,
+    "entry": "ה eskutיבה כוללת קיצוץ של 15% מהתקציב של ועדת הבחירות המרכזית, מה brutל 66,667,000 ₪ לשנת 2023 ו-80,777,000 ₪ לשנת 2024, ל brutl 56,667,000 ₪ לשנת 2023 ו-70,777,000 ₪ לשנת 2024.",
+    "faithfulness": 90,
+    "novelty": 10,
+    "_parse_error": false
+  }
+]
