@@ -1,0 +1,78 @@
+{
+  "geometry_only|abtt1|centroid|margin": {
+    "best_f1": {
+      "theta_margin": 0.132,
+      "precision": 0.1232,
+      "recall": 0.5312,
+      "f1": 0.2,
+      "false_merge_rate": 0.2469,
+      "TP": 17,
+      "FP": 121,
+      "FN": 15,
+      "TN": 369
+    },
+    "best_f1_fmr<=5%": {
+      "theta_margin": 0.318,
+      "precision": 0.0769,
+      "recall": 0.0571,
+      "f1": 0.0656,
+      "false_merge_rate": 0.0493,
+      "TP": 2,
+      "FP": 24,
+      "FN": 33,
+      "TN": 463
+    }
+  },
+  "additive|abtt1|dictalm2": {
+    "best_f1": {
+      "beta": 0.7,
+      "margin": 0.22,
+      "precision": 0.1733,
+      "recall": 0.3939,
+      "f1": 0.2407,
+      "false_merge_rate": 0.1268,
+      "TP": 13,
+      "FP": 62,
+      "FN": 20,
+      "TN": 427
+    },
+    "best_f1_fmr<=5%": {
+      "beta": 0.0,
+      "margin": 0.32,
+      "precision": 0.08,
+      "recall": 0.0571,
+      "f1": 0.0667,
+      "false_merge_rate": 0.0472,
+      "TP": 2,
+      "FP": 23,
+      "FN": 33,
+      "TN": 464
+    }
+  },
+  "gate|abtt1|dictalm2": {
+    "best_f1": {
+      "margin": 0.12,
+      "gate": 0.04,
+      "precision": 0.1739,
+      "recall": 0.2353,
+      "f1": 0.2,
+      "false_merge_rate": 0.0779,
+      "TP": 8,
+      "FP": 38,
+      "FN": 26,
+      "TN": 450
+    },
+    "best_f1_fmr<=5%": {
+      "margin": 0.08,
+      "gate": 0.14,
+      "precision": 0.1481,
+      "recall": 0.1143,
+      "f1": 0.129,
+      "false_merge_rate": 0.0472,
+      "TP": 4,
+      "FP": 23,
+      "FN": 31,
+      "TN": 464
+    }
+  }
+}

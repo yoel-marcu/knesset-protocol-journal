@@ -1,0 +1,42 @@
+{
+  "honest_transform": {
+    "streaming_honest": {
+      "theta_margin": 0.138,
+      "precision": 0.058,
+      "recall": 0.25,
+      "f1": 0.0941,
+      "false_merge_rate": 0.2653,
+      "TP": 8,
+      "FP": 130,
+      "FN": 24,
+      "TN": 360
+    },
+    "batch_transform": {
+      "theta_margin": 0.21,
+      "precision": 0.1724,
+      "recall": 0.4545,
+      "f1": 0.25,
+      "false_merge_rate": 0.1472,
+      "TP": 15,
+      "FP": 72,
+      "FN": 18,
+      "TN": 417
+    }
+  },
+  "feedback_pairwise_f1": {
+    "baseline_first_threshold": {
+      "precision": 0.0456,
+      "recall": 0.2027,
+      "f1": 0.0744,
+      "theta": 0.565,
+      "n_clusters": 367
+    },
+    "winner_whiten_median_margin": {
+      "precision": 0.1667,
+      "recall": 0.1622,
+      "f1": 0.1644,
+      "theta": 0.34,
+      "n_clusters": 478
+    }
+  }
+}
