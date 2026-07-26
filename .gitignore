@@ -39,3 +39,8 @@ exercises/
 
 # Teammate (Tomer) separate pipeline — his own work/repo, not ours to commit
 NLP_ADV/
+
+# Step 12 large regenerable intermediates (segment text dumps)
+steps/12_joint_pipeline/outputs/canon_input.json
+steps/12_joint_pipeline/outputs/segments_*.json
+steps/12_joint_pipeline/outputs/canonical_gold.json
