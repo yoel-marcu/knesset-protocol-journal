@@ -36,3 +36,6 @@ exercises/
 
 # Intermediate backup snapshots (segmentation.json.bak etc.)
 *.bak
+
+# Teammate (Tomer) separate pipeline — his own work/repo, not ours to commit
+NLP_ADV/
