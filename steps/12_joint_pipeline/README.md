@@ -38,8 +38,8 @@ cluster filesystem** (separate networks), but there are two clean bridges:
    - Cluster: `python code/export_for_canon.py` → `outputs/canon_input.json` (523 gold
      segments, raw text capped at 3500 words; the gold topic is *not* included so it
      can't leak into the canonical).
-   - Upload `canon_input.json` to your Drive at
-     `MyDrive/NLP ADVANCED/FinalProject/canon_input.json`.
+   - Upload `canon_input.json` to your Drive at `MyDrive/knesset_canon/canon_input.json`
+     (this folder is in *your* My Drive; the notebook points there).
    - Open `notebooks/canonicalize_gold.ipynb` in Colab (File → Open → GitHub, or from
      Drive), set an `HF_TOKEN` secret, run. It loads Gemma-4-31B-4bit and applies
      **Tomer's exact canonicalization prompt**. **Resumable** — re-run after any Colab
