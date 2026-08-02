@@ -1,0 +1,130 @@
+\documentclass[11pt,a4paper]{article}
+\usepackage[margin=2.4cm]{geometry}
+\usepackage{booktabs}
+\usepackage{graphicx}
+\usepackage{xcolor}
+\usepackage{hyperref}
+\usepackage{enumitem}
+\usepackage{titlesec}
+\usepackage{fancyhdr}
+\usepackage{microtype}
+\usepackage{parskip}
+\usepackage{fontspec}
+\usepackage{polyglossia}
+\usepackage{amsmath}
+\usepackage{amssymb}
+
+\setmainlanguage{english}
+\setotherlanguage{hebrew}
+\newfontfamily\hebrewfont{DejaVu Sans}[Script=Hebrew]
+
+\hypersetup{colorlinks=true, linkcolor=blue, urlcolor=blue}
+
+\pagestyle{fancy}
+\fancyhf{}
+\rhead{Knesset Protocol Journal Project}
+\lhead{Step 11 --- Canonicalization Cross-Evaluation}
+\rfoot{Page \thepage}
+\lfoot{Tomer Morad, Or Israeli, Yoel Marko --- July 2026}
+
+\titleformat{\section}{\large\bfseries}{\thesection.}{0.6em}{}[\titlerule]
+\titleformat{\subsection}{\normalsize\bfseries}{\thesubsection}{0.6em}{}
+
+\begin{document}
+
+\begin{center}
+  {\LARGE \textbf{Does Canonicalization Help Linking?}}\\[0.3em]
+  {\large Step 11 --- a first, imperfect look, on borrowed data}\\[0.6em]
+  {\normalsize Tomer Morad \quad Or Israeli \quad Yoel Marko}\\
+  {\normalsize July 2026}
+\end{center}
+
+\vspace{0.4em}
+
+\section{The question}
+
+Tomer's separate pipeline (\texttt{NLP\_ADV}) rewrites each raw, multi-speaker protocol
+segment into a neutral, third-person Hebrew paraphrase --- \textbf{canonicalization} --- using
+Gemma-4-31B. The hypothesis: a canonical rewrite should be a cleaner input to an embedding
+model than the raw transcript, which is full of speaker turns, procedural boilerplate,
+and stylistic noise that has nothing to do with the underlying matter. If true, this should
+directly improve Step 10's streaming linking, which lives or dies on embedding quality.
+
+This step is a \textbf{first, quick cross-evaluation} run on whatever data existed at the
+time: 19 protocols that Tomer had already segmented and canonicalized independently of our
+own gold set. It answers the question provisionally, with two caveats spelled out below,
+and sets up Step 12's definitive re-run on our full 523-segment gold benchmark.
+
+\section{Setup}
+
+19 early protocols (Nov--Dec 2022), 656 segments (443 substantive, 213 procedural), each
+with both a raw reconstruction (from \texttt{utterance\_ids}) and Tomer's canonical rewrite.
+Tomer's LLM-produced \texttt{subject} field is used as a pseudo-topic label for grouping
+recurring subjects. Both text variants are embedded with the same
+\texttt{multilingual-e5-large} model used throughout Steps 5--10.
+
+\section{Results}
+
+\subsection{Intrinsic topic separation}
+
+Same-subject vs.\ different-subject pair AUC (higher = better-separated embedding space):
+
+\begin{center}
+\begin{tabular}{lcc}
+\toprule
+variant & all pairs & substantive only \\
+\midrule
+raw & 0.901 & 0.947 \\
+\textbf{canonical} & \textbf{0.956} & \textbf{0.986} \\
+\bottomrule
+\end{tabular}
+\end{center}
+
+Canonicalization clearly sharpens topic structure in the embedding space --- substantive-pair
+AUC rises from 0.947 to 0.986, the same intrinsic metric used to validate embedding choices
+in Steps 3 and 4. Taken alone, this supports Tomer's hypothesis strongly.
+
+\subsection{Downstream streaming linking}
+
+Running our own Step 10 streaming-linking method (recurring subjects as gold) over both
+variants:
+
+\begin{center}
+\begin{tabular}{lccc}
+\toprule
+variant & best F1 & precision & recall \\
+\midrule
+raw & \textbf{0.114} & 0.073 & \textbf{0.261} \\
+canonical & 0.095 & \textbf{0.154} & 0.069 \\
+\bottomrule
+\end{tabular}
+\end{center}
+
+Here the picture is \textbf{mixed}. Canonical text roughly doubles precision (0.073
+$\rightarrow$ 0.154) --- the right direction under the project's asymmetric cost rule, where
+a false merge is worse than a missed link --- but recall collapses, and F1 is lower than raw.
+The intrinsic AUC gain does not translate cleanly into a downstream linking win.
+
+\section{Two reasons not to trust this yet}
+
+\begin{enumerate}[leftmargin=1.4em]
+\item \textbf{Circularity.} The pseudo-topic \texttt{subject} label used to define
+  ``same subject'' is produced by \emph{the same LLM pass} that produces the canonical
+  text. Canonical embeddings therefore have a built-in, unearned advantage on any metric
+  derived from that label --- the AUC gain in particular should be read as optimistic.
+\item \textbf{Scale and label noise.} 19 protocols yield only 29 exact-subject-match
+  repeats. Near-duplicate subjects that are really the same underlying matter, but happened
+  to get slightly different LLM-generated titles, are counted as \emph{different} --- this
+  undercounts true recurrence and makes the linking F1 numbers unstable on this small a
+  sample.
+\end{enumerate}
+
+\section{What this motivated}
+
+Both caveats point to the same fix: canonicalize \emph{our own} 523 gold segments (Step 7),
+where the gold recurrence labels come from independent human annotation, not from the
+canonicalizer itself, and where the benchmark has real chains up to length 9 rather than 29
+scattered pairs. That re-run --- the clean, definitive version of this experiment --- is
+Step 12, and Section~4 of the Step 12 report supersedes the linking numbers above.
+
+\end{document}

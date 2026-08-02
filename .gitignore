@@ -40,7 +40,18 @@ exercises/
 # Teammate (Tomer) separate pipeline — his own work/repo, not ours to commit
 NLP_ADV/
 
-# Step 12 large regenerable intermediates (segment text dumps)
+# Step 12 large regenerable intermediates (segment text dumps + canonicalization
+# merge sources — all subsumed into the tracked canonical_gold_*.json summary /
+# journal_*.json outputs, no need to version the intermediate raw-text dumps)
 steps/12_joint_pipeline/outputs/canon_input.json
 steps/12_joint_pipeline/outputs/segments_*.json
 steps/12_joint_pipeline/outputs/canonical_gold.json
+steps/12_joint_pipeline/outputs/canon_todo.json
+steps/12_joint_pipeline/outputs/canon_remaining_for_team.json
+steps/12_joint_pipeline/outputs/canonical_gold_claude_partial.json
+steps/12_joint_pipeline/outputs/canonical_gold_salvaged.json
+steps/12_joint_pipeline/outputs/canonical_gold_team_regexfix.json
+steps/12_joint_pipeline/outputs/canonical_gold_team_salvaged.json
+steps/12_joint_pipeline/outputs/handoff_canon_batch/segments_to_canonicalize.json
+canonical_part_A.json
+canonical_part_B.json
